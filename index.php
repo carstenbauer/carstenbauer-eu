@@ -1,10 +1,3 @@
-<?php
-  $bg = array('cb.jpg', 'cb_1.jpg', 'cb_2.jpg', 'cb_3.jpg', 'cb_4.jpg', 'cb_6.jpg', 'cb_7.jpg', 'cb_8.jpg', 'cb_9.jpg' ); // array of filenames of background images
-
-  $i = rand(0, count($bg)-1); // generate random number size of the array
-  $selectedBg = "$bg[$i]"; // set variable equal to which random filename was chosen
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -104,16 +97,13 @@
     </nav>
 
     <!-- Intro Header -->
-    <header class="intro" style="background: url(../img/cb.jpg) no-repeat bottom center scroll;">
+    <header class="intro">
         <div class="intro-body">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-4"> <!-- col-md-8 col-md-offset-2 !-->
-                        <h1 class="brand-heading">GA, USA</h1>
-                        <p class="intro-text">Providence Canyon State Park</p>
-                        <!--<a href="#about" class="btn btn-circle page-scroll">
-                            <i class="fa fa-angle-double-down animated"></i>
-                        </a> !-->
+                    <div class="col-md-offset-4 col-md-7"> <!-- col-md-8 col-md-offset-2 !-->
+                        <h1 class="brand-heading">Israel</h1>
+                        <p class="intro-text">Ein Avdat, Negev Desert</p>
                     </div>
                 </div>
             </div>
@@ -267,8 +257,8 @@ Universität zu Köln<br>
 Zülpicher Straße 77 <br>
 50937 Köln<br><br>
 
-Office 110 <br>
-Phone: 0221-470-4208 <br>
+Office 2.05 Neubau TP <br>
+Phone: 0221-470-1053 <br>
 Details: <a href="http://goo.gl/YxBVMz">goo.gl/YxBVMz</a></p>
             </div>
 			<div class="col-lg-4 text-center">
@@ -289,7 +279,7 @@ Details: <a href="http://goethe.link/po">goethe.link/po</a></p>
         </div>
     </section>
 
-    <!-- Conferences and Talks -->
+<!--
      <section id="conferences" class="container content-section top-seperator">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
@@ -305,7 +295,7 @@ Details: <a href="http://goethe.link/po">goethe.link/po</a></p>
                 </p>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- Footer -->
     <footer>
