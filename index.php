@@ -24,7 +24,7 @@
 	<link href='https://fonts.googleapis.com/css?family=PT+Sans:400,400italic' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=PT+Serif:400,400italic' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
-	
+
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -35,7 +35,7 @@
    <script src="https://www.google.com/recaptcha/api.js?onload=onReCaptchaLoad&render=explicit"
         async defer>
     </script>
-	
+
 	<!-- Piwik -->
 <script type="text/javascript">
   var _paq = _paq || [];
@@ -115,14 +115,14 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2 class="text-center">About Me</h2>
-			
+
 			<p>Hi, I'm a PhD student at the University of Cologne. My work with <a href="http://www.thp.uni-koeln.de/trebst/index.shtml">Simon Trebst</a> focuses on the interplay of competing orders emerging in condensed matter systems as a consequence of strong correlations. To gain a deeper understanding of these quantum critical effects, I develop novel quantum Monte Carlo algorithms free of the fermionic sign problem, which allow for a comprehensive study of quantum field theories, e.g. modelling unconventional superconductors.
 			<br>
 			Before moving to Cologne I studied and worked in the field of condensed matter theory at the <a href="http://www.uni-frankfurt.de">Goethe University</a>, the <a href="http://ufl.edu">University of Florida</a> (Go Gators!) and the <a href="http://tu-darmstadt.de">TU Darmstadt</a>.
             </div>
         </div>
     </section>
-	
+
 	<!-- Commitments Section -->
     <section id="commitments" class="container content-section top-seperator" style="padding-right: 80px;">
         <h2 class="text-center">Commitments</h2>
@@ -149,10 +149,10 @@
 
 
 			</p>
-			
+
             </div>
         </div>
-    </section>	
+    </section>
 
      <!-- Small Picture Section --><!--
     <section id="download" class="content-section text-center">
@@ -166,7 +166,7 @@
             </div>
         </div>
     </section> !-->
-	
+
  <!-- Projects Section -->
     <section id="projects" class="container content-section top-seperator" style="padding-right: 80px;">
         <h2 class="text-center">Projects</h2>
@@ -185,28 +185,28 @@
 			</p>
             </div>
         </div>
-    </section>	
+    </section>
 
 	<!-- Publications -->
      <section id="publications" class="container content-section dark-bg">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2 class="text-center">Publications</h2>
-				
+
 				<h3>2015</h3>
 				<p><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.121409" >&quot;Nonperturbative renormalization group calculation of quasiparticle velocity and dielectric function of graphene&quot;</a><br><b>Carsten Bauer</b>, Andreas Rückriegel, Anand Sharma, and Peter Kopietz<br> Phys. Rev. <b>B</b> 92, 121409(R)</p>
-				
+
 				<p>Master's thesis: <a href="http://carstenbauer.eu/master.pdf">&quot;Quasi-particle velocity renormalization in graphene&quot;</a><br>
                 Invited talk @ University of Cologne: <a href="http://carstenbauer.eu/Graphene_FRG_Cologne.pdf">&quot;Quasi-particle velocity renormalization in graphene&quot;</a><br>
                 Advisor: <a class="dark-a" href="http://itp.uni-frankfurt.de/~kopietz/" ><span class="dark-a">Prof. Dr. Peter Kopietz</span></a><br><b>Carsten Bauer</b></p>
-				
+
 				<h3>2013</h3>
 				<p><a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6581690&newsearch=true&queryText=13711128" >&quot;Microwave-based tumor localization in moderate heterogeneous breast tissue&quot;</a><br>Jochen Moll, <b>Carsten Bauer</b>, and Viktor Krozer<br> International Radar Symposium (Dresden,
 Germany), pp.877-884</p>
             </div>
         </div>
     </section>
-	
+
     <!-- Contact Section -->
      <section id="contact" class="container content-section">
         <div class="row">
@@ -216,9 +216,9 @@ Germany), pp.877-884</p>
 				<form id="contactform" name="contactform" method=POST action="index.php">
 				  <p>What's the matter?</p>
 				  <fieldset class="text-left center">
-					<input type="radio" id="pri" name="matter" value="private" checked="checked"><label for="pri">&nbsp;&nbsp;private</label><br> 
-					<input type="radio" id="wor" name="matter" value="work"><label for="wor">&nbsp;&nbsp;work</label><br> 
-					<input type="radio" id="spa" name="matter" value="spam"><label for="spa">&nbsp;&nbsp;spam</label> 
+					<input type="radio" id="pri" name="matter" value="private" checked="checked"><label for="pri">&nbsp;&nbsp;private</label><br>
+					<input type="radio" id="wor" name="matter" value="work"><label for="wor">&nbsp;&nbsp;work</label><br>
+					<input type="radio" id="spa" name="matter" value="spam"><label for="spa">&nbsp;&nbsp;spam</label>
 				  </fieldset>
 				<br>
 				<div id="captcha">
@@ -226,7 +226,7 @@ Germany), pp.877-884</p>
 				</div>
 				</form>
 				<div id="captcharesult" class="text-center">
-					
+
 				</div>
             </div>
         </div>
@@ -284,7 +284,7 @@ Details: <a href="http://goethe.link/po">goethe.link/po</a></p>
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h4 class="text-center">Conferences &amp; Talks</h4>
-				
+
                 <p class="small-text">
                 SNS conference @ Ludwigsburg, 2016: <a href="http://www.fkf.mpg.de/SNS2016">&quot;Spectroscopies in Novel Superconductors&quot;</a><br>
                 Invited talk @ University of Cologne, 2016: <a href="http://carstenbauer.eu/Graphene_FRG_Cologne.pdf">&quot;Quasi-particle velocity renormalization in graphene&quot;</a><br>
