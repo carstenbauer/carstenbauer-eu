@@ -124,7 +124,7 @@
         </div>
     </section>
 
-   <!-- Contact Section -->
+   <!-- Find me on Section -->
      <section id="findme" class="container content-section top-seperator" style="padding-right: 80px;">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
@@ -132,16 +132,16 @@
                 <p>
                 <ul class="list-inline banner-social-buttons">
                     <li>
-                        <a href="https://twitter.com/SBootstrap" class="btn btn-primary btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Uni/THP</span></a>
+                        <a href="https://twitter.com/SBootstrap" class="btn btn-primary btn-lg"><i class="fa fa-twitter fa-university"></i> <span class="network-name">Uni/THP</span></a>
                     </li>
                     <li>
                         <a href="https://github.com/crstnbr" class="btn btn-success btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
                     </li>
                     <li>
-                        <a href="https://stackoverflow.com/users/2365675/crstnbr" class="btn btn-warning btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Stackoverflow</span></a>
+                        <a href="https://stackoverflow.com/users/2365675/crstnbr" class="btn btn-warning btn-lg"><i class="fa fa-stack-overflow fa-fw"></i> <span class="network-name">Stackoverflow</span></a>
                     </li>
                     <li>
-                        <a href="https://discourse.julialang.org/u/crstnbr/summary" class="btn btn-danger btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Julia</span></a>
+                        <a href="https://discourse.julialang.org/u/crstnbr/summary" class="btn btn-danger btn-lg"><i class="fa fa-google-plus fa-comments-o"></i> <span class="network-name">Julia</span></a>
                     </li>
                 </ul>
                 </p>
