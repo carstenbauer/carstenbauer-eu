@@ -102,8 +102,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-offset-4 col-md-7"> <!-- col-md-8 col-md-offset-2 !-->
-                        <h1 class="brand-heading">Israel</h1>
-                        <p class="intro-text">Ein Avdat, Negev Desert</p>
+                        <h1 class="brand-heading">VA, USA</h1>
+                        <p class="intro-text">Shenandoah National Park</p>
                     </div>
                 </div>
             </div>
@@ -116,9 +116,14 @@
             <div class="col-lg-8 col-lg-offset-2">
                 <h2 class="text-center">About Me</h2>
 
-			<p>Hi, I'm a PhD student at the University of Cologne. My work with <a href="http://www.thp.uni-koeln.de/trebst/index.shtml">Simon Trebst</a> focuses on the interplay of competing orders emerging in condensed matter systems as a consequence of strong correlations. To gain a deeper understanding of these quantum critical effects, I develop novel quantum Monte Carlo algorithms free of the fermionic sign problem, which allow for a comprehensive study of quantum field theories, e.g. modelling unconventional superconductors.
+			<p>Hi, I'm a computational condensed matter physicist in the group of <a href="http://www.thp.uni-koeln.de/trebst/index.shtml">Prof. Dr. Simon Trebst</a> at the University of Cologne. My research focuses on metallic quantum phase transitions, where the interplay of thermal and quantum fluctuations gives rise to new exotic states of matter. In the vicinity of so-called metallic quantum critical points universal scaling laws emerge as a consequence of strong correlations. To gain a deeper understanding of these quantum critical effects, I develop and apply numerical tools such as Quantum Monte Carlo algorithms and (fancy) Machine Learning techniques, which allow for a comprehensive, unbiased study of relevant quantum field theories.<br>
+            
 			<br>
-			Before moving to Cologne I studied and worked in the field of condensed matter theory at the <a href="http://www.uni-frankfurt.de">Goethe University</a>, the <a href="http://ufl.edu">University of Florida</a> (Go Gators!) and the <a href="http://tu-darmstadt.de">TU Darmstadt</a>.
+			Apart from Cologne, I studied and worked at the <a href="http://www.uni-frankfurt.de">Goethe University</a>, the <a href="http://ufl.edu">University of Florida</a> (Go Gators!) and the <a href="http://tu-darmstadt.de">TU Darmstadt</a>. Fortunately, I also had the pleasure of conducting a longer research stay at the <a href="https://www.weizmann.ac.il/pages/">Weizmann Institute of Science</a>.
+            <br>
+
+            <br>
+            You can find me and some of my open-source projects on <a href="https://github.com/crstnbr/">github</a>.
             </div>
         </div>
     </section>
