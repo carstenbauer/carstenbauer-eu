@@ -132,7 +132,7 @@
                 <p>
                 <ul class="list-inline banner-social-buttons">
                     <li>
-                        <a href="https://twitter.com/SBootstrap" class="btn btn-primary btn-lg"><i class="fa fa-twitter fa-university"></i> <span class="network-name">Uni/THP</span></a>
+                        <a href="http://www.thp.uni-koeln.de/~bauer/" class="btn btn-primary btn-lg"><i class="fa fa-twitter fa-university"></i> <span class="network-name">Uni/THP</span></a>
                     </li>
                     <li>
                         <a href="https://github.com/crstnbr" class="btn btn-success btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
