@@ -75,16 +75,16 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#about">About</a>
+                        <a class="page-scroll" href="#about">About Me</a>
                     </li>
                     <li>
-						<a class="page-scroll" href="#commitments">Commitments</a>
+                        <a class="page-scroll" href="#findme">Find Me on</a>
                     </li>
                     <li>
-						<a class="page-scroll" href="#projects">Projects</a>
+                        <a class="page-scroll" href="#projects">projects</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#publications">Publications</a>
+                        <a class="page-scroll" href="#publications">publications</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
@@ -120,59 +120,38 @@
             
 			<br>
 			Apart from Cologne, I studied and worked at the <a href="http://www.uni-frankfurt.de">Goethe University</a>, the <a href="http://ufl.edu">University of Florida</a> (Go Gators!) and the <a href="http://tu-darmstadt.de">TU Darmstadt</a>. Fortunately, I also had the pleasure of conducting a longer research stay at the <a href="https://www.weizmann.ac.il/pages/">Weizmann Institute of Science</a>.
-            <br>
-
-            <br>
-            You can find me and some of my open-source projects on <a href="https://github.com/crstnbr/">github</a>.
             </div>
         </div>
     </section>
 
-	<!-- Commitments Section -->
-    <section id="commitments" class="container content-section top-seperator" style="padding-right: 80px;">
-        <h2 class="text-center">Commitments</h2>
-        <div class="row" style="display:flex; margin-top:80px;">
-            <div class="col-lg-5">
-            <a href="http://www.welthungerhilfe.de/en/home-en.html" class="hidden-link"><img src="img/whh.png" width="280px" style="display:block;margin-left:auto;margin-right:auto;margin-top:25%;margin-bottom:25%;"></a>
-            </div>
-            <div class="col-lg-7">
-            <h4><a href="http://www.welthungerhilfe.de/en/home-en.html" class="hidden-link">Welthungerhilfe e.V.</a></h4>
-			<p>
-			Besides aiming at my PhD, I volunteer my time for the Welthungerhilfe e.V. I firmly believe that changing the world for the better is possible if everyone contributes within his capabilities (I leave it to you to decide what you consider 'better' at this point). Since my skills lie rather in analytical thinking and computation than in practice, I decided to support the Welthungerhilfe in their Information and Communication Technologies for Development (ICT4D) efforts, which I had the chance to get to know during a McKinsey workshop. To see how simple technological installations can critically improve the life of people in developing countries has been an impressing experience and motivation. In case you are interested in WHH or opportunities to contribute yourself, don't hesitate to <a class="page-scroll" href="#contact">write me</a>!
-
-			</p>
-            </div>
-        </div>
-        <div class="row" style="display:flex; margin-top:60px;">
-            <div class="col-lg-5">
-            <a href="http://physikonline.uni-frankfurt.de" class="hidden-link"><img src="img/physikonline.png" width="150px" style="display:block;margin-left:auto;margin-right:auto;margin-top:25%;margin-bottom:25%;"></a>
-            </div>
-            <div class="col-lg-7">
-			<h4><a href="http://physikonline.uni-frankfurt.de" class="hidden-link">PhysikOnline</a></h4>
-			<p>
-			From 2012 to 2016 I headed the student organization <a href="http://physikonline.uni-frankfurt.de/">PhysikOnline</a> which produces and integrates technology into science education at the Goethe Universität, Frankfurt, Germany. Our philosophy is to implement innovative IT ideas to enhance the study and work experience at the university. Among others, we established an <a href="http://elearning.physik.uni-frankfurt.de">e-learning system</a> at the physics faculty, engineered a web-based real-time synchronous collaborative <a href="http://pokal.uni-frankfurt.de">computer algebra system</a> and implemented a <a href="http://goethe.link">Goethe URL shortener</a>. Originally starting on a voluntarily basis, the	project has experienced strong growth and is now being funded and supported by multiple institutions, such as <a href="http://www.studiumdigitale.uni-frankfurt.de/">studiumdigitale</a>, <a href="http://fias.uni-frankfurt.de">FIAS</a>, <a href="http://itp.uni-frankfurt.de">ITP</a>, <a href="https://csc.uni-frankfurt.de/">CSC</a>. Since 2015, our videoservice <a href="http://riedberg.tv">RiedbergTV</a> is part of the mentoring program of the <a href="http://www.deutschland-stipendium.uni-frankfurt.de/">Deutschlandstipendium</a>.
-
-
-			</p>
-
+   <!-- Contact Section -->
+     <section id="findme" class="container content-section top-seperator" style="padding-right: 80px;">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <h2 class="text-center">Find me on</h2>
+                <p>
+                <ul class="list-inline banner-social-buttons">
+                    <li>
+                        <a href="https://twitter.com/SBootstrap" class="btn btn-primary btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Uni/THP</span></a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/crstnbr" class="btn btn-success btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                    </li>
+                    <li>
+                        <a href="https://stackoverflow.com/users/2365675/crstnbr" class="btn btn-warning btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Stackoverflow</span></a>
+                    </li>
+                    <li>
+                        <a href="https://discourse.julialang.org/u/crstnbr/summary" class="btn btn-danger btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Julia</span></a>
+                    </li>
+                </ul>
+                </p>
+               
             </div>
         </div>
+        
     </section>
 
-     <!-- Small Picture Section --><!--
-    <section id="download" class="content-section text-center">
-        <div class="download-section">
-            <div class="container">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <h2>The Linn Cove Viaduct</h2>
-                    <p>Blue Ridge Parkway</p>
-                    <a href="#" class="btn btn-default btn-lg">Where is it?</a>
-                </div>
-            </div>
-        </div>
-    </section> !-->
-
- <!-- Projects Section -->
+<!-- Projects Section -->
     <section id="projects" class="container content-section top-seperator" style="padding-right: 80px;">
         <h2 class="text-center">Projects</h2>
         <div class="row" style="display:flex; margin-top:80px;">
@@ -182,12 +161,12 @@
 
             <div class="col-lg-7">
             <h4><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.121409" class="hidden-link">Quasiparticle velocity renormalization in graphene</a></h4>
-			<p>
-			In this work, we take a systematic functional renormalization group (FRG) approach in studying graphene many-body effects at the Dirac point due to long-range Coulomb interactions. In particular, we examine the renormalization of the quasiparticle velocity, as observed in recent experiments, by establishing a low-energy effective QFT and deriving an infinite hierarchy of exact flow equations for the irreducible n-point vertices of the theory. By means of a scaling dimension analysis, we deduce a system of coupled integro-differential equations describing the momentum-dependent renormalized quasiparticle velocity and dielectric function in graphene at arbitrary scales. Focusing on the static screening limit, the full numerical solutions indicates that the linear low-energy dispersion (Dirac cone) gets strongly modified by long-range Coulomb interactions in the vicinity of the Dirac point.<br><br>
+            <p>
+            In this work, we take a systematic functional renormalization group (FRG) approach in studying graphene many-body effects at the Dirac point due to long-range Coulomb interactions. In particular, we examine the renormalization of the quasiparticle velocity, as observed in recent experiments, by establishing a low-energy effective QFT and deriving an infinite hierarchy of exact flow equations for the irreducible n-point vertices of the theory. By means of a scaling dimension analysis, we deduce a system of coupled integro-differential equations describing the momentum-dependent renormalized quasiparticle velocity and dielectric function in graphene at arbitrary scales. Focusing on the static screening limit, the full numerical solutions indicates that the linear low-energy dispersion (Dirac cone) gets strongly modified by long-range Coulomb interactions in the vicinity of the Dirac point.<br><br>
 
             Reading: <a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.121409">paper</a>, <a href="http://carstenbauer.eu/master.pdf">thesis</a>, <a href="http://carstenbauer.eu/Graphene_FRG_Cologne.pdf">talk</a>
 
-			</p>
+            </p>
             </div>
         </div>
     </section>
@@ -252,14 +231,14 @@ Germany), pp.877-884</p>
                 </ul>
             </div>
         </div>!-->
-		<div class="row">
-			<div class="col-lg-12 text-center"><h3 class="text-center">Offices</h3></div>
-        </div>
+<!-- 		<div class="row">
+			<div class="col-lg-12 text-center"><h3 class="text-center">Office</h3></div>
+        </div> -->
 		<div class="row">
 		<!-- <div class="col-lg-3 col-lg-offset-2 text-center"> !-->
-			<div class="col-lg-4 text-center">
-                <h4 class="text-left">Personal</h4>
-				<p class="text-left">Institut für Theoretische Physik <br>
+            <div class="col-lg-3 text-center">
+                <h4 class="text-left">Office</h4>
+                <p class="text-left">Institut für Theoretische Physik <br>
 Universität zu Köln<br>
 Zülpicher Straße 77 <br>
 50937 Köln<br><br>
@@ -268,16 +247,9 @@ Office 2.05 Neubau TP <br>
 Phone: 0221-470-1053 <br>
 Details: <a href="http://goo.gl/YxBVMz">goo.gl/YxBVMz</a></p>
             </div>
-			<div class="col-lg-4 text-center">
-				<h4 class="text-left">PhysikOnline</h4>
-                <p class="text-left">Institut für Theoretische Physik <br>
-Goethe Universität Frankfurt <br>
-Max-von-Laue-Straße 1 <br>
-60438 Frankfurt am Main <br><br>
-
-Office 01.126 <br>
-Phone: 069-798-47355 <br>
-Details: <a href="http://goethe.link/po">goethe.link/po</a></p>
+            <div class="col-lg-5 text-center" style="padding-left: 6%">
+                <h4 class="text-left">Institute for Theoretical Physics</h4>
+                <p class="text-left"><a href="http://www.thp.uni-koeln.de"><img id="imageresource" src="img/thp_schwarzweiss_klein.jpg" height="240px" style="border: solid thin #aaa;"></a></p>
             </div>
 			<div class="col-lg-4 text-center">
 				<h4 class="text-left">Location</h4>
