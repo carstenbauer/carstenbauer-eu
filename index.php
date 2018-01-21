@@ -216,24 +216,6 @@ Germany), pp.877-884</p>
 				</div>
             </div>
         </div>
-        <!-- <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-				<ul class="list-inline banner-social-buttons">
-                    <li>
-                        <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
-                    </li>
-                    <li>
-                        <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
-                    </li>
-                    <li>
-                        <a href="https://plus.google.com/+Startbootstrap/posts" class="btn btn-default btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Google+</span></a>
-                    </li>
-                </ul>
-            </div>
-        </div>!-->
-<!-- 		<div class="row">
-			<div class="col-lg-12 text-center"><h3 class="text-center">Office</h3></div>
-        </div> -->
 		<div class="row">
 		<!-- <div class="col-lg-3 col-lg-offset-2 text-center"> !-->
             <div class="col-lg-3 text-center">
@@ -257,24 +239,6 @@ Details: <a href="http://goo.gl/YxBVMz">goo.gl/YxBVMz</a></p>
             </div>
         </div>
     </section>
-
-<!--
-     <section id="conferences" class="container content-section top-seperator">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-                <h4 class="text-center">Conferences &amp; Talks</h4>
-
-                <p class="small-text">
-                SNS conference @ Ludwigsburg, 2016: <a href="http://www.fkf.mpg.de/SNS2016">&quot;Spectroscopies in Novel Superconductors&quot;</a><br>
-                Invited talk @ University of Cologne, 2016: <a href="http://carstenbauer.eu/Graphene_FRG_Cologne.pdf">&quot;Quasi-particle velocity renormalization in graphene&quot;</a><br>
-                Invited talk @ 10. eLearning Netzwerktag, studiumdigitale, Frankfurt, 2015: <a href="http://electure.studiumdigitale.uni-frankfurt.de/index.php?cat=3&videolist=277">&quot;RiedbergTV&quot;</a><br>
-                Invited talk @ 10 jährige Jubil&auml;umsfeier, studiumdigitale, Frankfurt, 2015: <a href="http://www.studiumdigitale.uni-frankfurt.de/59243419/SeLF-2015">&quot;Do-it-yourself eLearning in der Physik&quot;</a><br>
-                Invited talk @ 9. eLearning Netzwerktag, studiumdigitale, Frankfurt, 2014: <a href="http://electure.studiumdigitale.uni-frankfurt.de/index.php?cat=3&videolist=277">&quot;POKAL 2.0 – Kollaboratives eLearning neu erfunden&quot;</a><br>
-                Autumn school @ Forschungszentrum Jülich, 2013: <a href="http://www.cond-mat.de/events/correl13/">&quot;Emergent Phenomena in Correlated Matter&quot;</a><br>
-                </p>
-            </div>
-        </div>
-    </section> -->
 
     <!-- Footer -->
     <footer>
