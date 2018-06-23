@@ -102,8 +102,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-offset-4 col-md-7"> <!-- col-md-8 col-md-offset-2 !-->
-                        <h1 class="brand-heading">VA, USA</h1>
-                        <p class="intro-text">Shenandoah National Park</p>
+                        <h1 class="brand-heading">CA, USA</h1>
+                        <p class="intro-text">Stanford University</p>
                     </div>
                 </div>
             </div>
@@ -116,10 +116,10 @@
             <div class="col-lg-8 col-lg-offset-2">
                 <h2 class="text-center">About Me</h2>
 
-			<p>Hi, I'm a computational condensed matter physicist in the group of <a href="http://www.thp.uni-koeln.de/trebst/index.shtml">Prof. Dr. Simon Trebst</a> at the University of Cologne. My research focuses on metallic quantum phase transitions, where the interplay of thermal and quantum fluctuations gives rise to new exotic states of matter. In the vicinity of so-called metallic quantum critical points universal scaling laws emerge as a consequence of strong correlations. To gain a deeper understanding of these quantum critical effects, I develop and apply numerical tools such as Quantum Monte Carlo algorithms and (fancy) Machine Learning techniques, which allow for a comprehensive, unbiased study of relevant quantum field theories.<br>
+			<p>Hi, I'm a computational condensed matter physicist in the group of <a href="http://www.thp.uni-koeln.de/trebst/index.shtml">Prof. Dr. Simon Trebst</a> at the University of Cologne. My research focuses on quantum phase transitions, where the interplay of thermal and quantum fluctuations gives rise to new exotic states of matter. In the vicinity of so-called metallic quantum critical points universal scaling laws emerge as a consequence of strong correlations. To gain a deeper understanding of these quantum critical effects, I develop and apply numerical tools such as Quantum Monte Carlo algorithms and (fancy) Machine Learning techniques, which allow for a comprehensive, unbiased study of relevant quantum field theories.<br>
             
 			<br>
-			Apart from Cologne, I studied and worked at the <a href="http://www.uni-frankfurt.de">Goethe University</a>, the <a href="http://ufl.edu">University of Florida</a> (Go Gators!) and the <a href="http://tu-darmstadt.de">TU Darmstadt</a>. Fortunately, I also had the pleasure of conducting a longer research stay at the <a href="https://www.weizmann.ac.il/pages/">Weizmann Institute of Science</a>.
+			Apart from Cologne, I studied and worked at the <a href="http://www.uni-frankfurt.de">Goethe University</a>, the <a href="http://ufl.edu">University of Florida</a> (Go Gators!) and the <a href="http://tu-darmstadt.de">TU Darmstadt</a>. I also had the pleasure of conducting longer research stays at <a href="https://www.stanford.edu">Stanford University</a> and the <a href="https://www.weizmann.ac.il/pages/">Weizmann Institute of Science</a>.
             </div>
         </div>
     </section>

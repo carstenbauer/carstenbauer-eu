@@ -195,7 +195,8 @@ a:focus {
 
 .intro .intro-body {
     display: table-cell;
-    vertical-align: middle;
+    vertical-align: bottom;
+    padding-bottom: 50px;
 }
 
 .intro .intro-body .brand-heading {
@@ -212,7 +213,7 @@ a:focus {
 		display: table;
         height: 100%;
         padding: 0;
-		background: url(../img/cb_1.jpg) no-repeat bottom center scroll;
+		background: url(../img/stanford2_mod.jpg) no-repeat bottom center scroll;
 		background-color: #000;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
