@@ -102,8 +102,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-offset-4 col-md-7"> <!-- col-md-8 col-md-offset-2 !-->
-                        <h1 class="brand-heading">CA, USA</h1>
-                        <p class="intro-text">Stanford University</p>
+                        <h1 class="brand-heading">Ein Avdat</h1>
+                        <p class="intro-text">Negev Desert, Israel</p>
                     </div>
                 </div>
             </div>
@@ -176,6 +176,9 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2 class="text-center">Publications</h2>
+
+                <h3>2018</h3>
+                <p><a href="https://arxiv.org/abs/1812.05631" >&quot;Probing transport in quantum many-fermion simulations via quantum loop topography&quot;</a><br>Yi Zhang, <b>Carsten Bauer</b>, Peter Broecker, Simon Trebst, and Eun-Ah Kim<br>arXiv:1812.05631</p>
 
 				<h3>2015</h3>
 				<p><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.121409" >&quot;Nonperturbative renormalization group calculation of quasiparticle velocity and dielectric function of graphene&quot;</a><br><b>Carsten Bauer</b>, Andreas Rückriegel, Anand Sharma, and Peter Kopietz<br> Phys. Rev. <b>B</b> 92, 121409(R)</p>
