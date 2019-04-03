@@ -156,7 +156,23 @@
         <h2 class="text-center">Projects</h2>
         <div class="row" style="display:flex; margin-top:80px;">
             <div class="col-lg-5">
-            <a href="#" class="hidden-link" id="pop" onclick="return false;"><img id="imageresource" src="img/graphene.png" width="200px" style="display:block;margin-left:auto;margin-right:auto;margin-top:25%;margin-bottom:25%;"></a>
+            <a href="#" class="hidden-link" id="pop1" onclick="return false;"><img id="imageresource" src="img/qlt.png" width="400px" style="display:block;margin-left:auto;margin-right:auto;margin-top:25%;margin-bottom:25%;"></a>
+            </div>
+
+            <div class="col-lg-7">
+            <h4><a href="https://arxiv.org/abs/1812.05631" class="hidden-link">Machine learning transport properties of quantum matter</a></h4>
+            <p>
+            Quantum many-fermion systems give rise to diverse states of matter that often reveal themselves in distinctive transport properties. While some of these states can be captured by microscopic models it remains challenging to numerically access their transport properties. Here we demonstrate that a machine learning technique dubbed quantum loop topography (QLT) can be used to directly probe transport by machine learning current-current correlations in imaginary time. We showcase this approach by studying the emergence of superconducting fluctuations in the negative-U Hubbard model and a spin-fermion model for a metallic quantum critical point. For both models, we find that the QLT approach detects a change in transport in very good agreement with their established phase diagrams. These proof-of-principle calculations combined with the numerical efficiency of the QLT approach point a way to identify hitherto elusive transport phenomena such as non-Fermi liquids using machine learning algorithms.<br><br>
+
+            Reading: <a href="https://arxiv.org/abs/1812.05631">paper</a>
+
+            </p>
+            </div>
+        </div>
+
+        <div class="row" style="display:flex; margin-top:80px;">
+            <div class="col-lg-5">
+            <a href="#" class="hidden-link" id="pop2" onclick="return false;"><img id="imageresource" src="img/graphene.png" width="200px" style="display:block;margin-left:auto;margin-right:auto;margin-top:25%;margin-bottom:25%;"></a>
             </div>
 
             <div class="col-lg-7">

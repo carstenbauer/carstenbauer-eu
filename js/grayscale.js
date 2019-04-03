@@ -104,7 +104,12 @@ var verifyCallback = function(response) {
 		 }
 };
 
-$("#pop").on("click", function() {
+$("#pop1").on("click", function() {
+   // $('#imagepreview').attr('src', "img/graphene_figures.png" ); //$('#imageresource').attr('src') here asign the image to the modal when the user click the enlarge link
+   // $('#imagemodal').modal('show'); // imagemodal is the id attribute assigned to the bootstrap modal, then i use the show function
+});
+
+$("#pop2").on("click", function() {
    $('#imagepreview').attr('src', "img/graphene_figures.png" ); //$('#imageresource').attr('src') here asign the image to the modal when the user click the enlarge link
    $('#imagemodal').modal('show'); // imagemodal is the id attribute assigned to the bootstrap modal, then i use the show function
 });
