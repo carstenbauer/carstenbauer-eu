@@ -160,11 +160,11 @@
             </div>
 
             <div class="col-lg-7">
-            <h4><a href="https://arxiv.org/abs/1812.05631" class="hidden-link">Machine learning transport properties of quantum matter</a></h4>
+            <h4><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120" class="hidden-link">Machine learning transport properties of quantum matter</a></h4>
             <p>
             Quantum many-fermion systems give rise to diverse states of matter that often reveal themselves in distinctive transport properties. While some of these states can be captured by microscopic models it remains challenging to numerically access their transport properties. Here we demonstrate that a machine learning technique dubbed quantum loop topography (QLT) can be used to directly probe transport by machine learning current-current correlations in imaginary time. We showcase this approach by studying the emergence of superconducting fluctuations in the negative-U Hubbard model and a spin-fermion model for a metallic quantum critical point. For both models, we find that the QLT approach detects a change in transport in very good agreement with their established phase diagrams. These proof-of-principle calculations combined with the numerical efficiency of the QLT approach point a way to identify hitherto elusive transport phenomena such as non-Fermi liquids using machine learning algorithms.<br><br>
 
-            Reading: <a href="https://arxiv.org/abs/1812.05631">paper</a>
+            Reading: <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120">paper</a>
 
             </p>
             </div>
@@ -194,7 +194,7 @@
                 <h2 class="text-center">Publications</h2>
 
                 <h3>2018</h3>
-                <p><a href="https://arxiv.org/abs/1812.05631" >&quot;Probing transport in quantum many-fermion simulations via quantum loop topography&quot;</a><br>Yi Zhang, <b>Carsten Bauer</b>, Peter Broecker, Simon Trebst, and Eun-Ah Kim<br>arXiv:1812.05631</p>
+                <p><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120" >&quot;Probing transport in quantum many-fermion simulations via quantum loop topography&quot;</a><br>Yi Zhang, <b>Carsten Bauer</b>, Peter Broecker, Simon Trebst, and Eun-Ah Kim<br>Phys. Rev. <b>B</b> 99, 161120(R), Editor's Suggestion</p>
 
 				<h3>2015</h3>
 				<p><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.121409" >&quot;Nonperturbative renormalization group calculation of quasiparticle velocity and dielectric function of graphene&quot;</a><br><b>Carsten Bauer</b>, Andreas Rückriegel, Anand Sharma, and Peter Kopietz<br> Phys. Rev. <b>B</b> 92, 121409(R)</p>
