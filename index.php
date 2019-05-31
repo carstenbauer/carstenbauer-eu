@@ -156,10 +156,10 @@
 
 <!-- Science Section -->
     <section id="science" class="container content-section top-seperator" style="padding-right: 80px;">
-        <h2 class="text-center">Science Projects</h2>
+        <h2 class="text-center">Science</h2>
         <div class="row" style="display:flex; margin-top:80px;">
             <div class="col-lg-5">
-            <a href="#" class="hidden-link" id="pop1" onclick="return false;"><img id="imageresource" src="img/qlt.png" width="400px" style="display:block;margin-left:auto;margin-right:auto;margin-top:25%;margin-bottom:25%;"></a>
+            <a href="#" class="hidden-link" id="popqlt" onclick="return false;"><img id="imageresource" src="img/qlt.png" width="400px" style="display:block;margin-left:auto;margin-right:auto;margin-top:25%;margin-bottom:25%;"></a>
             </div>
 
             <div class="col-lg-7">
