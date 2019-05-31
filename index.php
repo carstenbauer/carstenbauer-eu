@@ -77,14 +77,17 @@
                     <li>
                         <a class="page-scroll" href="#about">About Me</a>
                     </li>
-                    <li>
+<!--                     <li>
                         <a class="page-scroll" href="#findme">Find Me on</a>
-                    </li>
+                    </li> -->
                     <li>
-                        <a class="page-scroll" href="#projects">projects</a>
+                        <a class="page-scroll" href="#science">science</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#publications">publications</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#projects">projects</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
@@ -151,9 +154,9 @@
         
     </section>
 
-<!-- Projects Section -->
-    <section id="projects" class="container content-section top-seperator" style="padding-right: 80px;">
-        <h2 class="text-center">Projects</h2>
+<!-- Science Section -->
+    <section id="science" class="container content-section top-seperator" style="padding-right: 80px;">
+        <h2 class="text-center">Science Projects</h2>
         <div class="row" style="display:flex; margin-top:80px;">
             <div class="col-lg-5">
             <a href="#" class="hidden-link" id="pop1" onclick="return false;"><img id="imageresource" src="img/qlt.png" width="400px" style="display:block;margin-left:auto;margin-right:auto;margin-top:25%;margin-bottom:25%;"></a>
@@ -212,8 +215,30 @@ Germany), pp.877-884</p>
         </div>
     </section>
 
+
+<!-- Projects Section -->
+    <section id="projects" class="container content-section top-seperator" style="padding-right: 80px;">
+        <h2 class="text-center">Projects and activities</h2>
+        <div class="row" style="display:flex; margin-top:80px;">
+            <div class="col-lg-5">
+            <a href="https://github.com/crstnbr/julia-workshop/raw/master/0%20Intro%20and%20prerequisites/intro-presentation/slides.pdf"><img id="imageresource" src="img/julia_workshop.png" width="300px" style="display:block;margin-left:auto;margin-right:auto;margin-top:20%;margin-bottom:25%;"></a>
+            </div>
+
+            <div class="col-lg-7">
+            <h4><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120" class="hidden-link">Advanced Julia Workshops @ University of Cologne</a></h4>
+            <p>
+            <a href="http://julialang.org">Julia</a> is a beautiful young dynamic programming language created for numerical computing. It aims to be as intuitive as Python while still being as fast as statically compiled languages like Fortran and C. Julia is free for everyone to use, and all source code is publicly viewable on GitHub. Because of my passion for the language - it is my favorite programming language to use - I regularly teach Julia at undergraduate, graduate, and post-graduate level at the University of Cologne. Check out the repositories linked below to get an impression of some of the covered content. Somewhat related, I also gave a short talk at <a href="https://juliacon.org/2018/">JuliaCon 2018</a> in London which you can find <a href="https://www.youtube.com/watch?v=BmVd7pw6Trc">on youtube</a>.<br><br>
+
+            GitHub: <a href="https://github.com/crstnbr/julia-workshop">julia-workshop-2018</a>, <a href="https://github.com/crstnbr/julia-workshop-2019">julia-workshop-2019</a>
+
+            </p>
+            </div>
+        </div>
+    </section>
+
+
     <!-- Contact Section -->
-     <section id="contact" class="container content-section">
+     <section id="contact" class="container content-section top-seperator">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
                 <h2 class="text-center">Contact</h2>
