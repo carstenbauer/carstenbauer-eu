@@ -197,14 +197,14 @@
                 <h2 class="text-center">Publications</h2>
 
                 <h3>2018</h3>
-                <p><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120" >&quot;Probing transport in quantum many-fermion simulations via quantum loop topography&quot;</a><br>Yi Zhang, <b>Carsten Bauer</b>, Peter Broecker, Simon Trebst, and Eun-Ah Kim<br>Phys. Rev. <b>B</b> 99, 161120(R), Editor's Suggestion</p>
+                <p><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120" >&quot;Probing transport in quantum many-fermion simulations via quantum loop topography&quot;</a><br>Yi Zhang, <b>Carsten Bauer</b>, Peter Broecker, Simon Trebst, and Eun-Ah Kim<br>Phys. Rev. <b>B</b> 99, 161120(R), Editors' Suggestion</p>
 
 				<h3>2015</h3>
 				<p><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.121409" >&quot;Nonperturbative renormalization group calculation of quasiparticle velocity and dielectric function of graphene&quot;</a><br><b>Carsten Bauer</b>, Andreas Rückriegel, Anand Sharma, and Peter Kopietz<br> Phys. Rev. <b>B</b> 92, 121409(R)</p>
 
 				<p>Master's thesis: <a href="http://carstenbauer.eu/master.pdf">&quot;Quasi-particle velocity renormalization in graphene&quot;</a><br>
                 Invited talk @ University of Cologne: <a href="http://carstenbauer.eu/Graphene_FRG_Cologne.pdf">&quot;Quasi-particle velocity renormalization in graphene&quot;</a><br>
-                Advisor: <a class="dark-a" href="http://itp.uni-frankfurt.de/~kopietz/" ><span class="dark-a">Prof. Dr. Peter Kopietz</span></a><br><b>Carsten Bauer</b></p>
+                Advisor: <a class="dark-a" href="http://itp.uni-frankfurt.de/~kopietz/" ><span class="dark-a">Prof. Dr. Peter Kopietz</span></a></p>
 
 				<h3>2013</h3>
 				<p><a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6581690&newsearch=true&queryText=13711128" >&quot;Microwave-based tumor localization in moderate heterogeneous breast tissue&quot;</a><br>Jochen Moll, <b>Carsten Bauer</b>, and Viktor Krozer<br> International Radar Symposium (Dresden,
