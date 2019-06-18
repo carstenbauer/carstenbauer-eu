@@ -105,8 +105,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-offset-4 col-md-7"> <!-- col-md-8 col-md-offset-2 !-->
-                        <h1 class="brand-heading">Ein Avdat</h1>
-                        <p class="intro-text">Negev Desert, Israel</p>
+                        <h1 class="brand-heading">CUREVAC</h1>
+                        <p class="intro-text">Durmitor National Park, Montenegro</p>
                     </div>
                 </div>
             </div>
