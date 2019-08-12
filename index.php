@@ -20,10 +20,10 @@
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-	<link href='https://fonts.googleapis.com/css?family=Crimson+Text:400,400italic' rel='stylesheet' type='text/css'>
-	<link href='https://fonts.googleapis.com/css?family=PT+Sans:400,400italic' rel='stylesheet' type='text/css'>
-	<link href='https://fonts.googleapis.com/css?family=PT+Serif:400,400italic' rel='stylesheet' type='text/css'>
-	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Crimson+Text:400,400italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,400italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -36,7 +36,7 @@
         async defer>
     </script>
 
-	<!-- Piwik -->
+    <!-- Piwik -->
 <script type="text/javascript">
   var _paq = _paq || [];
   _paq.push(['trackPageView']);
@@ -63,7 +63,7 @@
                     <i class="fa fa-bars"></i>
                 </button>
                 <a class="navbar-brand page-scroll" href="#page-top">
-                    <!-- <i class="fa fa-caret-right"></i> !-->	<span class="light">Carsten</span> Bauer
+                    <!-- <i class="fa fa-caret-right"></i> !--> <span class="light">Carsten</span> Bauer
                 </a>
             </div>
 
@@ -105,8 +105,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-offset-4 col-md-7"> <!-- col-md-8 col-md-offset-2 !-->
-                        <h1 class="brand-heading">Ein Avdat</h1>
-                        <p class="intro-text">Negev Desert, Israel</p>
+                        <h1 class="brand-heading">CUREVAC</h1>
+                        <p class="intro-text">Durmitor National Park, Montenegro</p>
                     </div>
                 </div>
             </div>
@@ -119,10 +119,10 @@
             <div class="col-lg-8 col-lg-offset-2">
                 <h2 class="text-center">About Me</h2>
 
-			<p>Hi, I'm a computational condensed matter physicist in the group of <a href="http://www.thp.uni-koeln.de/trebst/index.shtml">Prof. Dr. Simon Trebst</a> at the University of Cologne. My research focuses on quantum phase transitions, where the interplay of thermal and quantum fluctuations gives rise to new exotic states of matter. In the vicinity of so-called metallic quantum critical points universal scaling laws emerge as a consequence of strong correlations. To gain a deeper understanding of these quantum critical effects, I develop and apply numerical tools such as Quantum Monte Carlo algorithms and (fancy) Machine Learning techniques, which allow for a comprehensive, unbiased study of relevant quantum field theories.<br>
+            <p>Hi, I'm a computational condensed matter physicist in the group of <a href="http://www.thp.uni-koeln.de/trebst/index.shtml">Prof. Dr. Simon Trebst</a> at the University of Cologne. My research focuses on quantum phase transitions, where the interplay of thermal and quantum fluctuations gives rise to new exotic states of matter. In the vicinity of so-called metallic quantum critical points universal scaling laws emerge as a consequence of strong correlations. To gain a deeper understanding of these quantum critical effects, I develop and apply numerical tools such as Quantum Monte Carlo algorithms and (fancy) Machine Learning techniques, which allow for a comprehensive, unbiased study of relevant quantum field theories.<br>
             
-			<br>
-			Apart from Cologne, I studied and worked at the <a href="http://www.uni-frankfurt.de">Goethe University</a>, the <a href="http://ufl.edu">University of Florida</a> (Go Gators!) and the <a href="http://tu-darmstadt.de">TU Darmstadt</a>. I also had the pleasure of conducting longer research stays at <a href="https://www.stanford.edu">Stanford University</a>, the <a href="https://www.weizmann.ac.il/pages/">Weizmann Institute of Science</a>, and the <a href="https://www.uchicago.edu/">University of Chicago</a>.
+            <br>
+            Apart from Cologne, I studied and worked at the <a href="http://www.uni-frankfurt.de">Goethe University</a>, the <a href="http://ufl.edu">University of Florida</a> (Go Gators!) and the <a href="http://tu-darmstadt.de">TU Darmstadt</a>. I also had the pleasure of conducting longer research stays at <a href="https://www.stanford.edu">Stanford University</a>, the <a href="https://www.weizmann.ac.il/pages/">Weizmann Institute of Science</a>, and the <a href="https://www.uchicago.edu/">University of Chicago</a>.
             </div>
         </div>
     </section>
@@ -190,24 +190,24 @@
         </div>
     </section>
 
-	<!-- Publications -->
+    <!-- Publications -->
      <section id="publications" class="container content-section dark-bg">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2 class="text-center">Publications</h2>
 
                 <h3>2018</h3>
-                <p><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120" >&quot;Probing transport in quantum many-fermion simulations via quantum loop topography&quot;</a><br>Yi Zhang, <b>Carsten Bauer</b>, Peter Broecker, Simon Trebst, and Eun-Ah Kim<br>Phys. Rev. <b>B</b> 99, 161120(R), Editor's Suggestion</p>
+                <p><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120" >&quot;Probing transport in quantum many-fermion simulations via quantum loop topography&quot;</a><br>Yi Zhang, <b>Carsten Bauer</b>, Peter Broecker, Simon Trebst, and Eun-Ah Kim<br>Phys. Rev. <b>B</b> 99, 161120(R), Editors' Suggestion</p>
 
-				<h3>2015</h3>
-				<p><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.121409" >&quot;Nonperturbative renormalization group calculation of quasiparticle velocity and dielectric function of graphene&quot;</a><br><b>Carsten Bauer</b>, Andreas Rückriegel, Anand Sharma, and Peter Kopietz<br> Phys. Rev. <b>B</b> 92, 121409(R)</p>
+                <h3>2015</h3>
+                <p><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.121409" >&quot;Nonperturbative renormalization group calculation of quasiparticle velocity and dielectric function of graphene&quot;</a><br><b>Carsten Bauer</b>, Andreas Rückriegel, Anand Sharma, and Peter Kopietz<br> Phys. Rev. <b>B</b> 92, 121409(R)</p>
 
-				<p>Master's thesis: <a href="http://carstenbauer.eu/master.pdf">&quot;Quasi-particle velocity renormalization in graphene&quot;</a><br>
+                <p>Master's thesis: <a href="http://carstenbauer.eu/master.pdf">&quot;Quasi-particle velocity renormalization in graphene&quot;</a><br>
                 Invited talk @ University of Cologne: <a href="http://carstenbauer.eu/Graphene_FRG_Cologne.pdf">&quot;Quasi-particle velocity renormalization in graphene&quot;</a><br>
-                Advisor: <a class="dark-a" href="http://itp.uni-frankfurt.de/~kopietz/" ><span class="dark-a">Prof. Dr. Peter Kopietz</span></a><br><b>Carsten Bauer</b></p>
+                Advisor: <a class="dark-a" href="http://itp.uni-frankfurt.de/~kopietz/" ><span class="dark-a">Prof. Dr. Peter Kopietz</span></a></p>
 
-				<h3>2013</h3>
-				<p><a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6581690&newsearch=true&queryText=13711128" >&quot;Microwave-based tumor localization in moderate heterogeneous breast tissue&quot;</a><br>Jochen Moll, <b>Carsten Bauer</b>, and Viktor Krozer<br> International Radar Symposium (Dresden,
+                <h3>2013</h3>
+                <p><a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6581690&newsearch=true&queryText=13711128" >&quot;Microwave-based tumor localization in moderate heterogeneous breast tissue&quot;</a><br>Jochen Moll, <b>Carsten Bauer</b>, and Viktor Krozer<br> International Radar Symposium (Dresden,
 Germany), pp.877-884</p>
 
                 <p><br><a href="https://arxiv.org/a/bauer_c_3.html">All preprints on arxiv.org</a></p>
@@ -221,7 +221,7 @@ Germany), pp.877-884</p>
         <h2 class="text-center">Projects and activities</h2>
         <div class="row" style="display:flex; margin-top:80px;">
             <div class="col-lg-5">
-            <a href="https://github.com/crstnbr/julia-workshop/raw/master/0%20Intro%20and%20prerequisites/intro-presentation/slides.pdf"><img id="imageresource" src="img/julia_workshop.png" width="300px" style="display:block;margin-left:auto;margin-right:auto;margin-top:20%;margin-bottom:25%;"></a>
+            <a href="https://github.com/crstnbr/julia-workshop/raw/master/0%20Intro%20and%20prerequisites/intro-presentation/slides.pdf"><img id="imageresource" src="img/julia_workshop.png" width="380px" style="display:block;margin-left:auto;margin-right:auto;margin-top:12%;margin-bottom:25%;"></a>
             </div>
 
             <div class="col-lg-7">
@@ -243,25 +243,25 @@ Germany), pp.877-884</p>
             <div class="col-lg-8 col-lg-offset-2 text-center">
                 <h2 class="text-center">Contact</h2>
                 <p>Feel free to email me, even if it's just to say hello!</p>
-				<form id="contactform" name="contactform" method=POST action="index.php">
-				  <p>What's the matter?</p>
-				  <fieldset class="text-left center">
-					<input type="radio" id="pri" name="matter" value="private" checked="checked"><label for="pri">&nbsp;&nbsp;private</label><br>
-					<input type="radio" id="wor" name="matter" value="work"><label for="wor">&nbsp;&nbsp;work</label><br>
-					<input type="radio" id="spa" name="matter" value="spam"><label for="spa">&nbsp;&nbsp;spam</label>
-				  </fieldset>
-				<br>
-				<div id="captcha">
-					<div id="captchadiv"></div>
-				</div>
-				</form>
-				<div id="captcharesult" class="text-center">
+                <form id="contactform" name="contactform" method=POST action="index.php">
+                  <p>What's the matter?</p>
+                  <fieldset class="text-left center">
+                    <input type="radio" id="pri" name="matter" value="private" checked="checked"><label for="pri">&nbsp;&nbsp;private</label><br>
+                    <input type="radio" id="wor" name="matter" value="work"><label for="wor">&nbsp;&nbsp;work</label><br>
+                    <input type="radio" id="spa" name="matter" value="spam"><label for="spa">&nbsp;&nbsp;spam</label>
+                  </fieldset>
+                <br>
+                <div id="captcha">
+                    <div id="captchadiv"></div>
+                </div>
+                </form>
+                <div id="captcharesult" class="text-center">
 
-				</div>
+                </div>
             </div>
         </div>
-		<div class="row">
-		<!-- <div class="col-lg-3 col-lg-offset-2 text-center"> !-->
+        <div class="row">
+        <!-- <div class="col-lg-3 col-lg-offset-2 text-center"> !-->
             <div class="col-lg-3 text-center">
                 <h4 class="text-left">Office</h4>
                 <p class="text-left">Institut für Theoretische Physik <br>
@@ -277,8 +277,8 @@ Details: <a href="http://goo.gl/YxBVMz">goo.gl/YxBVMz</a></p>
                 <h4 class="text-left">Institute for Theoretical Physics</h4>
                 <p class="text-left"><a href="http://www.thp.uni-koeln.de"><img id="imageresource" src="img/thp_schwarzweiss_klein.jpg" height="240px" style="border: solid thin #aaa;"></a></p>
             </div>
-			<div class="col-lg-4 text-center">
-				<h4 class="text-left">Location</h4>
+            <div class="col-lg-4 text-center">
+                <h4 class="text-left">Location</h4>
                 <p class="text-left"><div id="map"></div></p>
             </div>
         </div>
@@ -287,7 +287,7 @@ Details: <a href="http://goo.gl/YxBVMz">goo.gl/YxBVMz</a></p>
     <!-- Footer -->
     <footer>
         <div class="container text-center">
-			<p class="small-text">Copyright &copy; Carsten Bauer. All rights reserved.</p>
+            <p class="small-text">Copyright &copy; Carsten Bauer. All rights reserved.</p>
         </div>
     </footer>
 
