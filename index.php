@@ -87,7 +87,7 @@
                         <a class="page-scroll" href="#publications">publications</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#projects">projects</a>
+                        <a class="page-scroll" href="#activities">activities</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
@@ -216,20 +216,36 @@ Germany), pp.877-884</p>
     </section>
 
 
-<!-- Projects Section -->
-    <section id="projects" class="container content-section top-seperator" style="padding-right: 80px;">
-        <h2 class="text-center">Projects and activities</h2>
+<!-- Activities Section -->
+    <section id="activities" class="container content-section top-seperator" style="padding-right: 80px;">
+        <h2 class="text-center">Activities</h2>
         <div class="row" style="display:flex; margin-top:80px;">
             <div class="col-lg-5">
-            <a href="https://github.com/crstnbr/julia-workshop/raw/master/0%20Intro%20and%20prerequisites/intro-presentation/slides.pdf"><img id="imageresource" src="img/julia_workshop.png" width="380px" style="display:block;margin-left:auto;margin-right:auto;margin-top:12%;margin-bottom:25%;"></a>
+            <a href="https://github.com/crstnbr/JuliaWorkshop19/raw/master/presentation/julia.pdf"><img id="imageresource" src="img/julia_workshop.png" width="380px" style="display:block;margin-left:auto;margin-right:auto;margin-top:12%;margin-bottom:25%;"></a>
             </div>
 
             <div class="col-lg-7">
-            <h4><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120" class="hidden-link">Advanced Julia Workshops @ University of Cologne</a></h4>
+            <h4><a href="https://github.com/crstnbr/JuliaWorkshop19" class="hidden-link">Advanced Julia workshops @ University of Cologne</a></h4>
             <p>
             <a href="http://julialang.org">Julia</a> is a beautiful young dynamic programming language created for numerical computing. It aims to be as intuitive as Python while still being as fast as statically compiled languages like Fortran and C. Julia is free for everyone to use, and all source code is publicly viewable on GitHub. Because of my passion for the language - it is my favorite programming language to use - I regularly teach Julia at undergraduate, graduate, and post-graduate level at the University of Cologne. Check out the repositories linked below to get an impression of some of the covered content. Somewhat related, I also gave a short talk at <a href="https://juliacon.org/2018/">JuliaCon 2018</a> in London which you can find <a href="https://www.youtube.com/watch?v=BmVd7pw6Trc">on youtube</a>.<br><br>
 
-            GitHub: <a href="https://github.com/crstnbr/julia-workshop">julia-workshop-2018</a>, <a href="https://github.com/crstnbr/julia-workshop-2019">julia-workshop-2019</a>
+            GitHub: <a href="https://github.com/crstnbr/JuliaWorkshop19">JuliaWorkshop19</a>, <a href="https://github.com/crstnbr/JuliaWorkshop18">JuliaWorkshop18</a>
+
+            </p>
+            </div>
+        </div>
+        <div class="row" style="display:flex; margin-top:80px;">
+            <div class="col-lg-5">
+            <a href="https://github.com/JuliaPhysics"><img id="imageresource" src="img/JuliaPhysics.png" width="250px" style="display:block;margin-left:auto;margin-right:auto;margin-top:15%;margin-bottom:25%;"></a>
+            </div>
+
+            <div class="col-lg-7">
+            <h4><a href="https://juliaphysics.github.io/latest/index.html" class="hidden-link">Julia development and JuliaPhysics organization</a></h4>
+            <p>
+            Over the years, I have written several Julia packages like <a href="https://github.com/crstnbr/MonteCarlo.jl">MonteCarlo.jl</a>, <a href="https://github.com/crstnbr/BinningAnalysis.jl">BinningAnalysis.jl</a>, and <a href="https://github.com/crstnbr/StableDQMC.jl">StableDQMC.jl</a> and contributed to many more, including <a href="https://github.com/JuliaPy/PyCall.jl">PyCall.jl</a> and the <a href="https://github.com/JuliaLang/julia">Julia language itself</a>.
+            I'm a co-founder of the JuliaPhysics GitHub group which aims to bring physicists of the Julia community together. Besides developing, hosting, and maintaining a collection of general physics packages we try to help newcomers to orient themselves in the ecosystem. To that end, we provide a set of curated <a href="https://juliaphysics.github.io/latest/tutorials/">introductory physics tutorials</a> which highlights Julia in physics applications.<br><br>
+
+            GitHub: <a href="https://github.com/JuliaPhysics">JuliaPhysics</a>, <a href="https://github.com/JuliaPhysics/PhysicsTutorials.jl">PhysicsTutorials.jl</a>
 
             </p>
             </div>
