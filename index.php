@@ -11,6 +11,10 @@
 
     <title>CARSTEN BAUER</title>
 
+    <!-- Mathjax -->
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -159,13 +163,13 @@
         <h2 class="text-center">Science</h2>
         <div class="row" style="display:flex; margin-top:80px;">
             <div class="col-lg-5">
-            <a href="#" class="hidden-link" id="popsdw" onclick="return false;"><img id="imageresource" src="img/sdwscales.png" width="290px" style="display:block;margin-left:auto;margin-right:auto;margin-top:22%;margin-bottom:25%;"></a>
+            <a href="#" class="hidden-link" id="popsdw" onclick="return false;"><img id="imageresource" src="img/sdwscales.png" width="290px" style="display:block;margin-left:auto;margin-right:auto;margin-top:40%;margin-bottom:25%;"></a>
             </div>
 
             <div class="col-lg-7">
             <h4><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120" class="hidden-link">Metallic quantum criticality and high-temperature superconductivity</a></h4>
             <p>
-            Quantum many-fermion systems give rise to diverse states of matter that often reveal themselves in distinctive transport properties. While some of these states can be captured by microscopic models it remains challenging to numerically access their transport properties. Here we demonstrate that a machine learning technique dubbed quantum loop topography (QLT) can be used to directly probe transport by machine learning current-current correlations in imaginary time. We showcase this approach by studying the emergence of superconducting fluctuations in the negative-U Hubbard model and a spin-fermion model for a metallic quantum critical point. For both models, we find that the QLT approach detects a change in transport in very good agreement with their established phase diagrams. These proof-of-principle calculations combined with the numerical efficiency of the QLT approach point a way to identify hitherto elusive transport phenomena such as non-Fermi liquids using machine learning algorithms.<br><br>
+            In this work, we present numerically exact results from sign-problem free quantum Monte Carlo simulations for a spin-fermion model near an \(O(3)\) symmetric antiferromagnetic (AFM) quantum critical point. We find a hierarchy of energy scales that emerges near the quantum critical point. At high energy scales, there is a broad regime characterized by Landau-damped order parameter dynamics with dynamical critical exponent \(z=2\), while the fermionic excitations remain coherent. The quantum critical magnetic fluctuations are well described by Hertz-Millis theory, except for a \(T^{-2}\) divergence of the static AFM susceptibility. This regime persists down to a lower energy scale, where the fermions become overdamped and concomitantly, a transition into a  \(d-\)wave superconducting state occurs. These findings resemble earlier results for a spin-fermion model with easy-plane AFM fluctuations of an \(O(2)\) SDW order parameter, despite noticeable differences in the perturbative structure of the two theories. In the \(O(3)\) case, perturbative corrections to the spin-fermion vertex are expected to dominate at an additional energy scale, below which the \(z=2\) behavior breaks down, leading to a novel \(z=1\) fixed point with emergent local nesting at the hot spots [Schlief <i>et. al.</i> PRX 7, 2017]. Motivated by this prediction, we also consider a variant of the model where the hot spots are nearly locally nested. Within the available temperature range in our study (\(T\ge E_F/200\), we find substantial deviations from the \(z=2\) Hertz-Millis behavior, but no evidence for the predicted \(z=1\) criticality.<br><br>
 
             Reading: <a href="#">paper</a>, <a href="http://carstenbauer.eu/sdwo3_talk.pdf">talk</a></a>
 
