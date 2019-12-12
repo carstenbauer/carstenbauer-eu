@@ -291,7 +291,7 @@ Details: <a href="http://goo.gl/YxBVMz">goo.gl/YxBVMz</a></p>
             </div>
             <div class="col-lg-5 text-center" style="padding-left: 6%">
                 <h4 class="text-left">Institute for Theoretical Physics</h4>
-                <p class="text-left"><a href="http://www.thp.uni-koeln.de"><img id="imageresource" src="img/thp_schwarzweiss_klein.jpg" height="240px" style="border: solid thin #aaa;"></a></p>
+                <p class="text-left"><a href="http://www.thp.uni-koeln.de"><img id="imageresource" src="img/thp_farbig_klein.jpg" height="240px" style="border: solid thin #aaa;"></a></p>
             </div>
             <div class="col-lg-4 text-center">
                 <h4 class="text-left">Location</h4>
