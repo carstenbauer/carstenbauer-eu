@@ -159,6 +159,22 @@
         <h2 class="text-center">Science</h2>
         <div class="row" style="display:flex; margin-top:80px;">
             <div class="col-lg-5">
+            <a href="#" class="hidden-link" id="popsdw" onclick="return false;"><img id="imageresource" src="img/sdwscales.png" width="290px" style="display:block;margin-left:auto;margin-right:auto;margin-top:22%;margin-bottom:25%;"></a>
+            </div>
+
+            <div class="col-lg-7">
+            <h4><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120" class="hidden-link">Metallic quantum criticality and high-temperature superconductivity</a></h4>
+            <p>
+            Quantum many-fermion systems give rise to diverse states of matter that often reveal themselves in distinctive transport properties. While some of these states can be captured by microscopic models it remains challenging to numerically access their transport properties. Here we demonstrate that a machine learning technique dubbed quantum loop topography (QLT) can be used to directly probe transport by machine learning current-current correlations in imaginary time. We showcase this approach by studying the emergence of superconducting fluctuations in the negative-U Hubbard model and a spin-fermion model for a metallic quantum critical point. For both models, we find that the QLT approach detects a change in transport in very good agreement with their established phase diagrams. These proof-of-principle calculations combined with the numerical efficiency of the QLT approach point a way to identify hitherto elusive transport phenomena such as non-Fermi liquids using machine learning algorithms.<br><br>
+
+            Reading: <a href="#">paper</a>, <a href="http://carstenbauer.eu/sdwo3_talk.pdf">talk</a></a>
+
+            </p>
+            </div>
+        </div>
+
+        <div class="row" style="display:flex; margin-top:80px;">
+            <div class="col-lg-5">
             <a href="#" class="hidden-link" id="popqlt" onclick="return false;"><img id="imageresource" src="img/qlt.png" width="400px" style="display:block;margin-left:auto;margin-right:auto;margin-top:25%;margin-bottom:25%;"></a>
             </div>
 
@@ -167,7 +183,7 @@
             <p>
             Quantum many-fermion systems give rise to diverse states of matter that often reveal themselves in distinctive transport properties. While some of these states can be captured by microscopic models it remains challenging to numerically access their transport properties. Here we demonstrate that a machine learning technique dubbed quantum loop topography (QLT) can be used to directly probe transport by machine learning current-current correlations in imaginary time. We showcase this approach by studying the emergence of superconducting fluctuations in the negative-U Hubbard model and a spin-fermion model for a metallic quantum critical point. For both models, we find that the QLT approach detects a change in transport in very good agreement with their established phase diagrams. These proof-of-principle calculations combined with the numerical efficiency of the QLT approach point a way to identify hitherto elusive transport phenomena such as non-Fermi liquids using machine learning algorithms.<br><br>
 
-            Reading: <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120">paper</a>
+            Reading: <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120">paper</a>, <a href="http://www.john-von-neumann-institut.de/nic/EN/News/Symposium/NIC-Symposium-2020/Proceedings/_node.html" >article</a>
 
             </p>
             </div>
@@ -195,6 +211,13 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2 class="text-center">Publications</h2>
+
+                <h3>2019</h3>
+                <p><a href="#" >&quot;Hierarchy of energy scales in an O(3) symmetric
+antiferromagnetic quantum critical metal: a Monte Carlo study&quot;</a><br><b>Carsten Bauer</b>, Yoni Schattner, Simon Trebst, and Erez Berg<br>arXiv:TBA</p>
+                <p><a href="http://www.john-von-neumann-institut.de/nic/EN/News/Symposium/NIC-Symposium-2020/Proceedings/_node.html" >&quot;Machine Learning Transport Properties in Quantum
+Many-Fermion Simulations&quot;</a><br><b>Carsten Bauer</b>, Simon Trebst<br>NIC Symposium 2020 - Proceedings, NIC Series
+Vol. 50</p>
 
                 <h3>2018</h3>
                 <p><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120" >&quot;Probing transport in quantum many-fermion simulations via quantum loop topography&quot;</a><br>Yi Zhang, <b>Carsten Bauer</b>, Peter Broecker, Simon Trebst, and Eun-Ah Kim<br>Phys. Rev. <b>B</b> 99, 161120(R), Editors' Suggestion</p>

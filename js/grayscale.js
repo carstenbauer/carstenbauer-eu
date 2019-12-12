@@ -104,6 +104,12 @@ var verifyCallback = function(response) {
 		 }
 };
 
+$("#popsdw").on("click", function() {
+   $('#imagepreview').attr('src', "img/sdw_figures.png" ); //$('#imageresource').attr('src') here asign the image to the modal when the user click the enlarge link
+   document.getElementById("myModalLabel").textContent="Hierarchy of energy scales in an O(3) symmetric antiferromagnetic quantum critical metal: a Monte Carlo study"
+   $('#imagemodal').modal('show'); // imagemodal is the id attribute assigned to the bootstrap modal, then i use the show function
+});
+
 $("#popqlt").on("click", function() {
    $('#imagepreview').attr('src', "img/qlt_figures.png" ); //$('#imageresource').attr('src') here asign the image to the modal when the user click the enlarge link
    document.getElementById("myModalLabel").textContent="Probing transport in quantum many-fermion simulations via quantum loop topography" //$('#imageresource').attr('src') here asign the image to the modal when the user click the enlarge link
