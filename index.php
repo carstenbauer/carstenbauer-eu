@@ -216,9 +216,11 @@
             <div class="col-lg-8 col-lg-offset-2">
                 <h2 class="text-center">Publications</h2>
 
-                <h3>2019</h3>
+                <h3>2020</h3>
                 <p><a href="https://arxiv.org/abs/2001.00586" >&quot;Hierarchy of energy scales in an O(3) symmetric
 antiferromagnetic quantum critical metal: a Monte Carlo study&quot;</a><br><b>Carsten Bauer</b>, Yoni Schattner, Simon Trebst, and Erez Berg<br>arXiv:2001.00586</p>
+
+                <h3>2019</h3>
                 <p><a href="http://www.john-von-neumann-institut.de/nic/EN/News/Symposium/NIC-Symposium-2020/Proceedings/_node.html" >&quot;Machine Learning Transport Properties in Quantum
 Many-Fermion Simulations&quot;</a><br><b>Carsten Bauer</b>, Simon Trebst<br>NIC Symposium 2020 - Proceedings, NIC Series
 Vol. 50</p>
