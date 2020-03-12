@@ -217,16 +217,18 @@
                 <h2 class="text-center">Publications</h2>
 
                 <h3>2020</h3>
+                <p><a href="http://arxiv.org/abs/2003.05286" >&quot;Fast and stable determinant Quantum Monte Carlo&quot;</a><br><b>Carsten Bauer</b><br>Cologne<br>arXiv:2003.05286</p>
+
                 <p><a href="https://arxiv.org/abs/2001.00586" >&quot;Hierarchy of energy scales in an O(3) symmetric
-antiferromagnetic quantum critical metal: a Monte Carlo study&quot;</a><br><b>Carsten Bauer</b>, Yoni Schattner, Simon Trebst, and Erez Berg<br>arXiv:2001.00586</p>
+antiferromagnetic quantum critical metal: a Monte Carlo study&quot;</a><br><b>Carsten Bauer</b>, Yoni Schattner, Simon Trebst, and Erez Berg<br>Cologne - Stanford - Weizmann<br>arXiv:2001.00586</p>
 
                 <h3>2019</h3>
                 <p><a href="http://www.john-von-neumann-institut.de/nic/EN/News/Symposium/NIC-Symposium-2020/Proceedings/_node.html" >&quot;Machine Learning Transport Properties in Quantum
-Many-Fermion Simulations&quot;</a><br><b>Carsten Bauer</b>, Simon Trebst<br>NIC Symposium 2020 - Proceedings, NIC Series
+Many-Fermion Simulations&quot;</a><br><b>Carsten Bauer</b>, Simon Trebst<br>Cologne<br>NIC Symposium 2020 - Proceedings, NIC Series
 Vol. 50</p>
 
                 <h3>2018</h3>
-                <p><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120" >&quot;Probing transport in quantum many-fermion simulations via quantum loop topography&quot;</a><br>Yi Zhang, <b>Carsten Bauer</b>, Peter Broecker, Simon Trebst, and Eun-Ah Kim<br>Phys. Rev. <b>B</b> 99, 161120(R), Editors' Suggestion</p>
+                <p><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120" >&quot;Probing transport in quantum many-fermion simulations via quantum loop topography&quot;</a><br>Yi Zhang, <b>Carsten Bauer</b>, Peter Broecker, Simon Trebst, and Eun-Ah Kim<br>Cologne - Cornell<br>Phys. Rev. <b>B</b> 99, 161120(R), Editors' Suggestion</p>
 
                 <h3>2015</h3>
                 <p><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.121409" >&quot;Nonperturbative renormalization group calculation of quasiparticle velocity and dielectric function of graphene&quot;</a><br><b>Carsten Bauer</b>, Andreas Rückriegel, Anand Sharma, and Peter Kopietz<br> Phys. Rev. <b>B</b> 92, 121409(R)</p>
