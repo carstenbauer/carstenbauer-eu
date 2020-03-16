@@ -252,15 +252,15 @@ Germany), pp.877-884</p>
         <h2 class="text-center">Activities</h2>
         <div class="row" style="display:flex; margin-top:80px;">
             <div class="col-lg-5">
-            <a href="https://github.com/crstnbr/JuliaWorkshop19/raw/master/presentation/julia.pdf"><img id="imageresource" src="img/julia_workshop.png" width="380px" style="display:block;margin-left:auto;margin-right:auto;margin-top:12%;margin-bottom:25%;"></a>
+            <a href="https://github.com/crstnbr/JuliaWorkshop19/raw/master/presentation/julia.pdf"><img id="imageresource" src="img/julia_workshop.png" width="380px" style="display:block;margin-left:auto;margin-right:auto;margin-top:19%;margin-bottom:25%;"></a>
             </div>
 
             <div class="col-lg-7">
             <h4><a href="https://github.com/crstnbr/JuliaWorkshop19" class="hidden-link">Advanced Julia workshops @ University of Cologne</a></h4>
             <p>
-            <a href="http://julialang.org">Julia</a> is a beautiful young dynamic programming language created for numerical computing. It aims to be as intuitive as Python while still being as fast as statically compiled languages like Fortran and C. Julia is free for everyone to use, and all source code is publicly viewable on GitHub. Because of my passion for the language - it is my favorite programming language to use - I regularly teach Julia at undergraduate, graduate, and post-graduate level at the University of Cologne. Check out the repositories linked below to get an impression of some of the covered content. Somewhat related, I also gave a short talk at <a href="https://juliacon.org/2018/">JuliaCon 2018</a> in London which you can find <a href="https://www.youtube.com/watch?v=BmVd7pw6Trc">on youtube</a>.<br><br>
+            <a href="http://julialang.org">Julia</a> is a beautiful young dynamic programming language created for numerical computing. It aims to be as intuitive as Python while still being as fast as statically compiled languages like Fortran and C. Julia is free to use, and all source code is publicly available on GitHub. Because of my passion for the language - it is my favorite programming language to use - I regularly teach Julia at undergraduate, graduate, and post-graduate level at the University of Cologne. I also give Julia workshops as a freelancer, most recently at the <a href="https://www.oulu.fi/university/">University of Oulu</a> in Finland. Check out the repositories linked below to get an impression of some of the covered content. Somewhat related, I also gave a short talk at <a href="https://juliacon.org/2018/">JuliaCon 2018</a> in London which you can find <a href="https://www.youtube.com/watch?v=BmVd7pw6Trc">on youtube</a>.<br><br>
 
-            GitHub: <a href="https://github.com/crstnbr/JuliaWorkshop19">JuliaWorkshop19</a>, <a href="https://github.com/crstnbr/JuliaWorkshop18">JuliaWorkshop18</a>
+            GitHub: <a href="https://github.com/crstnbr/JuliaOulu20">JuliaOulu20</a>, <a href="https://github.com/crstnbr/JuliaWorkshop19">JuliaWorkshop19</a>, <a href="https://github.com/crstnbr/JuliaWorkshop18">JuliaWorkshop18</a>
 
             </p>
             </div>
