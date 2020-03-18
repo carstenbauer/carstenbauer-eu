@@ -224,8 +224,7 @@ antiferromagnetic quantum critical metal: a Monte Carlo study&quot;</a><br><b>Ca
 
                 <h3>2019</h3>
                 <p><a href="http://www.john-von-neumann-institut.de/nic/EN/News/Symposium/NIC-Symposium-2020/Proceedings/_node.html" >&quot;Machine Learning Transport Properties in Quantum
-Many-Fermion Simulations&quot;</a><br><b>Carsten Bauer</b>, Simon Trebst<br>Cologne<br>NIC Symposium 2020 - Proceedings, NIC Series
-Vol. 50</p>
+Many-Fermion Simulations&quot;</a> (<a href="https://juser.fz-juelich.de/record/874367">record entry</a>)<br><b>Carsten Bauer</b>, Simon Trebst<br>Cologne<br>In NIC Symposium 2020, Vol. 50, pp. 85–92, Forschungszentrum Jülich GmbH Zentralbibliothek, Verlag</p>
 
                 <h3>2018</h3>
                 <p><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120" >&quot;Probing transport in quantum many-fermion simulations via quantum loop topography&quot;</a><br>Yi Zhang, <b>Carsten Bauer</b>, Peter Broecker, Simon Trebst, and Eun-Ah Kim<br>Cologne - Cornell<br>Phys. Rev. <b>B</b> 99, 161120(R), Editors' Suggestion</p>
