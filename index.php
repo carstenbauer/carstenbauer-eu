@@ -171,7 +171,7 @@
             <p>
             In this work, we present numerically exact results from sign-problem free quantum Monte Carlo simulations for a spin-fermion model near an \(O(3)\) symmetric antiferromagnetic (AFM) quantum critical point. We find a hierarchy of energy scales that emerges near the quantum critical point. At high energy scales, there is a broad regime characterized by Landau-damped order parameter dynamics with dynamical critical exponent \(z=2\), while the fermionic excitations remain coherent. The quantum critical magnetic fluctuations are well described by Hertz-Millis theory, except for a \(T^{-2}\) divergence of the static AFM susceptibility. This regime persists down to a lower energy scale, where the fermions become overdamped and concomitantly, a transition into a  \(d-\)wave superconducting state occurs. These findings resemble earlier results for a spin-fermion model with easy-plane AFM fluctuations of an \(O(2)\) SDW order parameter, despite noticeable differences in the perturbative structure of the two theories. In the \(O(3)\) case, perturbative corrections to the spin-fermion vertex are expected to dominate at an additional energy scale, below which the \(z=2\) behavior breaks down, leading to a novel \(z=1\) fixed point with emergent local nesting at the hot spots [Schlief <i>et. al.</i> PRX 7, 2017]. Motivated by this prediction, we also consider a variant of the model where the hot spots are nearly locally nested. Within the available temperature range in our study (\(T\ge E_F/200\), we find substantial deviations from the \(z=2\) Hertz-Millis behavior, but no evidence for the predicted \(z=1\) criticality.<br><br>
 
-            Reading: <a href="https://arxiv.org/abs/2001.00586">paper</a>, <a href="http://carstenbauer.eu/sdwo3_talk.pdf">talk</a>, <a href="https://github.com/crstnbr/dqmc">git repo</a>
+            Reading: <a href="https://link.aps.org/doi/10.1103/PhysRevResearch.2.023008">paper</a>, <a href="http://carstenbauer.eu/sdwo3_talk.pdf">talk</a>, <a href="https://github.com/crstnbr/dqmc">git repo</a>
 
             </p>
             </div>
@@ -219,18 +219,21 @@
                 <h3>2020</h3>
                 <p><a href="http://arxiv.org/abs/2003.05286" >&quot;Fast and stable determinant Quantum Monte Carlo&quot;</a><br><b>Carsten Bauer</b><br>Cologne<br>arXiv:2003.05286 (<a href="https://github.com/crstnbr/StableDQMC.jl">source code @ GitHub</a>)</p>
 
-                <p><a href="https://arxiv.org/abs/2001.00586" >&quot;Hierarchy of energy scales in an O(3) symmetric
-antiferromagnetic quantum critical metal: a Monte Carlo study&quot;</a><br><b>Carsten Bauer</b>, Yoni Schattner, Simon Trebst, and Erez Berg<br>Cologne - Stanford - Weizmann<br>arXiv:2001.00586 (<a href="https://github.com/crstnbr/dqmc">source code @ GitHub</a>)</p>
+                <p><a href="https://link.aps.org/doi/10.1103/PhysRevResearch.2.023008" >&quot;Hierarchy of energy scales in an O(3) symmetric
+				antiferromagnetic quantum critical metal: a Monte Carlo study&quot;</a><br>
+				<b>Carsten Bauer</b>, Yoni Schattner, Simon Trebst, and Erez Berg<br>
+				Cologne - Stanford - Weizmann<br>
+				Phys. Rev. Research <b>2</b>, 023008 (<a href="https://github.com/crstnbr/dqmc">source code @ GitHub</a>)</p>
 
                 <h3>2019</h3>
                 <p><a href="http://www.john-von-neumann-institut.de/nic/EN/News/Symposium/NIC-Symposium-2020/Proceedings/_node.html" >&quot;Machine Learning Transport Properties in Quantum
 Many-Fermion Simulations&quot;</a> (<a href="https://juser.fz-juelich.de/record/874367">record entry</a>)<br><b>Carsten Bauer</b>, Simon Trebst<br>Cologne<br>In NIC Symposium 2020, Vol. 50, pp. 85–92, Forschungszentrum Jülich GmbH Zentralbibliothek, Verlag</p>
 
                 <h3>2018</h3>
-                <p><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120" >&quot;Probing transport in quantum many-fermion simulations via quantum loop topography&quot;</a><br>Yi Zhang, <b>Carsten Bauer</b>, Peter Broecker, Simon Trebst, and Eun-Ah Kim<br>Cologne - Cornell<br>Phys. Rev. <b>B</b> 99, 161120(R), Editors' Suggestion</p>
+                <p><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120" >&quot;Probing transport in quantum many-fermion simulations via quantum loop topography&quot;</a><br>Yi Zhang, <b>Carsten Bauer</b>, Peter Broecker, Simon Trebst, and Eun-Ah Kim<br>Cologne - Cornell<br>Phys. Rev. B <b>99</b>, 161120(R), Editors' Suggestion</p>
 
                 <h3>2015</h3>
-                <p><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.121409" >&quot;Nonperturbative renormalization group calculation of quasiparticle velocity and dielectric function of graphene&quot;</a><br><b>Carsten Bauer</b>, Andreas Rückriegel, Anand Sharma, and Peter Kopietz<br> Phys. Rev. <b>B</b> 92, 121409(R)</p>
+                <p><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.121409" >&quot;Nonperturbative renormalization group calculation of quasiparticle velocity and dielectric function of graphene&quot;</a><br><b>Carsten Bauer</b>, Andreas Rückriegel, Anand Sharma, and Peter Kopietz<br> Phys. Rev. B <b>92</b>, 121409(R)</p>
 
                 <p>Master's thesis: <a href="http://carstenbauer.eu/master.pdf">&quot;Quasi-particle velocity renormalization in graphene&quot;</a><br>
                 Invited talk @ University of Cologne: <a href="http://carstenbauer.eu/Graphene_FRG_Cologne.pdf">&quot;Quasi-particle velocity renormalization in graphene&quot;</a><br>
