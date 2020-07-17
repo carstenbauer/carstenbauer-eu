@@ -217,7 +217,7 @@
                 <h2 class="text-center">Publications</h2>
 
                 <h3>2020</h3>
-                <p><a href="#" >&quot;Observation of non-Fermi liquid physics in a quantum critical region via quantum loop topography&quot;</a><br>George Driskell, Samuel Lederer, <b>Carsten Bauer</b>, Simon Trebst, and Eun-Ah Kim<br><i>in preparation</i><br><span class="cooperation">Cologne - Cornell</span></p>
+                <p><a href="https://arxiv.org/abs/2007.07898" >&quot;Observation of non-Fermi liquid physics in a quantum critical region via quantum loop topography&quot;</a><br>George Driskell, Samuel Lederer, <b>Carsten Bauer</b>, Simon Trebst, and Eun-Ah Kim<br>arXiv:2007.07898<br><span class="cooperation">Cologne - Cornell</span></p>
 
                 <p><a href="https://scipost.org/10.21468/SciPostPhysCore.2.2.011" >&quot;Fast and stable determinant Quantum Monte Carlo&quot;</a><br><b>Carsten Bauer</b><br>SciPost Phys. Core 2, 2 (<a href="https://github.com/crstnbr/StableDQMC.jl">source code @ GitHub</a>)<br><span class="cooperation">Cologne</span></p>
 
