@@ -265,7 +265,7 @@
 <!-- Science Section -->
     <section id="science" class="container content-section top-seperator" style="padding-right: 80px;">
         <h2 class="text-center">Science</h2>
-        <div class="row" style="display:flex; margin-top:80px;">
+        <div class="row" style="display:flex; margin-top:100px;">
             <div class="col-lg-6">
             <a href="#" class="hidden-link" id="popsdw" onclick="return false;"><img id="imageresource" src="img/sdwscales.png" width="290px" style="display:block;margin-left:auto;margin-right:auto;margin-top:40%;margin-bottom:25%;"></a>
             </div>
@@ -277,11 +277,15 @@
 
             Reading: <a href="https://link.aps.org/doi/10.1103/PhysRevResearch.2.023008">paper</a>, <a href="http://carstenbauer.eu/sdwo3_talk.pdf">talk</a>, <a href="https://github.com/crstnbr/dqmc">git repo</a>, <a href="https://scipost.org/SciPostPhysCore.2.2.011">related paper</a>
 
+            <br>
+            <a href="https://www.uni-koeln.de"><img src="img/LogoUoC.svg" width=110px style="margin-right: 50px"></a>
+            <a href="https://www.stanford.edu"><img src="img/stanford.svg" width=150px style="margin-right: 50px"></a>
+            <a href="https://www.weizmann.ac.il"><img src="img/weizmann.svg" width=220px></a>
             </p>
             </div>
         </div>
 
-        <div class="row" style="display:flex; margin-top:80px;">
+        <div class="row" style="display:flex; margin-top:100px;">
             <div class="col-lg-7">
             <h4><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120" class="hidden-link">Machine learning transport properties of quantum matter</a></h4>
             <p style="text-align: justify;">
@@ -289,6 +293,9 @@
 
             Reading: <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120">paper1</a>, <a href="http://www.john-von-neumann-institut.de/nic/EN/News/Symposium/NIC-Symposium-2020/Proceedings/_node.html" >article</a>, <a href="https://arxiv.org/abs/2007.07898">paper2</a>
 
+            <br><br>
+            <a href="https://www.uni-koeln.de"><img src="img/LogoUoC.svg" width=110px style="margin-right: 50px"></a>
+            <a href="https://www.cornell.edu"><img src="img/cornell.svg" width=200px></a>
             </p>
             </div>
 
@@ -297,7 +304,7 @@
             </div>
         </div>
 
-        <div class="row" style="display:flex; margin-top:80px;">
+        <div class="row" style="display:flex; margin-top:100px;">
             <div class="col-lg-6">
             <a href="#" class="hidden-link" id="pop2" onclick="return false;"><img id="imageresource" src="img/graphene.png" width="200px" style="display:block;margin-left:auto;margin-right:auto;margin-top:25%;margin-bottom:25%;"></a>
             </div>
@@ -309,6 +316,9 @@
 
             Reading: <a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.121409">paper</a>, <a href="http://carstenbauer.eu/master.pdf">thesis</a>, <a href="http://carstenbauer.eu/Graphene_FRG_Cologne.pdf">talk</a>
 
+            <br><br>
+            <a href="https://www.uni-frankfurt.de/de"><img src="img/goethe-logo.svg" width=110px style="margin-right: 50px"></a>
+            <a href="http://www.ufl.edu"><img src="img/uflorida.svg" width=180px></a>
             </p>
             </div>
         </div>
