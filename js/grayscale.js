@@ -121,3 +121,16 @@ $("#pop2").on("click", function() {
    document.getElementById("myModalLabel").textContent="Quasiparticle velocity renormalization in graphene" //$('#imageresource').attr('src') here asign the image to the modal when the user click the enlarge link
    $('#imagemodal').modal('show'); // imagemodal is the id attribute assigned to the bootstrap modal, then i use the show function
 });
+
+
+
+
+// The string is your base64-encoded email
+const emailAddress = atob("bWFpbHRvOm1haWxAY2Fyc3RlbmJhdWVyLmV1");
+
+// Select all links with the attribute 'data-gen-email'
+const emailLinks = document.querySelectorAll('[data-gen-email]');
+
+emailLinks.forEach(link => {
+    link.onmouseover = link.ontouchstart = () => link.setAttribute('href', emailAddress);
+});

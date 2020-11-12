@@ -59,7 +59,7 @@ p {
 @media(min-width:768px) {
     p {
         margin: 0 0 35px;
-        font-size: 19px;
+        font-size: 18px;
         line-height: 1.6;
     }
 }
@@ -196,7 +196,7 @@ a:focus {
 .intro .intro-body {
     display: table-cell;
     vertical-align: bottom;
-    padding-bottom: 50px;
+    padding-bottom: 200px;
 }
 
 .intro .intro-body .brand-heading {
@@ -213,7 +213,7 @@ a:focus {
 		display: table;
         height: 100%;
         padding: 0;
-		background: url(../img/dormitor.jpg) no-repeat bottom center scroll;
+		background: url(../img/en_avdat_trees.jpg) no-repeat bottom center scroll;
 		background-color: #000;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
