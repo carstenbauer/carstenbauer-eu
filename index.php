@@ -232,24 +232,30 @@
         <h2 class="text-center">Julia Workshops</h2>
 
         <div class="row" style="display:flex; margin-top:80px;">
-            <p style="text-align: justify;">
-            <a href="http://julialang.org">Julia</a> is a beautiful young dynamic programming language created for numerical computing. It aims to be as intuitive as Python while still being as fast as statically compiled languages like Fortran and C. Julia is free to use, and all source code is publicly available on GitHub. Because of my passion for the language - it is my favorite programming language to use - I regularly teach Julia at undergraduate, graduate, and post-graduate level at the University of Cologne (check out our <a href="https://vimeo.com/showcase/6910448">computer physics videos</a>). I also give Julia workshops as a freelancer, most recently at the <a href="https://www.oulu.fi/university/">University of Oulu</a> in Finland. Check out the repositories linked below to get an impression of some of the covered content. Somewhat related, I also gave a short talk at <a href="https://juliacon.org/2018/">JuliaCon 2018</a> in London which you can find <a href="https://www.youtube.com/watch?v=BmVd7pw6Trc">on youtube</a>. You might also want to check out <a href="https://github.com/JuliaPhysics/PhysicsTutorials.jl">PhysicsTutorials.jl</a>.
-            </p>
+            <div class="col-lg-5"></div>
+            <div class="col-lg-16">
+                <p style="text-align: justify;">
+                <a href="http://julialang.org">Julia</a> is a beautiful young dynamic programming language created for numerical computing. It aims to be as intuitive as Python while still being as fast as statically compiled languages like Fortran and C. Julia is free to use, and all source code is publicly available on GitHub. Because of my passion for the language - it is my favorite programming language to use - I regularly teach Julia at undergraduate, graduate, and post-graduate level at the University of Cologne (check out our <a href="https://vimeo.com/showcase/6910448">computer physics videos</a>). I also give Julia workshops as a freelancer, most recently at the <a href="https://www.oulu.fi/university/">University of Oulu</a> in Finland. Check out the repositories linked below to get an impression of some of the covered content. Somewhat related, I also gave a short talk at <a href="https://juliacon.org/2018/">JuliaCon 2018</a> in London which you can find <a href="https://www.youtube.com/watch?v=BmVd7pw6Trc">on youtube</a>. You might also want to check out <a href="https://github.com/JuliaPhysics/PhysicsTutorials.jl">PhysicsTutorials.jl</a>.
+                </p>
+            </div>
+            <div class="col-lg-1"></div>
         </div>
 
         <div class="row" style="display:flex; margin-top:80px;">
-            <div class="col-lg-5">
+            <div class="col-sm-1"></div>
+            <div class="col-lg-6">
             <a href="https://github.com/crstnbr/JuliaOulu20"><img id="imageresource" src="img/oulu_workshop_poster_recolored_cyan.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
             </div>
-            <div class="col-lg-5">
+            <div class="col-lg-6">
             <a href="https://github.com/crstnbr/JuliaWorkshop19"><img id="imageresource" src="img/julia_workshop_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
             </div>
-            <div class="col-lg-5">
+            <div class="col-lg-6">
             <a href="https://github.com/crstnbr/JuliaWorkshop18"><img id="imageresource" src="img/julia_18_noposter.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
             </div>
         </div>
 
         <div class="row" style="display:flex; margin-top:50px; margin-bottom: 50px; align-items: center;">
+            <div class="col-sm-1"></div>
             <div class="col-lg-5">
                 <a href="https://www.oulu.fi/university/"><img style="display: block; margin: -20px auto auto auto;" src="img/oulu_logo.svg" width="250px"></a>
             </div>
