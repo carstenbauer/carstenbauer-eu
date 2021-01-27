@@ -139,7 +139,7 @@
 
             <div class="col-lg-7">
             <p style="text-align: justify;">
-			Hi, I'm a computational condensed matter physicist in the group of <a href="http://www.thp.uni-koeln.de/trebst/index.shtml">Prof. Dr. Simon Trebst</a> at the University of Cologne. My research focuses on quantum phase transitions, where the interplay of thermal and quantum fluctuations gives rise to new exotic states of matter. In the vicinity of so-called metallic quantum critical points universal scaling laws emerge as a consequence of strong correlations. To gain a deeper understanding of these quantum critical effects, I develop and apply numerical tools such as Quantum Monte Carlo algorithms and (fancy) Machine Learning techniques, which allow for a comprehensive, unbiased study of relevant quantum field theories.<br>
+			Hi, I'm a postdoctoral computational physicist in the group of <a href="http://www.thp.uni-koeln.de/trebst/index.shtml">Prof. Dr. Simon Trebst</a> at the University of Cologne. My research focuses on quantum phase transitions, where the interplay of thermal and quantum fluctuations gives rise to new exotic states of matter. In the vicinity of so-called metallic quantum critical points universal scaling laws emerge as a consequence of strong correlations. To gain a deeper understanding of these quantum critical effects, I develop and apply numerical tools such as Quantum Monte Carlo algorithms and (fancy) Machine Learning techniques, which allow for a comprehensive, unbiased study of relevant quantum field theories.<br>
 
             <br>
             Apart from Cologne, I studied and worked at the <a href="http://www.uni-frankfurt.de">Goethe University</a>, the <a href="http://ufl.edu">University of Florida</a> (Go Gators!) and the <a href="http://tu-darmstadt.de">TU Darmstadt</a>. I also had the pleasure of conducting longer research stays at <a href="https://www.stanford.edu">Stanford University</a>, the <a href="https://www.weizmann.ac.il/pages/">Weizmann Institute of Science</a>, and the <a href="https://www.uchicago.edu/">University of Chicago</a>.
@@ -241,29 +241,40 @@
             <div class="col-lg-1"></div>
         </div>
 
+
+        <h4 class="text-center" style="margin-top:50px;">Latest/Upcoming Workshops</h4>
         <div class="row" style="display:flex; margin-top:80px;">
             <div class="col-sm-1"></div>
             <div class="col-lg-6">
-            <a href="https://github.com/crstnbr/JuliaOulu20"><img id="imageresource" src="img/oulu_workshop_poster_recolored_cyan.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
+            <a href="https://github.com/crstnbr/JuliaCologne21"><img id="imageresource" src="img/JuliaCologne21_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
             </div>
             <div class="col-lg-6">
+            <a href="https://github.com/crstnbr/JuliaNRW21"><img id="imageresource" src="img/JuliaNRW21_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
+            </div>
+<!--             <div class="col-lg-6">
+            <a href="https://github.com/crstnbr/JuliaNRW21"><img id="imageresource" src="img/JuliaNRW21_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
+            </div> -->
+            <div class="col-lg-6">
+            <a href="https://github.com/crstnbr/JuliaOulu20"><img id="imageresource" src="img/JuliaOulu20_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
+            </div>
+<!--             <div class="col-lg-6">
             <a href="https://github.com/crstnbr/JuliaWorkshop19"><img id="imageresource" src="img/julia_workshop_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
-            </div>
-            <div class="col-lg-6">
-            <a href="https://github.com/crstnbr/JuliaWorkshop18"><img id="imageresource" src="img/julia_18_noposter.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
-            </div>
+            </div> -->
         </div>
 
-        <div class="row" style="display:flex; margin-top:50px; margin-bottom: 50px; align-items: center;">
+        <div class="row" style="display:flex; margin-top:30px; margin-bottom: 50px; align-items: center;">
             <div class="col-sm-1"></div>
             <div class="col-lg-5">
-                <a href="https://www.oulu.fi/university/"><img style="display: block; margin: -20px auto auto auto;" src="img/oulu_logo.svg" width="250px"></a>
+                <a href="http://www.thp.uni-koeln.de"><img style="display: block; margin: auto auto auto auto;" src="img/Logo_THP.svg" width="200px"></a>
             </div>
             <div class="col-lg-5">
+                <a href="https://hpc.dh.nrw"><img style="display: block; margin: auto auto auto auto;" src="img/hpc_nrw.png" width="230px"></a>
+            </div>
+<!--             <div class="col-lg-5">
                 <a href="https://www.uni-koeln.de"><img style="display: block; margin: auto auto auto auto;" src="img/LogoUoC.svg" width="250px"></a>
-            </div>
+            </div> -->
             <div class="col-lg-5">
-                <a href="http://www.thp.uni-koeln.de"><img style="display: block; margin: 20px auto auto auto;" src="img/Logo_THP.svg" width="200px"></a>
+                <a href="https://www.oulu.fi/university/"><img style="display: block; margin: -20px auto auto auto;" src="img/oulu_logo.svg" width="250px"></a>
             </div>
         </div>
     </section>
