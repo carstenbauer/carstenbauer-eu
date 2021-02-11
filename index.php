@@ -350,7 +350,7 @@
                 <h2 class="text-center">Publications</h2>
 
                 <h3>2020</h3>
-                <p>PhD thesis: <a href="http://carstenbauer.eu/Dissertation_CBauer_A5.pdf" >&quot;Simulating and machine learning quantum criticality in a nearly antiferromagnetic metal&quot;</a><br>Advisor: Prof. Dr. Simon Trebst<br><a href="http://carstenbauer.eu/phddefense.key" >Defense Talk</a></p>
+                <p>PhD thesis: <a href="http://kups.ub.uni-koeln.de/id/eprint/35405" >&quot;Simulating and machine learning quantum criticality in a nearly antiferromagnetic metal&quot;</a><br>Advisor: Prof. Dr. Simon Trebst<br><a href="http://carstenbauer.eu/Dissertation_CBauer_A5.pdf">Thesis PDF</a>, <a href="http://carstenbauer.eu/phddefense.key" >Defense Talk</a></p>
 
                 <p><a href="https://arxiv.org/abs/2007.07898" >&quot;Observation of non-Fermi liquid physics in a quantum critical region via quantum loop topography&quot;</a><br>George Driskell, Samuel Lederer, <b>Carsten Bauer</b>, Simon Trebst, and Eun-Ah Kim<br>arXiv:2007.07898<br><span class="cooperation">Cologne - Cornell</span></p>
 
