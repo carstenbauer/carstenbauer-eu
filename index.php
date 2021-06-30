@@ -113,8 +113,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-offset-4 col-md-9"> <!-- col-md-8 col-md-offset-2 !-->
-                        <h1 class="brand-heading">EN AVDAT</h1>
-                        <p class="intro-text">Negev Desert, Israel</p>
+                        <h1 class="brand-heading">JOCHBERG</h1>
+                        <p class="intro-text">Bavaria, Germany</p>
                     </div>
                 </div>
             </div>
