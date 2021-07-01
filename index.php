@@ -126,7 +126,7 @@
     	<h2 class="text-center">About Me</h2>
         <div class="row" style="display:flex; margin-top:80px;margin-bottom: 50px;">
             <div class="col-lg-5">
-            <img id="imageresource" src="img/carsten_bauer_cropped.jpg" width="270px" style="display:block;margin-left:auto;margin-right:auto;margin-top:6%;margin-bottom:7%;border-radius: 2%;">
+            <img id="imageresource" src="img/carsten_bauer_cropped.jpg" width="270px" style="display:block;margin-left:auto;margin-right:auto;margin-top:-4%;margin-bottom:7%;border-radius: 2%;">
 
             <div style="align-items: center; text-align: center;">
                 <a style="color: black" href="#" target="_blank" data-gen-email><i class="fa fa-envelope fa-fw" style="font-size:27px;">&nbsp;</i></a>
@@ -139,10 +139,10 @@
 
             <div class="col-lg-7">
             <p style="text-align: justify;">
-			Hi, I'm a postdoctoral computational physicist in the group of <a href="http://www.thp.uni-koeln.de/trebst/index.shtml">Prof. Dr. Simon Trebst</a> at the University of Cologne. My research focuses on quantum phase transitions, where the interplay of thermal and quantum fluctuations gives rise to new exotic states of matter. In the vicinity of so-called metallic quantum critical points universal scaling laws emerge as a consequence of strong correlations. To gain a deeper understanding of these quantum critical effects, I develop and apply numerical tools such as Quantum Monte Carlo algorithms and (fancy) Machine Learning techniques, which allow for a comprehensive, unbiased study of relevant quantum field theories.<br>
+			Hi, I'm a computational physicist and HPC advisor at <a href="https://pc2.uni-paderborn.de">PC&#178;</a>, a national <a href="https://www.nhr-gs.de">NHR-center</a> for high-performance computing within the <a href="https://hpc.dh.nrw">HPC.NRW</a> competence network. I also regulary give <a href="#workshops">Julia workshops</a> at undergraduate, graduate, and postgraduate level as a freelancer. Feel free to <a href="#contact">contact me</a> if you're interested!<br>
 
             <br>
-            Apart from Cologne, I studied and worked at the <a href="http://www.uni-frankfurt.de">Goethe University</a>, the <a href="http://ufl.edu">University of Florida</a> (Go Gators!) and the <a href="http://tu-darmstadt.de">TU Darmstadt</a>. I also had the pleasure of conducting longer research stays at <a href="https://www.stanford.edu">Stanford University</a>, the <a href="https://www.weizmann.ac.il/pages/">Weizmann Institute of Science</a>, and the <a href="https://www.uchicago.edu/">University of Chicago</a>.
+            I obtained my PhD in the group of <a href="http://www.thp.uni-koeln.de/trebst/index.shtml">Prof. Simon Trebst</a> at the University of Cologne in 2020. Previously, I studied and worked at the <a href="http://www.uni-frankfurt.de">Goethe University</a>, the <a href="http://ufl.edu">University of Florida</a> (Go Gators!) and the <a href="http://tu-darmstadt.de">TU Darmstadt</a>. I also had the pleasure of conducting longer research stays at <a href="https://www.stanford.edu">Stanford University</a>, the <a href="https://www.weizmann.ac.il/pages/">Weizmann Institute of Science</a>, and the <a href="https://www.uchicago.edu/">University of Chicago</a>.
             </p>
 			
             </div>
