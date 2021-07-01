@@ -428,9 +428,9 @@ Germany), pp.877-884<br><span class="cooperation">Frankfurt</span></p>
                     Warburger Str. 100, 33098 Paderborn
                 </p>
 
-                <h4 class="text-left" style="margin-bottom: 30px;">Remote Office</h4>
+                <h4 class="text-left" style="margin-bottom: 30px;">Office</h4>
                 <p class="text-left">
-                    St.-Vither Str. 1, 50933 Köln<br>
+                    St.-Vither Str. 1, 50933 Cologne<br>
                     Phone: tba
                 </p>
             </div>
