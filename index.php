@@ -420,14 +420,17 @@ Germany), pp.877-884<br><span class="cooperation">Frankfurt</span></p>
         </div>
         <div class="row" style="margin-top: 80px;">
         <!-- <div class="col-lg-3 col-lg-offset-2 text-center"> !-->
-            <div class="col-lg-3 text-center">
-                <h4 class="text-left">Work</h4>
+            <div class="col-lg-3 text-center" style="padding-right: 0%">
+                <h4 class="text-left" style="margin-bottom: 30px;">Work</h4>
                 <p class="text-left">
-                    <a href="https://pc2.uni-paderborn.de">PC&#178;</a> | Paderborn Center for<br> Parallel Computing<br>
-                    Warburger Straße 100<br>
-                    33098 Paderborn<br><br>
+                    <!-- <a href="https://pc2.uni-paderborn.de">PC&#178;</a> | Paderborn Center for Parallel Computing<br> -->
+                    <a href="https://www.nhr-gs.de">NHR</a> @ <a href="https://pc2.uni-paderborn.de">PC&#178;</a><br> Paderborn Center for Parallel Computing | National Center for HPC<br>
+                    Warburger Str. 100, 33098 Paderborn
+                </p>
 
-                    Office: Cologne (remote)<br>
+                <h4 class="text-left" style="margin-bottom: 30px;">Remote Office</h4>
+                <p class="text-left">
+                    St.-Vither Str. 1, 50933 Köln<br>
                     Phone: tba
                 </p>
             </div>
