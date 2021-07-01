@@ -421,19 +421,19 @@ Germany), pp.877-884<br><span class="cooperation">Frankfurt</span></p>
         <div class="row" style="margin-top: 80px;">
         <!-- <div class="col-lg-3 col-lg-offset-2 text-center"> !-->
             <div class="col-lg-3 text-center">
-                <h4 class="text-left">Office</h4>
-                <p class="text-left">Institut für Theoretische Physik <br>
-Universität zu Köln<br>
-Zülpicher Straße 77 <br>
-50937 Köln<br><br>
+                <h4 class="text-left">Work</h4>
+                <p class="text-left">
+                    <a href="https://pc2.uni-paderborn.de">PC&#178;</a> | Paderborn Center for<br> Parallel Computing<br>
+                    Warburger Straße 100<br>
+                    33098 Paderborn<br><br>
 
-Office 2.05 Neubau TP <br>
-Phone: 0221-470-1053 <br>
-Details: <a href="http://goo.gl/YxBVMz">goo.gl/YxBVMz</a></p>
+                    Office: Cologne (remote)<br>
+                    Phone: tba
+                </p>
             </div>
             <div class="col-lg-5 text-center" style="padding-left: 6%">
-                <h4 class="text-left">Institute for Theoretical Physics</h4>
-                <p class="text-left"><a href="http://www.thp.uni-koeln.de"><img id="imageresource" src="img/thp_farbig_klein.jpg" height="240px" style="border: solid thin #aaa;"></a></p>
+                <h4 class="text-left">Paderborn Center for Parallel Computing</h4>
+                <p class="text-left"><a href="http://www.thp.uni-koeln.de"><img id="imageresource" src="img/pc2.jpg" height="240px" style="border: solid thin #aaa;"></a></p>
             </div>
             <div class="col-lg-4 text-center">
                 <h4 class="text-left">Location</h4>

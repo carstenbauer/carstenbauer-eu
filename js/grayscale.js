@@ -42,7 +42,9 @@ function init() {
 
         // The latitude and longitude to center the map (always required)
         //center: new google.maps.LatLng(50.174057, 8.631437), // Riedberg
-		center: new google.maps.LatLng(50.926146, 6.932558), // Köln thp
+		// center: new google.maps.LatLng(50.926146, 6.932558), // Köln thp
+        center: new google.maps.LatLng(50.94203, 6.899849), // St Vither
+        center: new google.maps.LatLng(51.707163, 8.770137), // PC2
 
         // Disables the default Google Maps UI components
         disableDefaultUI: true,
