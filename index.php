@@ -310,7 +310,7 @@
             <p style="text-align: justify;">
             Quantum many-fermion systems give rise to diverse states of matter that often reveal themselves in distinctive transport properties. While some of these states can be captured by microscopic models it remains challenging to numerically access their transport properties. Here we demonstrate that a machine learning technique dubbed quantum loop topography (QLT) can be used to directly probe transport by machine learning current-current correlations in imaginary time. We showcase this approach by studying the emergence of superconducting fluctuations in the negative-U Hubbard model and a spin-fermion model for a metallic quantum critical point. For both models, we find that the QLT approach detects a change in transport in very good agreement with their established phase diagrams. These proof-of-principle calculations combined with the numerical efficiency of the QLT approach point a way to identify hitherto elusive transport phenomena such as non-Fermi liquids using machine learning algorithms.<br><br>
 
-            Reading: <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120">paper1</a>, <a href="http://www.john-von-neumann-institut.de/nic/EN/News/Symposium/NIC-Symposium-2020/Proceedings/_node.html" >book article</a>, <a href="https://arxiv.org/abs/2007.07898">paper2</a>, <a href="http://carstenbauer.eu/Dissertation_CBauer_A5.pdf" >thesis</a>
+            Reading: <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120">paper1</a>, <a href="http://www.john-von-neumann-institut.de/nic/EN/News/Symposium/NIC-Symposium-2020/Proceedings/_node.html" >book article</a>, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.046601">paper2</a>, <a href="http://carstenbauer.eu/Dissertation_CBauer_A5.pdf" >thesis</a>
 
             <br><br>
             <a href="https://www.uni-koeln.de"><img src="img/LogoUoC.svg" width=110px style="margin-right: 50px"></a>
@@ -349,10 +349,11 @@
             <div class="col-lg-8 col-lg-offset-2">
                 <h2 class="text-center">Publications</h2>
 
+                <h3>2021</h3>
+                <p><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.046601" >&quot;Identification of Non-Fermi Liquid Physics in a Quantum Critical Metal via Quantum Loop Topography&quot;</a><br>George Driskell, Samuel Lederer, <b>Carsten Bauer</b>, Simon Trebst, and Eun-Ah Kim<br>Phys. Rev. Lett. <b>127</b>, 046601<br><span class="cooperation">Cologne - Cornell</span></p>
+
                 <h3>2020</h3>
                 <p>PhD thesis: <a href="http://kups.ub.uni-koeln.de/id/eprint/35405" >&quot;Simulating and machine learning quantum criticality in a nearly antiferromagnetic metal&quot;</a><br>Advisor: Prof. Dr. Simon Trebst<br><a href="http://carstenbauer.eu/Dissertation_CBauer_A5.pdf">Thesis PDF</a>, <a href="http://carstenbauer.eu/phddefense.key" >Defense Talk</a></p>
-
-                <p><a href="https://arxiv.org/abs/2007.07898" >&quot;Observation of non-Fermi liquid physics in a quantum critical region via quantum loop topography&quot;</a><br>George Driskell, Samuel Lederer, <b>Carsten Bauer</b>, Simon Trebst, and Eun-Ah Kim<br>arXiv:2007.07898<br><span class="cooperation">Cologne - Cornell</span></p>
 
                 <p><a href="https://scipost.org/10.21468/SciPostPhysCore.2.2.011" >&quot;Fast and stable determinant Quantum Monte Carlo&quot;</a><br><b>Carsten Bauer</b><br>SciPost Phys. Core 2, 2 (<a href="https://github.com/crstnbr/StableDQMC.jl">source code @ GitHub</a>)<br><span class="cooperation">Cologne</span></p>
 
