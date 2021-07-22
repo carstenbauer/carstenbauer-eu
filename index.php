@@ -421,17 +421,18 @@ Germany), pp.877-884<br><span class="cooperation">Frankfurt</span></p>
         <div class="row" style="margin-top: 80px;">
         <!-- <div class="col-lg-3 col-lg-offset-2 text-center"> !-->
             <div class="col-lg-3 text-center" style="padding-right: 0%">
-                <h4 class="text-left" style="margin-bottom: 30px;">Work</h4>
+                <h4 class="text-left" style="margin-bottom: 35px;">Work</h4>
                 <p class="text-left">
                     <!-- <a href="https://pc2.uni-paderborn.de">PC&#178;</a> | Paderborn Center for Parallel Computing<br> -->
-                    <a href="https://www.nhr-gs.de">NHR</a> @ <a href="https://pc2.uni-paderborn.de">PC&#178;</a><br> Paderborn Center for Parallel Computing | National Center for HPC<br>
+                    <a href="https://www.nhr-gs.de">NHR</a> @ <a href="https://pc2.uni-paderborn.de">PC&#178;</a><br> Paderborn Center for Parallel Computing | National HPC Center<br>
                     Warburger Str. 100, 33098 Paderborn
                 </p>
 
-                <h4 class="text-left" style="margin-bottom: 30px;">Remote Office</h4>
+                <!-- <h4 class="text-left" style="margin-bottom: 30px;">Remote Office</h4> -->
                 <p class="text-left">
-                    St.-Vither Str. 1, 50933 Cologne<br>
-                    Phone: <a href="tel:+495251601716">+49 5251-60-1716</a>
+                    Office: Cologne (remote work)<br>
+                    Phone: <a href="tel:+495251601716">+49 5251-60-1716</a><br>
+                    Email: <a href="mailto:carsten.bauer@upb.de">carsten.bauer@upb.de</a>
                 </p>
             </div>
             <div class="col-lg-5 text-center" style="padding-left: 6%">
