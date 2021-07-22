@@ -139,7 +139,7 @@
 
             <div class="col-lg-7">
             <p style="text-align: justify;">
-			Hi, I'm a computational physicist and HPC advisor at <a href="https://pc2.uni-paderborn.de">PC&#178;</a>, a national <a href="https://www.nhr-gs.de">NHR-center</a> for high-performance computing within the <a href="https://hpc.dh.nrw">HPC.NRW</a> competence network. I also regulary give <a href="#workshops">Julia workshops</a> at undergraduate, graduate, and postgraduate level as a freelancer. Feel free to <a href="#contact">contact me</a> if you're interested!<br>
+			Hi, I'm a computational physicist and HPC advisor at <a href="https://pc2.uni-paderborn.de">PC&#178;</a>, a national <a href="https://www.nhr-gs.de">NHR-center</a> for high-performance computing within the <a href="https://hpc.dh.nrw">HPC.NRW</a> competence network. As a freelancer, I also regulary give <a href="#workshops">Julia workshops</a> at undergraduate, graduate, and postgraduate level. Feel free to <a href="#contact">contact me</a> if you're interested!<br>
 
             <br>
             I obtained my PhD in the group of <a href="http://www.thp.uni-koeln.de/trebst/index.shtml">Prof. Simon Trebst</a> at the University of Cologne in 2020. Previously, I studied and worked at the <a href="http://www.uni-frankfurt.de">Goethe University</a>, the <a href="http://ufl.edu">University of Florida</a> (Go Gators!) and the <a href="http://tu-darmstadt.de">TU Darmstadt</a>. I also had the pleasure of conducting longer research stays at <a href="https://www.stanford.edu">Stanford University</a>, the <a href="https://www.weizmann.ac.il/pages/">Weizmann Institute of Science</a>, and the <a href="https://www.uchicago.edu/">University of Chicago</a>.
@@ -428,10 +428,10 @@ Germany), pp.877-884<br><span class="cooperation">Frankfurt</span></p>
                     Warburger Str. 100, 33098 Paderborn
                 </p>
 
-                <h4 class="text-left" style="margin-bottom: 30px;">Office</h4>
+                <h4 class="text-left" style="margin-bottom: 30px;">Remote Office</h4>
                 <p class="text-left">
                     St.-Vither Str. 1, 50933 Cologne<br>
-                    Phone: tba
+                    Phone: <a href="tel:+495251601716">+49 5251-60-1716</a>
                 </p>
             </div>
             <div class="col-lg-5 text-center" style="padding-left: 6%">
