@@ -3,11 +3,9 @@
 
 <head>
 
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
 
     <title>CARSTEN BAUER</title>
 
@@ -114,7 +112,7 @@
                 <div class="row">
                     <div class="col-md-offset-4 col-md-9"> <!-- col-md-8 col-md-offset-2 !-->
                         <h1 class="brand-heading">JOCHBERG</h1>
-                        <p class="intro-text">Bavaria, Germany</p>
+                        <p class="intro-text">Bavarias, Germany</p>
                     </div>
                 </div>
             </div>
@@ -130,9 +128,9 @@
 
             <div style="align-items: center; text-align: center;">
                 <a style="color: black" href="#" target="_blank" data-gen-email><i class="fa fa-envelope fa-fw" style="font-size:27px;">&nbsp;</i></a>
-            	<a style="color: black" href="https://github.com/crstnbr"><i class="fa fa-github fa-fw" style="font-size:30px;">&nbsp;</i></a>
-            	<a style="color: black" href="https://discourse.julialang.org/u/crstnbr/summary"><i class="fa fa-comments-o" style="font-size:30px;">&nbsp;</i></a>
-            	<a style="color: black" href="https://stackoverflow.com/users/2365675/crstnbr"><i class="fa fa-stack-overflow fa-fw" style="font-size:28px;"></i></a>
+            	<a style="color: black" href="https://github.com/carstenbauer"><i class="fa fa-github fa-fw" style="font-size:30px;">&nbsp;</i></a>
+            	<a style="color: black" href="https://discourse.julialang.org/u/carstenbauer/summary"><i class="fa fa-comments-o" style="font-size:30px;">&nbsp;</i></a>
+            	<a style="color: black" href="https://stackoverflow.com/users/2365675/carstenbauer"><i class="fa fa-stack-overflow fa-fw" style="font-size:28px;"></i></a>
             	<!-- <a href="#"><i class="fa fa-discourse" style="font-size:36px;"></i></a> -->
             </div>
             </div>
@@ -173,13 +171,13 @@
                         <a href="http://www.thp.uni-koeln.de/~bauer/" class="btn btn-primary btn-lg"><i class="fa fa-twitter fa-university"></i> <span class="network-name">Uni/THP</span></a>
                     </li>
                     <li>
-                        <a href="https://github.com/crstnbr" class="btn btn-success btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                        <a href="https://github.com/carstenbauer" class="btn btn-success btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
                     </li>
                     <li>
-                        <a href="https://stackoverflow.com/users/2365675/crstnbr" class="btn btn-warning btn-lg"><i class="fa fa-stack-overflow fa-fw"></i> <span class="network-name">Stackoverflow</span></a>
+                        <a href="https://stackoverflow.com/users/2365675/carstenbauer" class="btn btn-warning btn-lg"><i class="fa fa-stack-overflow fa-fw"></i> <span class="network-name">Stackoverflow</span></a>
                     </li>
                     <li>
-                        <a href="https://discourse.julialang.org/u/crstnbr/summary" class="btn btn-danger btn-lg"><i class="fa fa-google-plus fa-comments-o"></i> <span class="network-name">Julia</span></a>
+                        <a href="https://discourse.julialang.org/u/carstenbauer/summary" class="btn btn-danger btn-lg"><i class="fa fa-google-plus fa-comments-o"></i> <span class="network-name">Julia</span></a>
                     </li>
                 </ul>
                 </p>
@@ -195,15 +193,15 @@
         <h2 class="text-center">Activities</h2>
         <div class="row" style="display:flex; margin-top:80px;">
             <div class="col-lg-5">
-            <a href="https://github.com/crstnbr/JuliaWorkshop19/raw/master/presentation/julia.pdf"><img id="imageresource" src="img/julia_workshop.png" width="380px" style="display:block;margin-left:auto;margin-right:auto;margin-top:19%;margin-bottom:25%;"></a>
+            <a href="https://github.com/carstenbauer/JuliaWorkshop19/raw/master/presentation/julia.pdf"><img id="imageresource" src="img/julia_workshop.png" width="380px" style="display:block;margin-left:auto;margin-right:auto;margin-top:19%;margin-bottom:25%;"></a>
             </div>
 
             <div class="col-lg-7">
-            <h4><a href="https://github.com/crstnbr/JuliaWorkshop19" class="hidden-link">Julia programming workshops</a></h4>
+            <h4><a href="https://github.com/carstenbauer/JuliaWorkshop19" class="hidden-link">Julia programming workshops</a></h4>
             <p>
             <a href="http://julialang.org">Julia</a> is a beautiful young dynamic programming language created for numerical computing. It aims to be as intuitive as Python while still being as fast as statically compiled languages like Fortran and C. Julia is free to use, and all source code is publicly available on GitHub. Because of my passion for the language - it is my favorite programming language to use - I regularly teach Julia at undergraduate, graduate, and post-graduate level at the University of Cologne. I also give Julia workshops as a freelancer, most recently at the <a href="https://www.oulu.fi/university/">University of Oulu</a> in Finland. Check out the repositories linked below to get an impression of some of the covered content. Somewhat related, I also gave a short talk at <a href="https://juliacon.org/2018/">JuliaCon 2018</a> in London which you can find <a href="https://www.youtube.com/watch?v=BmVd7pw6Trc">on youtube</a>.<br><br>
 
-            GitHub: <a href="https://github.com/crstnbr/JuliaOulu20">JuliaOulu20</a>, <a href="https://github.com/crstnbr/JuliaWorkshop19">JuliaWorkshop19</a>, <a href="https://github.com/crstnbr/JuliaWorkshop18">JuliaWorkshop18</a>
+            GitHub: <a href="https://github.com/carstenbauer/JuliaOulu20">JuliaOulu20</a>, <a href="https://github.com/carstenbauer/JuliaWorkshop19">JuliaWorkshop19</a>, <a href="https://github.com/carstenbauer/JuliaWorkshop18">JuliaWorkshop18</a>
 
             </p>
             </div>
@@ -216,7 +214,7 @@
             <div class="col-lg-7">
             <h4><a href="https://juliaphysics.github.io/latest/index.html" class="hidden-link">Julia development and JuliaPhysics organization</a></h4>
             <p>
-            Over the years, I have written several Julia packages like <a href="https://github.com/crstnbr/MonteCarlo.jl">MonteCarlo.jl</a>, <a href="https://github.com/crstnbr/BinningAnalysis.jl">BinningAnalysis.jl</a>, and <a href="https://github.com/crstnbr/StableDQMC.jl">StableDQMC.jl</a> and contributed to many more, including <a href="https://github.com/JuliaPy/PyCall.jl">PyCall.jl</a> and the <a href="https://github.com/JuliaLang/julia">Julia language itself</a>.
+            Over the years, I have written several Julia packages like <a href="https://github.com/carstenbauer/MonteCarlo.jl">MonteCarlo.jl</a>, <a href="https://github.com/carstenbauer/BinningAnalysis.jl">BinningAnalysis.jl</a>, and <a href="https://github.com/carstenbauer/StableDQMC.jl">StableDQMC.jl</a> and contributed to many more, including <a href="https://github.com/JuliaPy/PyCall.jl">PyCall.jl</a> and the <a href="https://github.com/JuliaLang/julia">Julia language itself</a>.
             I'm a co-founder of the JuliaPhysics GitHub group which aims to bring physicists of the Julia community together. Besides developing, hosting, and maintaining a collection of general physics packages we try to help newcomers to orient themselves in the ecosystem. To that end, we provide a set of curated <a href="https://juliaphysics.github.io/latest/tutorials/">introductory physics tutorials</a> which highlights Julia in physics applications.<br><br>
 
             GitHub: <a href="https://github.com/JuliaPhysics">JuliaPhysics</a>, <a href="https://github.com/JuliaPhysics/PhysicsTutorials.jl">PhysicsTutorials.jl</a>
@@ -246,19 +244,19 @@
         <div class="row" style="display:flex; margin-top:80px;">
             <div class="col-sm-1"></div>
             <div class="col-lg-6">
-            <a href="https://github.com/crstnbr/JuliaCologne21"><img id="imageresource" src="img/JuliaCologne21_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
+            <a href="https://github.com/carstenbauer/JuliaCologne21"><img id="imageresource" src="img/JuliaCologne21_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
             </div>
             <div class="col-lg-6">
-            <a href="https://github.com/crstnbr/JuliaNRW21"><img id="imageresource" src="img/JuliaNRW21_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
+            <a href="https://github.com/carstenbauer/JuliaNRW21"><img id="imageresource" src="img/JuliaNRW21_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
             </div>
 <!--             <div class="col-lg-6">
-            <a href="https://github.com/crstnbr/JuliaNRW21"><img id="imageresource" src="img/JuliaNRW21_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
+            <a href="https://github.com/carstenbauer/JuliaNRW21"><img id="imageresource" src="img/JuliaNRW21_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
             </div> -->
             <div class="col-lg-6">
-            <a href="https://github.com/crstnbr/JuliaOulu20"><img id="imageresource" src="img/JuliaOulu20_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
+            <a href="https://github.com/carstenbauer/JuliaOulu20"><img id="imageresource" src="img/JuliaOulu20_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
             </div>
 <!--             <div class="col-lg-6">
-            <a href="https://github.com/crstnbr/JuliaWorkshop19"><img id="imageresource" src="img/julia_workshop_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
+            <a href="https://github.com/carstenbauer/JuliaWorkshop19"><img id="imageresource" src="img/julia_workshop_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
             </div> -->
         </div>
 
@@ -292,9 +290,9 @@
             <p style="text-align: justify;">
             In this work, we present numerically exact results from sign-problem free quantum Monte Carlo simulations for a spin-fermion model near an \(O(3)\) symmetric antiferromagnetic (AFM) quantum critical point. We find a hierarchy of energy scales that emerges near the quantum critical point. At high energy scales, there is a broad regime characterized by Landau-damped order parameter dynamics with dynamical critical exponent \(z=2\), while the fermionic excitations remain coherent. The quantum critical magnetic fluctuations are well described by Hertz-Millis theory, except for a \(T^{-2}\) divergence of the static AFM susceptibility. This regime persists down to a lower energy scale, where the fermions become overdamped and concomitantly, a transition into a  \(d-\)wave superconducting state occurs. These findings resemble earlier results for a spin-fermion model with easy-plane AFM fluctuations of an \(O(2)\) SDW order parameter, despite noticeable differences in the perturbative structure of the two theories. In the \(O(3)\) case, perturbative corrections to the spin-fermion vertex are expected to dominate at an additional energy scale, below which the \(z=2\) behavior breaks down, leading to a novel \(z=1\) fixed point with emergent local nesting at the hot spots [Schlief <i>et. al.</i> PRX 7, 2017]. Motivated by this prediction, we also consider a variant of the model where the hot spots are nearly locally nested. Within the available temperature range in our study (\(T\ge E_F/200\), we find substantial deviations from the \(z=2\) Hertz-Millis behavior, but no evidence for the predicted \(z=1\) criticality.<br><br>
 
-            Reading: <a href="https://link.aps.org/doi/10.1103/PhysRevResearch.2.023008">paper</a>, <a href="http://carstenbauer.eu/sdwo3_talk.pdf">talk</a>, <a href="https://github.com/crstnbr/dqmc">code</a>, <a href="https://scipost.org/SciPostPhysCore.2.2.011">numerics paper</a>, <a href="https://github.com/crstnbr/StableDQMC.jl">numerics package</a>, <a href="http://carstenbauer.eu/Dissertation_CBauer_A5.pdf" >thesis</a>
+            Reading: <a href="https://link.aps.org/doi/10.1103/PhysRevResearch.2.023008">paper</a>, <a href="http://carstenbauer.eu/sdwo3_talk.pdf">talk</a>, <a href="https://github.com/carstenbauer/dqmc">code</a>, <a href="https://scipost.org/SciPostPhysCore.2.2.011">numerics paper</a>, <a href="https://github.com/carstenbauer/StableDQMC.jl">numerics package</a>, <a href="http://carstenbauer.eu/Dissertation_CBauer_A5.pdf" >thesis</a>
 <!--             <br>
-            Numerical stabilization: <a href="https://scipost.org/SciPostPhysCore.2.2.011">paper</a>, <a href="https://github.com/crstnbr/dqmc">code</a> -->
+            Numerical stabilization: <a href="https://scipost.org/SciPostPhysCore.2.2.011">paper</a>, <a href="https://github.com/carstenbauer/dqmc">code</a> -->
 
             <br>
             <a href="https://www.uni-koeln.de"><img src="img/LogoUoC.svg" width=110px style="margin-right: 50px"></a>
@@ -355,12 +353,12 @@
                 <h3>2020</h3>
                 <p>PhD thesis: <a href="http://kups.ub.uni-koeln.de/id/eprint/35405" >&quot;Simulating and machine learning quantum criticality in a nearly antiferromagnetic metal&quot;</a><br>Advisor: Prof. Dr. Simon Trebst<br><a href="http://carstenbauer.eu/Dissertation_CBauer_A5.pdf">Thesis PDF</a>, <a href="http://carstenbauer.eu/phddefense.key" >Defense Talk</a></p>
 
-                <p><a href="https://scipost.org/10.21468/SciPostPhysCore.2.2.011" >&quot;Fast and stable determinant Quantum Monte Carlo&quot;</a><br><b>Carsten Bauer</b><br>SciPost Phys. Core 2, 2 (<a href="https://github.com/crstnbr/StableDQMC.jl">source code @ GitHub</a>)<br><span class="cooperation">Cologne</span></p>
+                <p><a href="https://scipost.org/10.21468/SciPostPhysCore.2.2.011" >&quot;Fast and stable determinant Quantum Monte Carlo&quot;</a><br><b>Carsten Bauer</b><br>SciPost Phys. Core 2, 2 (<a href="https://github.com/carstenbauer/StableDQMC.jl">source code @ GitHub</a>)<br><span class="cooperation">Cologne</span></p>
 
                 <p><a href="https://link.aps.org/doi/10.1103/PhysRevResearch.2.023008" >&quot;Hierarchy of energy scales in an O(3) symmetric
 				antiferromagnetic quantum critical metal: a Monte Carlo study&quot;</a><br>
 				<b>Carsten Bauer</b>, Yoni Schattner, Simon Trebst, and Erez Berg<br>
-				Phys. Rev. Research <b>2</b>, 023008 (<a href="https://github.com/crstnbr/dqmc">source code @ GitHub</a>)<br>
+				Phys. Rev. Research <b>2</b>, 023008 (<a href="https://github.com/carstenbauer/dqmc">source code @ GitHub</a>)<br>
 				<span class="cooperation">Cologne - Stanford - Weizmann</span></p>
 
                 <h3>2019</h3>
@@ -396,9 +394,9 @@ Germany), pp.877-884<br><span class="cooperation">Frankfurt</span></p>
                     Feel free to <a href="#" target="_blank" data-gen-email>email me</a>, even if it's just to say hello!
                     <div style="align-items: center; text-align: center;">
                         <a style="color: black" href="#" target="_blank" data-gen-email><i class="fa fa-envelope fa-fw" style="font-size:27px;">&nbsp;</i></a>
-                        <a style="color: black" href="https://github.com/crstnbr"><i class="fa fa-github fa-fw" style="font-size:30px;">&nbsp;</i></a>
-                        <a style="color: black" href="https://discourse.julialang.org/u/crstnbr/summary"><i class="fa fa-comments-o" style="font-size:30px;">&nbsp;</i></a>
-                        <a style="color: black" href="https://stackoverflow.com/users/2365675/crstnbr"><i class="fa fa-stack-overflow fa-fw" style="font-size:28px;"></i></a>
+                        <a style="color: black" href="https://github.com/carstenbauer"><i class="fa fa-github fa-fw" style="font-size:30px;">&nbsp;</i></a>
+                        <a style="color: black" href="https://discourse.julialang.org/u/carstenbauer/summary"><i class="fa fa-comments-o" style="font-size:30px;">&nbsp;</i></a>
+                        <a style="color: black" href="https://stackoverflow.com/users/2365675/carstenbauer"><i class="fa fa-stack-overflow fa-fw" style="font-size:28px;"></i></a>
                         <!-- <a href="#"><i class="fa fa-discourse" style="font-size:36px;"></i></a> -->
                     </div>
                 </p>
