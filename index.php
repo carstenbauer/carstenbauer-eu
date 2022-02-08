@@ -347,6 +347,9 @@
             <div class="col-lg-8 col-lg-offset-2">
                 <h2 class="text-center">Publications</h2>
 
+                <h3>2022</h3>
+                <p><a href="https://arxiv.org/abs/2202.02417" >&quot;Parallel Quantum Chemistry on Noisy Intermediate-Scale Quantum Computers&quot;</a><br>Robert Schade, <b>Carsten Bauer</b>, Konstantin Tamoev, Lukas Mazur, Christian Plessl, and Thomas D. Kühne<br>arXiv:2202.02417<br><span class="cooperation">Paderborn Center for Parallel Computing</span></p>
+
                 <h3>2021</h3>
                 <p><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.046601" >&quot;Identification of Non-Fermi Liquid Physics in a Quantum Critical Metal via Quantum Loop Topography&quot;</a><br>George Driskell, Samuel Lederer, <b>Carsten Bauer</b>, Simon Trebst, and Eun-Ah Kim<br>Phys. Rev. Lett. <b>127</b>, 046601<br><span class="cooperation">Cologne - Cornell</span></p>
 
