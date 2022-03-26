@@ -124,7 +124,7 @@
     	<h2 class="text-center">About Me</h2>
         <div class="row" style="display:flex; margin-top:80px;margin-bottom: 50px;">
             <div class="col-lg-5">
-            <img id="imageresource" src="img/carsten_bauer_cropped.jpg" width="270px" style="display:block;margin-left:auto;margin-right:auto;margin-top:-4%;margin-bottom:7%;border-radius: 2%;">
+            <img id="imageresource" src="img/carsten_bauer_cropped.jpg" width="270px" style="display:block;margin-left:auto;margin-right:auto;margin-top:7%;margin-bottom:7%;border-radius: 2%;">
 
             <div style="align-items: center; text-align: center;">
                 <a style="color: black" href="#" target="_blank" data-gen-email><i class="fa fa-envelope fa-fw" style="font-size:27px;">&nbsp;</i></a>
@@ -137,10 +137,17 @@
 
             <div class="col-lg-7">
             <p style="text-align: justify;">
-			Hi, I'm a computational physicist and HPC advisor at <a href="https://pc2.uni-paderborn.de">PC&#178;</a>, a national <a href="https://www.nhr-gs.de">NHR-center</a> for high-performance computing within the <a href="https://hpc.dh.nrw">HPC.NRW</a> competence network. As a freelancer, I also regulary give <a href="#workshops">Julia workshops</a> at undergraduate, graduate, and postgraduate level. Feel free to <a href="#contact">contact me</a> if you're interested!<br>
+			I'm a computational physicist and currently work as an advisor for high performance computing at <a href="https://pc2.uni-paderborn.de">PC2</a>, a national HPC center within the <a href="https://www.nhr-gs.de">NHR</a> and <a href="https://hpc.dh.nrw">HPC.NRW</a> competence networks.<br>
 
             <br>
-            I obtained my PhD in the group of <a href="http://www.thp.uni-koeln.de/trebst/index.shtml">Prof. Simon Trebst</a> at the University of Cologne in 2020. Previously, I studied and worked at the <a href="http://www.uni-frankfurt.de">Goethe University</a>, the <a href="http://ufl.edu">University of Florida</a> (Go Gators!) and the <a href="http://tu-darmstadt.de">TU Darmstadt</a>. I also had the pleasure of conducting longer research stays at <a href="https://www.stanford.edu">Stanford University</a>, the <a href="https://www.weizmann.ac.il/pages/">Weizmann Institute of Science</a>, and the <a href="https://www.uchicago.edu/">University of Chicago</a>.
+            I obtained my PhD in theoretical physics in the group of <a href="http://www.thp.uni-koeln.de/trebst/index.shtml">Prof. Simon Trebst</a> at the University of Cologne. Previously, I studied and worked at the <a href="http://www.uni-frankfurt.de">Goethe University</a>, the <a href="http://ufl.edu">University of Florida</a> (Go Gators!) and the <a href="http://tu-darmstadt.de">TU Darmstadt</a>. I also had the pleasure of conducting longer research stays at <a href="https://www.stanford.edu">Stanford University</a>, the <a href="https://www.weizmann.ac.il/pages/">Weizmann Institute of Science</a>, and the <a href="https://www.uchicago.edu/">University of Chicago</a>.<br>
+
+            <br>
+            I'm an active member of the <a href="https://julialang.org">Julia</a> community and one of the <a href="https://juliacon.org/">JuliaCon</a> co-organizers. 
+            As a freelancer, I also regulary give <a href="#workshops">Julia workshops</a> at undergraduate, graduate, and postgraduate level. Feel free to <a href="#contact">contact me</a> if you're interested!<br>
+            
+            <br>
+            I'm a founding member of the <a href="https://numfocus.medium.com/call-for-volunteers-numfocus-project-incubator-3ec7b4567846">Project Incubator</a> Committee at <a href="https://numfocus.org/">NumFOCUS</a>.
             </p>
 			
             </div>
@@ -232,15 +239,18 @@
         <div class="row" style="display:flex; margin-top:80px;">
             <div class="col-lg-5"></div>
             <div class="col-lg-16">
-                <p style="text-align: justify;">
-                <a href="http://julialang.org">Julia</a> is a beautiful young dynamic programming language created for numerical computing. It aims to be as intuitive as Python while still being as fast as statically compiled languages like Fortran and C. Julia is free to use, and all source code is publicly available on GitHub. Because of my passion for the language - it is my favorite programming language to use - I regularly teach Julia at undergraduate, graduate, and post-graduate level at the University of Cologne (check out our <a href="https://vimeo.com/showcase/6910448">computer physics videos</a>). I also give Julia workshops as a freelancer, most recently at the <a href="https://www.oulu.fi/university/">University of Oulu</a> in Finland. Check out the repositories linked below to get an impression of some of the covered content. Somewhat related, I also gave a short talk at <a href="https://juliacon.org/2018/">JuliaCon 2018</a> in London which you can find <a href="https://www.youtube.com/watch?v=BmVd7pw6Trc">on youtube</a>. You might also want to check out <a href="https://github.com/JuliaPhysics/PhysicsTutorials.jl">PhysicsTutorials.jl</a>.
+                <p style="text-align: justify; margin-right:20px;">
+                <a href="http://julialang.org">Julia</a> is a beautiful dynamic programming language for numerical computing that is free to use and open source. It aims to be as intuitive as Python while still being as fast as statically compiled languages like Fortran and C.<br>
+                I regularly teach Julia, often with a focus on high-performance computing, at undergraduate, graduate, and post-graduate level at universities, research institutions, and companies. Go ahead and check out the repositories linked below to get an impression of some of the content and feel free to contact me if you're interested!
+                <!-- the University of Cologne (check out our <a href="https://vimeo.com/showcase/6910448">computer physics videos</a>). I also give Julia workshops as a freelancer, most recently at the <a href="https://www.oulu.fi/university/">University of Oulu</a> in Finland. Check out the repositories linked below to get an impression of some of the covered content. -->
+                    <!-- Somewhat related, I also gave a short talk at <a href="https://juliacon.org/2018/">JuliaCon 2018</a> in London which you can find <a href="https://www.youtube.com/watch?v=BmVd7pw6Trc">on youtube</a>. You might also want to check out <a href="https://github.com/JuliaPhysics/PhysicsTutorials.jl">PhysicsTutorials.jl</a>. -->
                 </p>
             </div>
             <div class="col-lg-1"></div>
         </div>
 
 
-        <h4 class="text-center" style="margin-top:50px;">Latest/Upcoming Workshops</h4>
+        <h4 class="text-center" style="margin-top:50px;">Selected Workshops</h4>
         <div class="row" style="display:flex; margin-top:80px;">
             <div class="col-sm-1"></div>
             <div class="col-lg-6">
@@ -280,6 +290,7 @@
 <!-- Science Section -->
     <section id="science" class="container content-section top-seperator" style="padding-right: 80px;">
         <h2 class="text-center">Science</h2>
+
         <div class="row" style="display:flex; margin-top:100px;">
             <div class="col-lg-6">
             <a href="#" class="hidden-link" id="popsdw" onclick="return false;"><img id="imageresource" src="img/sdwscales.png" width="290px" style="display:block;margin-left:auto;margin-right:auto;margin-top:40%;margin-bottom:25%;"></a>
@@ -337,6 +348,25 @@
             <a href="https://www.uni-frankfurt.de/de"><img src="img/goethe-logo.svg" width=110px style="margin-right: 50px"></a>
             <a href="http://www.ufl.edu"><img src="img/uflorida.svg" width=180px></a>
             </p>
+            </div>
+        </div>
+
+        <div class="row" style="display:flex; margin-top:100px;">
+            <div class="col-lg-7">
+            <h4><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120" class="hidden-link">Parallel Quantum Chemistry on Noisy Quantum Computers</a></h4>
+            <p style="text-align: justify;">
+            A novel parallel hybrid quantum-classical algorithm for the solution of the quantum-chemical ground-state energy problem on gate-based quantum computers is presented. This approach is based on the reduced density-matrix functional theory (RDMFT) formulation of the electronic structure problem. For that purpose, the density-matrix functional of the full system is decomposed into an indirectly coupled sum of density-matrix functionals for all its subsystems using the adaptive cluster approximation to RDMFT. The approximations involved in the decomposition and the adaptive cluster approximation itself can be systematically converged to the exact result. The solutions for the density-matrix functionals of the effective subsystems involves a constrained minimization over many-particle states that are approximated by parametrized trial states on the quantum computer similarly to the variational quantum eigensolver. The independence of the density-matrix functionals of the effective subsystems introduces a new level of parallelization and allows for the computational treatment of much larger molecules on a quantum computer with a given qubit count. In addition, for the proposed algorithm techniques are presented to reduce the qubit count, the number of quantum programs, as well as its depth. The new approach is demonstrated for Hubbard-like systems on IBM quantum computers based on superconducting transmon qubits.<br><br>
+
+            Reading: <a href="https://arxiv.org/abs/2202.02417">paper</a>, <a href="https://github.com/pc2/rdmft_on_qc">code</a>
+
+            <br><br>
+            <a href="https://pc2.uni-paderborn.de"><img src="img/pc2logo.svg" width=130px style="margin-right: 50px"></a>
+            <a href="https://nhr-gs.de/"><img src="img/NHRlogo.svg" width=65px style="margin-right: 50px"></a>
+            </p>
+            </div>
+
+           <div class="col-lg-6">
+            <a href="#" class="hidden-link" id="popqc" onclick="return false;"><img id="imageresource" src="img/qchybrid.svg" width="300px" style="display:block;margin-left:auto;margin-right:auto;margin-top:20%;margin-bottom:25%;float:right;"></a>
             </div>
         </div>
     </section>
@@ -439,7 +469,7 @@ Germany), pp.877-884<br><span class="cooperation">Frankfurt</span></p>
             </div>
             <div class="col-lg-5 text-center" style="padding-left: 6%">
                 <h4 class="text-left">Paderborn Center for Parallel Computing</h4>
-                <p class="text-left"><a href="http://www.thp.uni-koeln.de"><img id="imageresource" src="img/pc2.jpg" height="240px" style="border: solid thin #aaa;"></a></p>
+                <p class="text-left"><a href="http://www.thp.uni-koeln.de"><img id="imageresource" src="img/gebaeudeX.jpg" height="240px" style="border: solid thin #aaa;"></a></p>
             </div>
             <div class="col-lg-4 text-center">
                 <h4 class="text-left">Location</h4>
