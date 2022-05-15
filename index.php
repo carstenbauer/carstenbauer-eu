@@ -111,8 +111,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-offset-4 col-md-9"> <!-- col-md-8 col-md-offset-2 !-->
-                        <h1 class="brand-heading">JOCHBERG</h1>
-                        <p class="intro-text">Bavarias, Germany</p>
+                        <h1 class="brand-heading">LAGO MAGGIORE</h1>
+                        <p class="intro-text">Piemonte, Italy</p>
                     </div>
                 </div>
             </div>
