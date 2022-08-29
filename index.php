@@ -353,11 +353,11 @@
 
         <div class="row" style="display:flex; margin-top:100px;">
             <div class="col-lg-7">
-            <h4><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120" class="hidden-link">Parallel Quantum Chemistry on Noisy Quantum Computers</a></h4>
+            <h4><a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033160" class="hidden-link">Parallel Quantum Chemistry on Noisy Quantum Computers</a></h4>
             <p style="text-align: justify;">
             A novel parallel hybrid quantum-classical algorithm for the solution of the quantum-chemical ground-state energy problem on gate-based quantum computers is presented. This approach is based on the reduced density-matrix functional theory (RDMFT) formulation of the electronic structure problem. For that purpose, the density-matrix functional of the full system is decomposed into an indirectly coupled sum of density-matrix functionals for all its subsystems using the adaptive cluster approximation to RDMFT. The approximations involved in the decomposition and the adaptive cluster approximation itself can be systematically converged to the exact result. The solutions for the density-matrix functionals of the effective subsystems involves a constrained minimization over many-particle states that are approximated by parametrized trial states on the quantum computer similarly to the variational quantum eigensolver. The independence of the density-matrix functionals of the effective subsystems introduces a new level of parallelization and allows for the computational treatment of much larger molecules on a quantum computer with a given qubit count. In addition, for the proposed algorithm techniques are presented to reduce the qubit count, the number of quantum programs, as well as its depth. The new approach is demonstrated for Hubbard-like systems on IBM quantum computers based on superconducting transmon qubits.<br><br>
 
-            Reading: <a href="https://arxiv.org/abs/2202.02417">paper</a>, <a href="https://github.com/pc2/rdmft_on_qc">code</a>
+            Reading: <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033160">paper</a>, <a href="https://github.com/pc2/rdmft_on_qc">code</a>
 
             <br><br>
             <a href="https://pc2.uni-paderborn.de"><img src="img/pc2logo.svg" width=130px style="margin-right: 50px"></a>
@@ -378,7 +378,7 @@
                 <h2 class="text-center">Publications</h2>
 
                 <h3>2022</h3>
-                <p><a href="https://arxiv.org/abs/2202.02417" >&quot;Parallel Quantum Chemistry on Noisy Intermediate-Scale Quantum Computers&quot;</a><br>Robert Schade, <b>Carsten Bauer</b>, Konstantin Tamoev, Lukas Mazur, Christian Plessl, and Thomas D. Kühne<br>arXiv:2202.02417<br><span class="cooperation">Paderborn Center for Parallel Computing</span></p>
+                <p><a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033160" >&quot;Parallel Quantum Chemistry on Noisy Intermediate-Scale Quantum Computers&quot;</a><br>Robert Schade, <b>Carsten Bauer</b>, Konstantin Tamoev, Lukas Mazur, Christian Plessl, and Thomas D. Kühne<br>Phys. Rev. Research <b>4</b>, 033160<br><span class="cooperation">Paderborn Center for Parallel Computing</span></p>
 
                 <h3>2021</h3>
                 <p><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.046601" >&quot;Identification of Non-Fermi Liquid Physics in a Quantum Critical Metal via Quantum Loop Topography&quot;</a><br>George Driskell, Samuel Lederer, <b>Carsten Bauer</b>, Simon Trebst, and Eun-Ah Kim<br>Phys. Rev. Lett. <b>127</b>, 046601<br><span class="cooperation">Cologne - Cornell</span></p>
