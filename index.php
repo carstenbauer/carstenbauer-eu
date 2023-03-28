@@ -137,7 +137,7 @@
 
             <div class="col-lg-7">
             <p style="text-align: justify;">
-			I'm a computational physicist and currently work as an advisor for high performance computing at <a href="https://pc2.uni-paderborn.de">PC2</a>, a national HPC center within the <a href="https://www.nhr-gs.de">NHR</a> and <a href="https://hpc.dh.nrw">HPC.NRW</a> competence networks.<br>
+			I'm a computational physicist and scientific advisor for high performance computing at <a href="https://pc2.uni-paderborn.de">PC2</a>, a national HPC center within the <a href="https://www.nhr-verein.de">NHR</a> and <a href="https://hpc.dh.nrw">HPC.NRW</a> competence networks.<br>
 
             <br>
             I obtained my PhD in theoretical physics in the group of <a href="http://www.thp.uni-koeln.de/trebst/index.shtml">Prof. Simon Trebst</a> at the University of Cologne. Previously, I studied and worked at the <a href="http://www.uni-frankfurt.de">Goethe University</a>, the <a href="http://ufl.edu">University of Florida</a> (Go Gators!) and the <a href="http://tu-darmstadt.de">TU Darmstadt</a>. I also had the pleasure of conducting longer research stays at <a href="https://www.stanford.edu">Stanford University</a>, the <a href="https://www.weizmann.ac.il/pages/">Weizmann Institute of Science</a>, and the <a href="https://www.uchicago.edu/">University of Chicago</a>.<br>
@@ -367,7 +367,7 @@
 
             <br><br>
             <a href="https://pc2.uni-paderborn.de"><img src="img/pc2logo.svg" width=130px style="margin-right: 50px"></a>
-            <a href="https://nhr-gs.de/"><img src="img/NHRlogo.svg" width=65px style="margin-right: 50px"></a>
+            <a href="https://nhr-verein.de/"><img src="img/NHRlogo.svg" width=65px style="margin-right: 50px"></a>
             </p>
             </div>
 
@@ -464,7 +464,7 @@ Germany), pp.877-884<br><span class="cooperation">Frankfurt</span></p>
                 <h4 class="text-left" style="margin-bottom: 35px;">Work</h4>
                 <p class="text-left">
                     <!-- <a href="https://pc2.uni-paderborn.de">PC&#178;</a> | Paderborn Center for Parallel Computing<br> -->
-                    <a href="https://www.nhr-gs.de">NHR</a> @ <a href="https://pc2.uni-paderborn.de">PC&#178;</a><br> Paderborn Center for Parallel Computing | National HPC Center<br>
+                    <a href="https://www.nhr-verein.de">NHR</a> @ <a href="https://pc2.uni-paderborn.de">PC&#178;</a><br> Paderborn Center for Parallel Computing | National HPC Center<br>
                     Warburger Str. 100, 33098 Paderborn
                 </p>
 
@@ -477,7 +477,7 @@ Germany), pp.877-884<br><span class="cooperation">Frankfurt</span></p>
             </div>
             <div class="col-lg-5 text-center" style="padding-left: 6%">
                 <h4 class="text-left">Paderborn Center for Parallel Computing</h4>
-                <p class="text-left"><a href="http://www.thp.uni-koeln.de"><img id="imageresource" src="img/gebaeudeX.jpg" height="240px" style="border: solid thin #aaa;"></a></p>
+                <p class="text-left"><a href="http://pc2.uni-paderborn.de"><img id="imageresource" src="img/gebaeudeX.jpg" height="240px" style="border: solid thin #aaa;"></a></p>
             </div>
             <div class="col-lg-4 text-center">
                 <h4 class="text-left">Location</h4>
