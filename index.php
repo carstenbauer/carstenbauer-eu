@@ -254,6 +254,9 @@
         <div class="row" style="display:flex; margin-top:80px;">
             <div class="col-sm-1"></div>
             <div class="col-lg-6">
+            <a href="https://www.hlrs.de/training/2022/julia"><img id="imageresource" src="img/JuliaHLRS.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
+            </div>
+            <div class="col-lg-6">
             <a href="https://github.com/carstenbauer/JuliaCologne21"><img id="imageresource" src="img/JuliaCologne21_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
             </div>
             <div class="col-lg-6">
@@ -262,9 +265,9 @@
 <!--             <div class="col-lg-6">
             <a href="https://github.com/carstenbauer/JuliaNRW21"><img id="imageresource" src="img/JuliaNRW21_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
             </div> -->
-            <div class="col-lg-6">
+<!--             <div class="col-lg-6">
             <a href="https://github.com/carstenbauer/JuliaOulu20"><img id="imageresource" src="img/JuliaOulu20_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
-            </div>
+            </div> -->
 <!--             <div class="col-lg-6">
             <a href="https://github.com/carstenbauer/JuliaWorkshop19"><img id="imageresource" src="img/julia_workshop_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
             </div> -->
@@ -272,6 +275,9 @@
 
         <div class="row" style="display:flex; margin-top:30px; margin-bottom: 50px; align-items: center;">
             <div class="col-sm-1"></div>
+            <div class="col-lg-5">
+                <a href="https://www.hlrs.de/"><img style="display: block; margin: auto auto auto auto;" src="img/Hlrs-logo.jpg" width="250px"></a>
+            </div>
             <div class="col-lg-5">
                 <a href="http://www.thp.uni-koeln.de"><img style="display: block; margin: auto auto auto auto;" src="img/Logo_THP.svg" width="200px"></a>
             </div>
@@ -281,9 +287,9 @@
 <!--             <div class="col-lg-5">
                 <a href="https://www.uni-koeln.de"><img style="display: block; margin: auto auto auto auto;" src="img/LogoUoC.svg" width="250px"></a>
             </div> -->
-            <div class="col-lg-5">
+            <!-- <div class="col-lg-5">
                 <a href="https://www.oulu.fi/university/"><img style="display: block; margin: -20px auto auto auto;" src="img/oulu_logo.svg" width="250px"></a>
-            </div>
+            </div> -->
         </div>
     </section>
 
@@ -378,7 +384,9 @@
                 <h2 class="text-center">Publications</h2>
 
                 <h3>2022</h3>
-                <p><a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033160" >&quot;Parallel Quantum Chemistry on Noisy Intermediate-Scale Quantum Computers&quot;</a><br>Robert Schade, <b>Carsten Bauer</b>, Konstantin Tamoev, Lukas Mazur, Christian Plessl, and Thomas D. Kühne<br>Phys. Rev. Research <b>4</b>, 033160<br><span class="cooperation">Paderborn Center for Parallel Computing</span></p>
+                <p><a href="https://arxiv.org/abs/2211.02740" >&quot;Bridging HPC Communities through the Julia Programming Language&quot;</a><br>Valentin Churavy, William F Godoy, <b>Carsten Bauer</b>, Hendrik Ranocha, Michael Schlottke-Lakemper, Ludovic R&auml;ss,<br>Johannes Blaschke, Mosè Giordano, Erik Schnetter, Samuel Omlin, Jeffrey S. Vetter, and Alan Edelman<br>arXiv:2211.02740<br><span class="cooperation">PC2 - MIT - ORNL - NERSC - HLRS - CSCS - and more</span></p>
+
+                <p><a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033160" >&quot;Parallel Quantum Chemistry on Noisy Intermediate-Scale Quantum Computers&quot;</a><br>Robert Schade, <b>Carsten Bauer</b>, Konstantin Tamoev, Lukas Mazur, Christian Plessl, and Thomas D. Kühne<br>Phys. Rev. Research <b>4</b>, 033160<br><span class="cooperation">PC2 / NHR</span></p>
 
                 <h3>2021</h3>
                 <p><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.046601" >&quot;Identification of Non-Fermi Liquid Physics in a Quantum Critical Metal via Quantum Loop Topography&quot;</a><br>George Driskell, Samuel Lederer, <b>Carsten Bauer</b>, Simon Trebst, and Eun-Ah Kim<br>Phys. Rev. Lett. <b>127</b>, 046601<br><span class="cooperation">Cologne - Cornell</span></p>
