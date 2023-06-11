@@ -111,8 +111,10 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-offset-4 col-md-9"> <!-- col-md-8 col-md-offset-2 !-->
-                        <h1 class="brand-heading">LAGO MAGGIORE</h1>
-                        <p class="intro-text">Piemonte, Italy</p>
+                        <!-- <h1 class="brand-heading">Santa Barbara</h1>
+                        <p class="intro-text">California, USA</p> -->
+                        <h1 class="brand-heading">YOSEMITE</h1>
+                        <p class="intro-text">California, USA</p>
                     </div>
                 </div>
             </div>
