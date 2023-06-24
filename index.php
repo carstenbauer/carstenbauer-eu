@@ -144,15 +144,14 @@
 
             <br>
             <br>
-            I obtained my PhD in theoretical physics in the group of <a href="http://www.thp.uni-koeln.de/trebst/index.shtml">Prof. Simon Trebst</a> at the University of Cologne. Previously, I studied and worked at the <a href="http://www.uni-frankfurt.de">Goethe University</a>, the <a href="http://ufl.edu">University of Florida</a> (Go Gators!) and the <a href="http://tu-darmstadt.de">TU Darmstadt</a>. I also had the pleasure of conducting longer research stays at <a href="https://www.stanford.edu">Stanford University</a>, the <a href="https://www.weizmann.ac.il/pages/">Weizmann Institute of Science</a>, and the <a href="https://www.uchicago.edu/">University of Chicago</a>.<br>
+            I obtained my PhD in the <a href="http://www.thp.uni-koeln.de/trebst/index.shtml">Computational Condensed Matter Physics group</a> of <a href="https://www.thp.uni-koeln.de/trebst/trebst.shtml">Prof. Simon Trebst</a> at the University of Cologne. Previously, I studied and worked at the <a href="http://www.uni-frankfurt.de">Goethe University</a>, the <a href="http://ufl.edu">University of Florida</a> (Go Gators!) and <a href="http://tu-darmstadt.de">TU Darmstadt</a>. Fortunately, I also had the distinct pleasure of conducting multi-month research stays at <a href="https://www.stanford.edu">Stanford University</a>, the <a href="https://www.uchicago.edu/">University of Chicago</a>, and the <a href="https://www.weizmann.ac.il/pages/">Weizmann Institute of Science</a>.<br>
 
             <br>
-            I'm an active member of the <a href="https://julialang.org">Julia</a> community and one of the <a href="https://juliacon.org/">JuliaCon</a> co-organizers. 
-            As a freelancer, I also regulary give <a href="#workshops">Julia workshops</a> at undergraduate, graduate, and postgraduate level. Feel free to <a href="#contact">contact me</a> if you're interested!<br>
+            I'm an active member of the <a href="https://julialang.org">Julia</a> community and one of the <a href="https://juliacon.org/">JuliaCon</a> co-organizers. I develop and maintain several Julia packages on GitHub (e.g. <a href="https://github.com/JuliaPerf/LIKWID.jl">LIKWID.jl</a> and <a href="https://github.com/carstenbauer/ThreadPinning.jl">ThreadPinning.jl</a>).
+            As a freelancer, I give <a href="#workshops">Julia workshops</a> for graduate students and postdocs at public and private institutions. Feel free to <a href="#contact">contact me</a> if you're interested!<br>
             
             <br>
             I'm a founding member of the <a href="https://numfocus.medium.com/call-for-volunteers-numfocus-project-incubator-3ec7b4567846">Project Incubator</a> Committee at <a href="https://numfocus.org/">NumFOCUS</a>.
-            </p>
 			
             </div>
         </div>
@@ -244,8 +243,11 @@
             <div class="col-lg-5"></div>
             <div class="col-lg-16">
                 <p style="text-align: justify; margin-right:20px;">
-                <a href="http://julialang.org">Julia</a> is a beautiful dynamic programming language for numerical computing that is free to use and open source. It aims to be as intuitive as Python while still being as fast as statically compiled languages like Fortran and C.<br>
+                <a href="http://julialang.org">Julia</a> is a beautiful programming language for numerical computing that is free to use and open source. It explores the tradeoffs in language design for dynamic programming languages and aims to be as accessible as Python while still being as fast as statically compiled languages (eg. C, Fortran).<br>
                 I regularly teach Julia, often with a focus on high-performance computing, at undergraduate, graduate, and post-graduate level at universities, research institutions, and companies. Go ahead and check out the repositories linked below to get an impression of some of the content and feel free to contact me if you're interested!
+
+                <br><br>
+                The next (public) workshop is <a href="https://www.hlrs.de/training/2023/julia">"Julia for High-Performance Computing"</a> and will be held in-person at the <a href="https://www.hlrs.de/">High-Performance Computing Center Stuttgart (HLRS)</a>.
                 <!-- the University of Cologne (check out our <a href="https://vimeo.com/showcase/6910448">computer physics videos</a>). I also give Julia workshops as a freelancer, most recently at the <a href="https://www.oulu.fi/university/">University of Oulu</a> in Finland. Check out the repositories linked below to get an impression of some of the covered content. -->
                     <!-- Somewhat related, I also gave a short talk at <a href="https://juliacon.org/2018/">JuliaCon 2018</a> in London which you can find <a href="https://www.youtube.com/watch?v=BmVd7pw6Trc">on youtube</a>. You might also want to check out <a href="https://github.com/JuliaPhysics/PhysicsTutorials.jl">PhysicsTutorials.jl</a>. -->
                 </p>
@@ -263,15 +265,15 @@
             <div class="col-lg-6">
             <a href="https://github.com/carstenbauer/JuliaCologne21"><img id="imageresource" src="img/JuliaCologne21_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
             </div>
+            <!-- <div class="col-lg-6">
+            <a href="https://github.com/carstenbauer/JuliaNRW21"><img id="imageresource" src="img/JuliaNRW21_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
+            </div> -->
+<!--             <div class="col-lg-6">
+            <a href="https://github.com/carstenbauer/JuliaNRW21"><img id="imageresource" src="img/JuliaNRW21_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
+            </div> -->
             <div class="col-lg-6">
-            <a href="https://github.com/carstenbauer/JuliaNRW21"><img id="imageresource" src="img/JuliaNRW21_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
-            </div>
-<!--             <div class="col-lg-6">
-            <a href="https://github.com/carstenbauer/JuliaNRW21"><img id="imageresource" src="img/JuliaNRW21_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
-            </div> -->
-<!--             <div class="col-lg-6">
             <a href="https://github.com/carstenbauer/JuliaOulu20"><img id="imageresource" src="img/JuliaOulu20_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
-            </div> -->
+            </div>
 <!--             <div class="col-lg-6">
             <a href="https://github.com/carstenbauer/JuliaWorkshop19"><img id="imageresource" src="img/julia_workshop_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
             </div> -->
@@ -285,15 +287,15 @@
             <div class="col-lg-5">
                 <a href="http://www.thp.uni-koeln.de"><img style="display: block; margin: auto auto auto auto;" src="img/Logo_THP.svg" width="200px"></a>
             </div>
-            <div class="col-lg-5">
+            <!-- <div class="col-lg-5">
                 <a href="https://hpc.dh.nrw"><img style="display: block; margin: auto auto auto auto;" src="img/hpc_nrw.png" width="230px"></a>
-            </div>
+            </div> -->
 <!--             <div class="col-lg-5">
                 <a href="https://www.uni-koeln.de"><img style="display: block; margin: auto auto auto auto;" src="img/LogoUoC.svg" width="250px"></a>
             </div> -->
-            <!-- <div class="col-lg-5">
+            <div class="col-lg-5">
                 <a href="https://www.oulu.fi/university/"><img style="display: block; margin: -20px auto auto auto;" src="img/oulu_logo.svg" width="250px"></a>
-            </div> -->
+            </div>
         </div>
     </section>
 
