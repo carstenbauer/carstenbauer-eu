@@ -139,8 +139,10 @@
 
             <div class="col-lg-7">
             <p style="text-align: justify;">
-			I'm a computational physicist and scientific advisor for high performance computing at <a href="https://pc2.uni-paderborn.de">PC2</a>, a national HPC center within the <a href="https://www.nhr-verein.de">NHR</a> and <a href="https://hpc.dh.nrw">HPC.NRW</a> competence networks.<br>
+			I'm a postdoctoral theoretical physicist from Cologne, Germany, and a senior HPC consultant within the <a href="https://www.nhr-verein.de">German National High-Performance Computing Alliance (NHR)</a> at the <a href="https://pc2.uni-paderborn.de">Paderborn Center for Parallel Computing (PC2)</a>.
 
+
+            <br>
             <br>
             I obtained my PhD in theoretical physics in the group of <a href="http://www.thp.uni-koeln.de/trebst/index.shtml">Prof. Simon Trebst</a> at the University of Cologne. Previously, I studied and worked at the <a href="http://www.uni-frankfurt.de">Goethe University</a>, the <a href="http://ufl.edu">University of Florida</a> (Go Gators!) and the <a href="http://tu-darmstadt.de">TU Darmstadt</a>. I also had the pleasure of conducting longer research stays at <a href="https://www.stanford.edu">Stanford University</a>, the <a href="https://www.weizmann.ac.il/pages/">Weizmann Institute of Science</a>, and the <a href="https://www.uchicago.edu/">University of Chicago</a>.<br>
 
