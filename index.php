@@ -139,7 +139,7 @@
 
             <div class="col-lg-7">
             <p style="text-align: justify;">
-			I'm a postdoctoral theoretical physicist from Cologne, Germany, and a senior HPC consultant within the <a href="https://www.nhr-verein.de">German National High-Performance Computing Alliance (NHR)</a> at the <a href="https://pc2.uni-paderborn.de">Paderborn Center for Parallel Computing (PC2)</a>.
+			I'm a theoretical physicist and high-performance computing (HPC) enthusiast living in the beatiful city of <a href="https://en.wikipedia.org/wiki/Cologne">Cologne</a>. I work as a senior computational scientist within the <a href="https://www.nhr-verein.de">German National High-Performance Computing Alliance (NHR)</a> at the <a href="https://pc2.uni-paderborn.de">Paderborn Center for Parallel Computing (PC2)</a>.
 
 
             <br>
@@ -149,9 +149,6 @@
             <br>
             I'm an active member of the <a href="https://julialang.org">Julia</a> community and one of the <a href="https://juliacon.org/">JuliaCon</a> co-organizers. I develop and maintain several Julia packages on GitHub (e.g. <a href="https://github.com/carstenbauer/ThreadPinning.jl">ThreadPinning.jl</a>, <a href="https://github.com/JuliaPerf/LIKWID.jl">LIKWID.jl</a>, <a href="https://github.com/JuliaFolds2/OhMyThreads.jl">OhMyThreads.jl</a>, <a href="https://github.com/carstenbauer/MonteCarlo.jl">MonteCarlo.jl</a>, ...).
             As a freelancer, I give <a href="#workshops">Julia workshops</a> for graduate students and postdocs at public and private institutions. Feel free to <a href="#contact">contact me</a> if you're interested!<br>
-            
-            <br>
-            I'm a founding member of the <a href="https://numfocus.medium.com/call-for-volunteers-numfocus-project-incubator-3ec7b4567846">Project Incubator</a> Committee at <a href="https://numfocus.org/">NumFOCUS</a>.
 			
             </div>
         </div>
@@ -237,17 +234,17 @@
 
 <!-- Workshops Section -->
     <section id="workshops" class="container content-section top-seperator" style="padding-right: 70px;">
-        <h2 class="text-center">Julia Workshops</h2>
+        <h2 class="text-center">Julia HPC Workshops</h2>
 
         <div class="row" style="display:flex; margin-top:80px;">
             <div class="col-lg-5"></div>
             <div class="col-lg-16">
                 <p style="text-align: justify; margin-right:20px;">
                 <a href="http://julialang.org">Julia</a> is a beautiful programming language for numerical computing that is free to use and open source. It explores the tradeoffs in language design for dynamic programming languages and aims to be as accessible as Python while still being as fast as statically compiled languages (eg. C, Fortran).<br>
-                I regularly teach Julia, often with a focus on high-performance computing, at undergraduate, graduate, and post-graduate level at universities, research institutions, and companies. Go ahead and check out the repositories linked below to get an impression of some of the content and feel free to contact me if you're interested!
+                I regularly give Julia courses, often with a focus on high-performance computing, at universities, research institutions, and companies. Go ahead and check out my public repositories on GitHub (e.g. <a href="https://github.com/carstenbauer/JuliaUCL24/">this one</a>) to get an impression of some of the content. Feel free to <a href="#contact">contact me</a> if you're interested!
 
                 <br><br>
-                The next public workshop will be held in-person at the <a href="https://www.ucl.ac.uk/">University College London</a> in February 2024 (<a href="https://github-pages.arc.ucl.ac.uk/julia-hpc-2024/">Link</a>). 
+                The next workshops, which are open to the public, will take place at <a href="https://www.hlrs.de">HLRS</a> (09/2024) and <a href="https://www.tudelft.nl/cse">TU Delft DCSE</a> (10/2024). 
                 <!-- the University of Cologne (check out our <a href="https://vimeo.com/showcase/6910448">computer physics videos</a>). I also give Julia workshops as a freelancer, most recently at the <a href="https://www.oulu.fi/university/">University of Oulu</a> in Finland. Check out the repositories linked below to get an impression of some of the covered content. -->
                     <!-- Somewhat related, I also gave a short talk at <a href="https://juliacon.org/2018/">JuliaCon 2018</a> in London which you can find <a href="https://www.youtube.com/watch?v=BmVd7pw6Trc">on youtube</a>. You might also want to check out <a href="https://github.com/JuliaPhysics/PhysicsTutorials.jl">PhysicsTutorials.jl</a>. -->
                 </p>
@@ -259,34 +256,40 @@
         <h4 class="text-center" style="margin-top:50px;">Selected Workshops</h4>
         <div class="row" style="display:flex; margin-top:80px;">
             <div class="col-sm-1"></div>
-            <div class="col-lg-6">
-            <a href="https://www.hlrs.de/training/2023/julia"><img id="imageresource" src="img/JuliaHLRS.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
+            <div class="col-lg-7">
+            <a href="https://github-pages.arc.ucl.ac.uk/julia-hpc-2024/"><img id="imageresource" src="img/juliaucl2.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
             </div>
             <div class="col-lg-6">
-            <a href="https://github.com/carstenbauer/JuliaCologne21"><img id="imageresource" src="img/JuliaCologne21_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
+            <a href="https://www.hlrs.de/training/2023/julia"><img id="imageresource" src="img/JuliaHLRS.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
             </div>
             <!-- <div class="col-lg-6">
-            <a href="https://github.com/carstenbauer/JuliaNRW21"><img id="imageresource" src="img/JuliaNRW21_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
+            <a href="https://github.com/carstenbauer/JuliaCologne21"><img id="imageresource" src="img/JuliaCologne21_poster.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
+            </div> -->
+            <!-- <div class="col-lg-6">
+            <a href="https://github.com/carstenbauer/JuliaNRW21"><img id="imageresource" src="img/JuliaNRW21_poster.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
             </div> -->
 <!--             <div class="col-lg-6">
-            <a href="https://github.com/carstenbauer/JuliaNRW21"><img id="imageresource" src="img/JuliaNRW21_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
+            <a href="https://github.com/carstenbauer/JuliaNRW21"><img id="imageresource" src="img/JuliaNRW21_poster.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
             </div> -->
             <div class="col-lg-6">
-            <a href="https://github.com/carstenbauer/JuliaOulu20"><img id="imageresource" src="img/JuliaOulu20_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
+            <a href="https://github.com/carstenbauer/JuliaOulu20"><img id="imageresource" src="img/JuliaOulu20_poster.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
             </div>
 <!--             <div class="col-lg-6">
-            <a href="https://github.com/carstenbauer/JuliaWorkshop19"><img id="imageresource" src="img/julia_workshop_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
+            <a href="https://github.com/carstenbauer/JuliaWorkshop19"><img id="imageresource" src="img/julia_workshop_poster.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
             </div> -->
         </div>
 
-        <div class="row" style="display:flex; margin-top:30px; margin-bottom: 50px; align-items: center;">
+        <div class="row" style="display:flex; margin-top:5px; margin-bottom: 50px; align-items: center;">
             <div class="col-sm-1"></div>
+            <div class="col-lg-6">
+                <a href="https://www.ucl.ac.uk/"><img style="display: block; margin: auto auto auto auto;" src="img/UCL.png" width="250px"></a>
+            </div>
             <div class="col-lg-5">
                 <a href="https://www.hlrs.de/"><img style="display: block; margin: auto auto auto auto;" src="img/Hlrs-logo.jpg" width="250px"></a>
             </div>
-            <div class="col-lg-5">
+            <!-- <div class="col-lg-5">
                 <a href="http://www.thp.uni-koeln.de"><img style="display: block; margin: auto auto auto auto;" src="img/Logo_THP.svg" width="200px"></a>
-            </div>
+            </div> -->
             <!-- <div class="col-lg-5">
                 <a href="https://hpc.dh.nrw"><img style="display: block; margin: auto auto auto auto;" src="img/hpc_nrw.png" width="230px"></a>
             </div> -->
