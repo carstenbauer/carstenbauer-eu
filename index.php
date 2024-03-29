@@ -147,7 +147,7 @@
             I obtained my PhD in the <a href="http://www.thp.uni-koeln.de/trebst/index.shtml">Computational Condensed Matter Physics group</a> of <a href="https://www.thp.uni-koeln.de/trebst/trebst.shtml">Prof. Simon Trebst</a> at the University of Cologne. Previously, I studied and worked at the <a href="http://www.uni-frankfurt.de">Goethe University</a>, the <a href="http://ufl.edu">University of Florida</a> (Go Gators!) and <a href="http://tu-darmstadt.de">TU Darmstadt</a>. Fortunately, I also had the distinct pleasure of conducting multi-month research stays at <a href="https://www.stanford.edu">Stanford University</a>, the <a href="https://www.uchicago.edu/">University of Chicago</a>, and the <a href="https://www.weizmann.ac.il/pages/">Weizmann Institute of Science</a>.<br>
 
             <br>
-            I'm an active member of the <a href="https://julialang.org">Julia</a> community and one of the <a href="https://juliacon.org/">JuliaCon</a> co-organizers. I develop and maintain several Julia packages on GitHub (e.g. <a href="https://github.com/JuliaPerf/LIKWID.jl">LIKWID.jl</a> and <a href="https://github.com/carstenbauer/ThreadPinning.jl">ThreadPinning.jl</a>).
+            I'm an active member of the <a href="https://julialang.org">Julia</a> community and one of the <a href="https://juliacon.org/">JuliaCon</a> co-organizers. I develop and maintain several Julia packages on GitHub (e.g. <a href="https://github.com/carstenbauer/ThreadPinning.jl">ThreadPinning.jl</a>, <a href="https://github.com/JuliaPerf/LIKWID.jl">LIKWID.jl</a>, <a href="https://github.com/JuliaFolds2/OhMyThreads.jl">OhMyThreads.jl</a>, <a href="https://github.com/carstenbauer/MonteCarlo.jl">MonteCarlo.jl</a>, ...).
             As a freelancer, I give <a href="#workshops">Julia workshops</a> for graduate students and postdocs at public and private institutions. Feel free to <a href="#contact">contact me</a> if you're interested!<br>
             
             <br>
@@ -247,7 +247,7 @@
                 I regularly teach Julia, often with a focus on high-performance computing, at undergraduate, graduate, and post-graduate level at universities, research institutions, and companies. Go ahead and check out the repositories linked below to get an impression of some of the content and feel free to contact me if you're interested!
 
                 <br><br>
-                The next (public) workshop is <a href="https://www.hlrs.de/training/2023/julia">"Julia for High-Performance Computing"</a> and will be held in-person at the <a href="https://www.hlrs.de/">High-Performance Computing Center Stuttgart (HLRS)</a>.
+                The next public workshop will be held in-person at the <a href="https://www.ucl.ac.uk/">University College London</a> in February 2024 (<a href="https://github-pages.arc.ucl.ac.uk/julia-hpc-2024/">Link</a>). 
                 <!-- the University of Cologne (check out our <a href="https://vimeo.com/showcase/6910448">computer physics videos</a>). I also give Julia workshops as a freelancer, most recently at the <a href="https://www.oulu.fi/university/">University of Oulu</a> in Finland. Check out the repositories linked below to get an impression of some of the covered content. -->
                     <!-- Somewhat related, I also gave a short talk at <a href="https://juliacon.org/2018/">JuliaCon 2018</a> in London which you can find <a href="https://www.youtube.com/watch?v=BmVd7pw6Trc">on youtube</a>. You might also want to check out <a href="https://github.com/JuliaPhysics/PhysicsTutorials.jl">PhysicsTutorials.jl</a>. -->
                 </p>
@@ -260,7 +260,7 @@
         <div class="row" style="display:flex; margin-top:80px;">
             <div class="col-sm-1"></div>
             <div class="col-lg-6">
-            <a href="https://www.hlrs.de/training/2022/julia"><img id="imageresource" src="img/JuliaHLRS.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
+            <a href="https://www.hlrs.de/training/2023/julia"><img id="imageresource" src="img/JuliaHLRS.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
             </div>
             <div class="col-lg-6">
             <a href="https://github.com/carstenbauer/JuliaCologne21"><img id="imageresource" src="img/JuliaCologne21_poster.png" width="285px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
