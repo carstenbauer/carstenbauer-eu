@@ -139,7 +139,7 @@
 
             <div class="col-lg-7">
             <p style="text-align: justify;">
-			I'm a theoretical physicist and high-performance computing (HPC) enthusiast living in the beatiful city of <a href="https://en.wikipedia.org/wiki/Cologne">Cologne</a>. I work as a senior computational scientist within the <a href="https://www.nhr-verein.de">German National High-Performance Computing Alliance (NHR)</a> at the <a href="https://pc2.uni-paderborn.de">Paderborn Center for Parallel Computing (PC2)</a>.
+			I'm a theoretical physicist and high-performance computing (HPC) enthusiast living in the beatiful city of <a href="https://en.wikipedia.org/wiki/Cologne">Cologne</a>. I work as a Senior HPC Scientist and consultant within the <a href="https://www.nhr-verein.de">German National High-Performance Computing Alliance (NHR)</a> at the <a href="https://pc2.uni-paderborn.de">Paderborn Center for Parallel Computing (PC2)</a>.
 
 
             <br>
@@ -257,7 +257,7 @@
         <div class="row" style="display:flex; margin-top:80px;">
             <div class="col-sm-1"></div>
             <div class="col-lg-7">
-            <a href="https://github-pages.arc.ucl.ac.uk/julia-hpc-2024/"><img id="imageresource" src="img/juliaucl2.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
+            <a href="https://github-pages.arc.ucl.ac.uk/julia-hpc-2024/"><img id="imageresource" src="img/juliaucl.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
             </div>
             <div class="col-lg-6">
             <a href="https://www.hlrs.de/training/2023/julia"><img id="imageresource" src="img/JuliaHLRS.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
@@ -391,6 +391,11 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2 class="text-center">Publications</h2>
+
+                <h3>2024</h3>
+                <!-- <p><a href="https://doi.org/10.17815/jlsrf-8-187" >&quot;Noctua 2 Supercomputer&quot;</a><br><b>Carsten Bauer</b> et al.<br>Journal of Large-Scale Research Facilities <b>9</b><br><span class="cooperation">PC2 / NHR</span></p> -->
+
+                <p><a href="https://doi.org/10.17815/jlsrf-8-187" >&quot;Noctua 2 Supercomputer&quot;</a><br><b>Carsten Bauer</b>, Tobias Kenter, Michael Lass, Lukas Mazur, Marius Meyer, Holger Nitsche, Heinrich Riebler,<br> Robert Schade, Michael Schwarz, Nils Winnwa, Alex Wiens, Xin Wu, Christian Plessl, and Jens Simon<br>Journal of Large-Scale Research Facilities <b>9</b><br><span class="cooperation">PC2 / NHR</span></p>
 
                 <h3>2022</h3>
                 <p><a href="https://arxiv.org/abs/2211.02740" >&quot;Bridging HPC Communities through the Julia Programming Language&quot;</a><br>Valentin Churavy, William F Godoy, <b>Carsten Bauer</b>, Hendrik Ranocha, Michael Schlottke-Lakemper, Ludovic R&auml;ss,<br>Johannes Blaschke, Mosè Giordano, Erik Schnetter, Samuel Omlin, Jeffrey S. Vetter, and Alan Edelman<br>arXiv:2211.02740<br><span class="cooperation">PC2 - MIT - ORNL - NERSC - HLRS - CSCS - and more</span></p>
