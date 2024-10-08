@@ -291,7 +291,7 @@
         <div class="row" style="display:flex; margin-top:80px; margin-bottom: 50px; align-items: center;">
             <div class="col-sm-1"></div>
             <div class="col-lg-6">
-                <a href="http://www.nhr-verein.de"><img style="display: block; margin: auto auto auto auto;" src="img/NHR_Logo_Grau.svg" width="100px"></a>
+                <a href="http://www.nhr-verein.de"><img style="display: block; margin: auto auto auto auto;" src="img/NHR_LOGO_Grau.svg" width="100px"></a>
             </div>
             <div class="col-lg-5">
                 <a href="https://www.uni-koeln.de"><img style="display: block; margin: auto auto auto auto;" src="img/LogoUoC.svg" width="230px"></a>
