@@ -110,11 +110,14 @@
         <div class="intro-body">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-offset-4 col-md-9"> <!-- col-md-8 col-md-offset-2 !-->
+                    <div class="col-md-offset-5 col-md-10"> <!-- col-md-8 col-md-offset-2 !-->
                         <!-- <h1 class="brand-heading">Santa Barbara</h1>
                         <p class="intro-text">California, USA</p> -->
-                        <h1 class="brand-heading">YOSEMITE</h1>
-                        <p class="intro-text">California, USA</p>
+                        <h1 class="brand-heading">En Avdat</h1>
+                        <p class="intro-text">Negev Desert, Israel</p>
+                        <br>
+                        <br>
+                        <br>
                     </div>
                 </div>
             </div>
@@ -126,7 +129,7 @@
     	<h2 class="text-center">About Me</h2>
         <div class="row" style="display:flex; margin-top:80px;margin-bottom: 50px;">
             <div class="col-lg-5">
-            <img id="imageresource" src="img/carsten_bauer_cropped.jpg" width="270px" style="display:block;margin-left:auto;margin-right:auto;margin-top:7%;margin-bottom:7%;border-radius: 2%;">
+            <img id="imageresource" src="img/carsten_bauer_cropped.jpg" width="270px" style="display:block;margin-left:auto;margin-right:auto;margin-top:5%;margin-bottom:7%;border-radius: 2%;">
 
             <div style="align-items: center; text-align: center;">
                 <a style="color: black" href="#" target="_blank" data-gen-email><i class="fa fa-envelope fa-fw" style="font-size:27px;">&nbsp;</i></a>
@@ -139,17 +142,26 @@
 
             <div class="col-lg-7">
             <p style="text-align: justify;">
-			I'm a theoretical physicist and high-performance computing (HPC) enthusiast living in the beatiful city of <a href="https://en.wikipedia.org/wiki/Cologne">Cologne</a>. I work as a Senior HPC Scientist and consultant within the <a href="https://www.nhr-verein.de">German National High-Performance Computing Alliance (NHR)</a> at the <a href="https://pc2.uni-paderborn.de">Paderborn Center for Parallel Computing (PC2)</a>.
+			I'm <b>research software engineer</b> with a focus on high-performance computing (HPC) and computational physics. As part of the <a href="https://www.nhr-verein.de">National High-Performance Computing Alliance (NHR)</a>, I optimize - and help other people optimize - HPC codes and develop tools for monitoring and tuning the (parallel-)performance of software.
 
+            <br>
+            <br>
+            In my research as a <b>scientist</b>, I develop and use a variety of novel methods and technologies to gain insights into quantum systems. In particular, I've developed a <b>quantum monte carlo</b> code (in <a href="https://julialang.org/">Julia</a>) to <a href="https://link.aps.org/doi/10.1103/PhysRevResearch.2.023008">study metallic quantum criticality</a>, I've used <b>machine learning</b> to identify <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120">phase transitions</a> and <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.046601">non-Fermi liquid physics</a>, I've used the <b>functional renormalization group</b> to <a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.121409">study the effect of interactions in graphene</a>, and I've used a (real) <b>quantum computer</b> to run <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033160">parallel quantum chemistry simulations</a>.
 
             <br>
             <br>
-            I obtained my PhD in the <a href="http://www.thp.uni-koeln.de/trebst/index.shtml">Computational Condensed Matter Physics group</a> of <a href="https://www.thp.uni-koeln.de/trebst/trebst.shtml">Prof. Simon Trebst</a> at the University of Cologne. Previously, I studied and worked at the <a href="http://www.uni-frankfurt.de">Goethe University</a>, the <a href="http://ufl.edu">University of Florida</a> (Go Gators!) and <a href="http://tu-darmstadt.de">TU Darmstadt</a>. Fortunately, I also had the distinct pleasure of conducting multi-month research stays at <a href="https://www.stanford.edu">Stanford University</a>, the <a href="https://www.uchicago.edu/">University of Chicago</a>, and the <a href="https://www.weizmann.ac.il/pages/">Weizmann Institute of Science</a>.<br>
-
+            I actively contribute to many free and <b>open source software projects</b>, mostly focused on scientific computing and <a href="https://julialang.org/">Julia</a>. In particular, I act as a co-organizer of <a href="https://juliacon.org/">JuliaCon</a> and, until recently, was editor-in-chief of the <a href="https://proceedings.juliacon.org/">Julia Proceedings</a>.
             <br>
-            I'm an active member of the <a href="https://julialang.org">Julia</a> community and one of the <a href="https://juliacon.org/">JuliaCon</a> co-organizers. I develop and maintain several Julia packages on GitHub (e.g. <a href="https://github.com/carstenbauer/ThreadPinning.jl">ThreadPinning.jl</a>, <a href="https://github.com/JuliaPerf/LIKWID.jl">LIKWID.jl</a>, <a href="https://github.com/JuliaFolds2/OhMyThreads.jl">OhMyThreads.jl</a>, <a href="https://github.com/carstenbauer/MonteCarlo.jl">MonteCarlo.jl</a>, ...).
-            As a freelancer, I give <a href="#workshops">Julia workshops</a> for graduate students and postdocs at public and private institutions. Feel free to <a href="#contact">contact me</a> if you're interested!<br>
-			
+            <br>
+            As a <b>freelancer</b>, I offer consulting services and deliver <a href="#workshops">Julia HPC workshops</a> at public and private institutions. (Feel free to <a href="#contact">reach out</a>.)
+            <br>
+            </p>
+            
+            <h3>Education</h3>
+            <p style="text-align: justify;">
+            I obtained my PhD in theoretical physics in the <a href="http://www.thp.uni-koeln.de/trebst/index.shtml">Computational Condensed Matter Physics group</a> of <a href="https://www.thp.uni-koeln.de/trebst/trebst.shtml">Prof. Simon Trebst</a> at the University of Cologne. Previously, I worked with Prof. Peter Kopietz and Prof. Roser Valenti at the <a href="http://www.uni-frankfurt.de">Goethe University</a> and the <a href="http://ufl.edu">University of Florida</a>. Fortunately, I also had the distinct pleasure of conducting multi-month research stays at <a href="https://www.stanford.edu">Stanford University</a> (Prof. Steve Kivelson), the <a href="https://www.uchicago.edu/">University of Chicago</a>, and the <a href="https://www.weizmann.ac.il/pages/">Weizmann Institute of Science</a> (Prof. Erez Berg). Besides physics, I took various computer science courses at <a href="http://tu-darmstadt.de">TU Darmstadt</a><br>
+                
+            </p>
             </div>
         </div>
 
@@ -241,45 +253,18 @@
             <div class="col-lg-16">
                 <p style="text-align: justify; margin-right:20px;">
                 <a href="http://julialang.org">Julia</a> is a beautiful programming language for numerical computing that is free to use and open source. It explores the tradeoffs in language design for dynamic programming languages and aims to be as accessible as Python while still being as fast as statically compiled languages (eg. C, Fortran).<br>
-                I regularly give Julia courses, often with a focus on high-performance computing, at universities, research institutions, and companies. Go ahead and check out my public repositories on GitHub (e.g. <a href="https://github.com/carstenbauer/JuliaUCL24/">this one</a>) to get an impression of some of the content. Feel free to <a href="#contact">contact me</a> if you're interested!
+                I regularly give Julia courses, often with a focus on high-performance computing, at universities, research institutions, and companies. Go ahead and check out my public repositories on GitHub (e.g. <a href="https://github.com/carstenbauer/JuliaUCL24/">this one</a>) to get an impression of some of the content. Feel free to <a href="#contact">reach out</a> if you're interested!
 
-                <br><br>
-                The next workshops, which are open to the public, will take place at <a href="https://www.hlrs.de">HLRS</a> (09/2024) and <a href="https://www.tudelft.nl/cse">TU Delft DCSE</a> (10/2024). 
-                <!-- the University of Cologne (check out our <a href="https://vimeo.com/showcase/6910448">computer physics videos</a>). I also give Julia workshops as a freelancer, most recently at the <a href="https://www.oulu.fi/university/">University of Oulu</a> in Finland. Check out the repositories linked below to get an impression of some of the covered content. -->
-                    <!-- Somewhat related, I also gave a short talk at <a href="https://juliacon.org/2018/">JuliaCon 2018</a> in London which you can find <a href="https://www.youtube.com/watch?v=BmVd7pw6Trc">on youtube</a>. You might also want to check out <a href="https://github.com/JuliaPhysics/PhysicsTutorials.jl">PhysicsTutorials.jl</a>. -->
+                <!-- <br><br>
+                The next workshops, which are open to the public, will take place at <a href="https://www.hlrs.de">HLRS</a> (09/2024) and <a href="https://www.tudelft.nl/cse">TU Delft DCSE</a> (10/2024).  -->
                 </p>
             </div>
             <div class="col-lg-1"></div>
         </div>
 
 
-        <h4 class="text-center" style="margin-top:50px;">Selected Workshops</h4>
-        <div class="row" style="display:flex; margin-top:80px;">
-            <div class="col-sm-1"></div>
-            <div class="col-lg-7">
-            <a href="https://github-pages.arc.ucl.ac.uk/julia-hpc-2024/"><img id="imageresource" src="img/juliaucl.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
-            </div>
-            <div class="col-lg-6">
-            <a href="https://www.hlrs.de/training/2023/julia"><img id="imageresource" src="img/JuliaHLRS.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
-            </div>
-            <!-- <div class="col-lg-6">
-            <a href="https://github.com/carstenbauer/JuliaCologne21"><img id="imageresource" src="img/JuliaCologne21_poster.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
-            </div> -->
-            <!-- <div class="col-lg-6">
-            <a href="https://github.com/carstenbauer/JuliaNRW21"><img id="imageresource" src="img/JuliaNRW21_poster.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
-            </div> -->
-<!--             <div class="col-lg-6">
-            <a href="https://github.com/carstenbauer/JuliaNRW21"><img id="imageresource" src="img/JuliaNRW21_poster.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
-            </div> -->
-            <div class="col-lg-6">
-            <a href="https://github.com/carstenbauer/JuliaOulu20"><img id="imageresource" src="img/JuliaOulu20_poster.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
-            </div>
-<!--             <div class="col-lg-6">
-            <a href="https://github.com/carstenbauer/JuliaWorkshop19"><img id="imageresource" src="img/julia_workshop_poster.png" height="400px" style="display:block;margin-left:auto;margin-right:auto;margin-top:0%;margin-bottom:20%;border:1px solid black;"></a>
-            </div> -->
-        </div>
-
-        <div class="row" style="display:flex; margin-top:5px; margin-bottom: 50px; align-items: center;">
+        <!-- <h4 class="text-center" style="margin-top:50px;">Past Partners / Customers</h4> -->
+        <div class="row" style="display:flex; margin-top:80px; margin-bottom: 50px; align-items: center;">
             <div class="col-sm-1"></div>
             <div class="col-lg-6">
                 <a href="https://www.ucl.ac.uk/"><img style="display: block; margin: auto auto auto auto;" src="img/UCL.png" width="250px"></a>
@@ -287,17 +272,32 @@
             <div class="col-lg-5">
                 <a href="https://www.hlrs.de/"><img style="display: block; margin: auto auto auto auto;" src="img/Hlrs-logo.jpg" width="250px"></a>
             </div>
-            <!-- <div class="col-lg-5">
-                <a href="http://www.thp.uni-koeln.de"><img style="display: block; margin: auto auto auto auto;" src="img/Logo_THP.svg" width="200px"></a>
-            </div> -->
-            <!-- <div class="col-lg-5">
-                <a href="https://hpc.dh.nrw"><img style="display: block; margin: auto auto auto auto;" src="img/hpc_nrw.png" width="230px"></a>
-            </div> -->
-<!--             <div class="col-lg-5">
-                <a href="https://www.uni-koeln.de"><img style="display: block; margin: auto auto auto auto;" src="img/LogoUoC.svg" width="250px"></a>
-            </div> -->
             <div class="col-lg-5">
                 <a href="https://www.oulu.fi/university/"><img style="display: block; margin: -20px auto auto auto;" src="img/oulu_logo.svg" width="250px"></a>
+            </div>
+        </div>
+        <div class="row" style="display:flex; margin-top:80px; margin-bottom: 50px; align-items: center;">
+            <div class="col-sm-1"></div>
+            <div class="col-lg-6">
+                <a href="http://www.thp.uni-koeln.de"><img style="display: block; margin: auto auto auto auto;" src="img/Logo_THP.svg" width="200px"></a>
+            </div>
+            <div class="col-lg-5">
+                <a href="https://hpc.dh.nrw"><img style="display: block; margin: auto auto auto auto;" src="img/TUDelft-logo_black.png" width="230px"></a>
+            </div>
+            <div class="col-lg-5">
+                <a href="https://hpc.dh.nrw"><img style="display: block; margin: auto auto auto auto;" src="img/hpc_nrw.png" width="230px"></a>
+            </div>
+        </div>
+        <div class="row" style="display:flex; margin-top:80px; margin-bottom: 50px; align-items: center;">
+            <div class="col-sm-1"></div>
+            <div class="col-lg-6">
+                <a href="http://www.nhr-verein.de"><img style="display: block; margin: auto auto auto auto;" src="img/NHR_Logo_Grau.svg" width="100px"></a>
+            </div>
+            <div class="col-lg-5">
+                <a href="https://www.uni-koeln.de"><img style="display: block; margin: auto auto auto auto;" src="img/LogoUoC.svg" width="230px"></a>
+            </div>
+            <div class="col-lg-5">
+                <a href="https://www.uni-koeln.de"><img style="display: block; margin: auto auto auto auto; filter: grayscale(1);" src="img/juliacon.svg" width="210px"></a>
             </div>
         </div>
     </section>
@@ -313,6 +313,7 @@
 
             <div class="col-lg-8">
             <h4><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120" class="hidden-link">Metallic quantum criticality and high-temperature superconductivity</a></h4>
+            <h5>Method: Quantum Monte Carlo</h5>
             <p style="text-align: justify;">
             In this work, we present numerically exact results from sign-problem free quantum Monte Carlo simulations for a spin-fermion model near an \(O(3)\) symmetric antiferromagnetic (AFM) quantum critical point. We find a hierarchy of energy scales that emerges near the quantum critical point. At high energy scales, there is a broad regime characterized by Landau-damped order parameter dynamics with dynamical critical exponent \(z=2\), while the fermionic excitations remain coherent. The quantum critical magnetic fluctuations are well described by Hertz-Millis theory, except for a \(T^{-2}\) divergence of the static AFM susceptibility. This regime persists down to a lower energy scale, where the fermions become overdamped and concomitantly, a transition into a  \(d-\)wave superconducting state occurs. These findings resemble earlier results for a spin-fermion model with easy-plane AFM fluctuations of an \(O(2)\) SDW order parameter, despite noticeable differences in the perturbative structure of the two theories. In the \(O(3)\) case, perturbative corrections to the spin-fermion vertex are expected to dominate at an additional energy scale, below which the \(z=2\) behavior breaks down, leading to a novel \(z=1\) fixed point with emergent local nesting at the hot spots [Schlief <i>et. al.</i> PRX 7, 2017]. Motivated by this prediction, we also consider a variant of the model where the hot spots are nearly locally nested. Within the available temperature range in our study (\(T\ge E_F/200\), we find substantial deviations from the \(z=2\) Hertz-Millis behavior, but no evidence for the predicted \(z=1\) criticality.<br><br>
 
@@ -331,6 +332,7 @@
         <div class="row" style="display:flex; margin-top:100px;">
             <div class="col-lg-7">
             <h4><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120" class="hidden-link">Machine learning transport properties of quantum matter</a></h4>
+            <h5>Method: Machine Learning (Customized)</h5>
             <p style="text-align: justify;">
             Quantum many-fermion systems give rise to diverse states of matter that often reveal themselves in distinctive transport properties. While some of these states can be captured by microscopic models it remains challenging to numerically access their transport properties. Here we demonstrate that a machine learning technique dubbed quantum loop topography (QLT) can be used to directly probe transport by machine learning current-current correlations in imaginary time. We showcase this approach by studying the emergence of superconducting fluctuations in the negative-U Hubbard model and a spin-fermion model for a metallic quantum critical point. For both models, we find that the QLT approach detects a change in transport in very good agreement with their established phase diagrams. These proof-of-principle calculations combined with the numerical efficiency of the QLT approach point a way to identify hitherto elusive transport phenomena such as non-Fermi liquids using machine learning algorithms.<br><br>
 
@@ -354,6 +356,7 @@
 
             <div class="col-lg-8">
             <h4><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.121409" class="hidden-link">Quasiparticle velocity renormalization in graphene</a></h4>
+            <h5>Method: Functional Renormalization Group (FRG)</h5>
             <p style="text-align: justify;">
             In this work, we take a systematic functional renormalization group (FRG) approach in studying graphene many-body effects at the Dirac point due to long-range Coulomb interactions. In particular, we examine the renormalization of the quasiparticle velocity, as observed in recent experiments, by establishing a low-energy effective QFT and deriving an infinite hierarchy of exact flow equations for the irreducible n-point vertices of the theory. By means of a scaling dimension analysis, we deduce a system of coupled integro-differential equations describing the momentum-dependent renormalized quasiparticle velocity and dielectric function in graphene at arbitrary scales. Focusing on the static screening limit, the full numerical solutions indicates that the linear low-energy dispersion (Dirac cone) gets strongly modified by long-range Coulomb interactions in the vicinity of the Dirac point.<br><br>
 
@@ -369,6 +372,7 @@
         <div class="row" style="display:flex; margin-top:100px;">
             <div class="col-lg-7">
             <h4><a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033160" class="hidden-link">Parallel Quantum Chemistry on Noisy Quantum Computers</a></h4>
+            <h5>Method: Quantum Computing</h5>
             <p style="text-align: justify;">
             A novel parallel hybrid quantum-classical algorithm for the solution of the quantum-chemical ground-state energy problem on gate-based quantum computers is presented. This approach is based on the reduced density-matrix functional theory (RDMFT) formulation of the electronic structure problem. For that purpose, the density-matrix functional of the full system is decomposed into an indirectly coupled sum of density-matrix functionals for all its subsystems using the adaptive cluster approximation to RDMFT. The approximations involved in the decomposition and the adaptive cluster approximation itself can be systematically converged to the exact result. The solutions for the density-matrix functionals of the effective subsystems involves a constrained minimization over many-particle states that are approximated by parametrized trial states on the quantum computer similarly to the variational quantum eigensolver. The independence of the density-matrix functionals of the effective subsystems introduces a new level of parallelization and allows for the computational treatment of much larger molecules on a quantum computer with a given qubit count. In addition, for the proposed algorithm techniques are presented to reduce the qubit count, the number of quantum programs, as well as its depth. The new approach is demonstrated for Hubbard-like systems on IBM quantum computers based on superconducting transmon qubits.<br><br>
 
@@ -472,17 +476,14 @@ Germany), pp.877-884<br><span class="cooperation">Frankfurt</span></p>
                 </div> -->
             </div>
         </div>
-        <div class="row" style="margin-top: 80px;">
-        <!-- <div class="col-lg-3 col-lg-offset-2 text-center"> !-->
+        <!-- <div class="row" style="margin-top: 80px;">
             <div class="col-lg-3 text-center" style="padding-right: 0%">
                 <h4 class="text-left" style="margin-bottom: 35px;">Work</h4>
                 <p class="text-left">
-                    <!-- <a href="https://pc2.uni-paderborn.de">PC&#178;</a> | Paderborn Center for Parallel Computing<br> -->
                     <a href="https://www.nhr-verein.de">NHR</a> @ <a href="https://pc2.uni-paderborn.de">PC&#178;</a><br> Paderborn Center for Parallel Computing | National HPC Center<br>
                     Warburger Str. 100, 33098 Paderborn
                 </p>
 
-                <!-- <h4 class="text-left" style="margin-bottom: 30px;">Remote Office</h4> -->
                 <p class="text-left">
                     Office: Cologne (remote work)<br>
                     Phone: <a href="tel:+495251601716">+49 5251-60-1716</a><br>
@@ -497,7 +498,7 @@ Germany), pp.877-884<br><span class="cooperation">Frankfurt</span></p>
                 <h4 class="text-left">Location</h4>
                 <p class="text-left"><div id="map"></div></p>
             </div>
-        </div>
+        </div> -->
     </section>
 
 
