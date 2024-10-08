@@ -110,7 +110,7 @@
         <div class="intro-body">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-offset-5 col-md-10"> <!-- col-md-8 col-md-offset-2 !-->
+                    <div class="col-md-offset-5 col-md-8"> <!-- col-md-8 col-md-offset-2 !-->
                         <!-- <h1 class="brand-heading">Santa Barbara</h1>
                         <p class="intro-text">California, USA</p> -->
                         <h1 class="brand-heading">En Avdat</h1>
