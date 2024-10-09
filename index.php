@@ -5,7 +5,9 @@
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+    <meta name="viewport"
+        content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
 
     <title>CARSTEN BAUER</title>
 
@@ -234,70 +236,50 @@
 
 
         <h4 class="text-center" style="margin-top:50px;">Customers & Partners</h4>
-        <div class="row"
-            style="display:flex; align-items: center; margin-top:80px; margin-bottom: 50px; margin-right:5%; margin-left:5%; ">
-            <div class="col-lg-4">
-                <a href="https://www.ucl.ac.uk/"><img style="display: block; margin: auto auto auto auto;"
-                        src="img/UCL.png" width="250px"></a>
+        <div>
+            <div class="row row-workshop-partner-logos">
+                <div class="col-lg-4 workshop-partner-logo">
+                    <a href="https://www.ucl.ac.uk/"><img src="img/UCL.png" width="250px"></a>
+                </div>
+                <div class="col-lg-4 workshop-partner-logo">
+                    <a href="https://www.hlrs.de/"><img src="img/Hlrs-logo.jpg" width="250px"></a>
+                </div>
+                <div class="col-lg-4 workshop-partner-logo">
+                    <a href="https://www.oulu.fi/university/"><img src="img/oulu_logo.svg" width="250px"></a>
+                </div>
             </div>
-            <div class="col-lg-4">
-                <a href="https://www.hlrs.de/"><img style="display: block; margin: auto auto auto auto;"
-                        src="img/Hlrs-logo.jpg" width="250px"></a>
+            <div class="row row-workshop-partner-logos">
+                <div class="col-lg-4 workshop-partner-logo">
+                    <a href="http://www.thp.uni-koeln.de"><img src="img/Logo_THP.svg" width="200px"></a>
+                </div>
+                <div class="col-lg-4 workshop-partner-logo">
+                    <a href="https://www.nersc.gov/"><img src="img/NERSClogocolor.png" width="245px"></a>
+                </div>
+                <div class="col-lg-4 workshop-partner-logo">
+                    <a href="https://www.tudelft.nl"><img src="img/TUDelft-logo_black.png" width="230px"></a>
+                </div>
             </div>
-            <div class="col-lg-4">
-                <a href="https://www.oulu.fi/university/"><img style="display: block; margin: auto auto auto auto;"
-                        src="img/oulu_logo.svg" width="250px"></a>
+            <div class="row row-workshop-partner-logos">
+                <div class="col-lg-4 workshop-partner-logo">
+                    <a href="http://www.nhr-verein.de"><img src="img/NHR_LOGO_Grau.svg" width="100px"></a>
+                </div>
+                <div class="col-lg-4 workshop-partner-logo">
+                    <a href="https://www.uni-koeln.de"><img src="img/LogoUoC.svg" width="230px"></a>
+                </div>
+                <div class="col-lg-4 workshop-partner-logo">
+                    <a href="https://ethz.ch/"><img src="img/ETH.svg" width="210px"></a>
+                </div>
             </div>
-        </div>
-        <div class="row"
-            style="display:flex; align-items: center; margin-top:80px; margin-bottom: 50px; margin-right:5%; margin-left:5%; ">
-            <div class="col-lg-4">
-                <a href="http://www.thp.uni-koeln.de"><img style="display: block; margin: auto auto auto auto;"
-                        src="img/Logo_THP.svg" width="200px"></a>
-            </div>
-            <div class="col-lg-4">
-                <a href="https://www.nersc.gov/"><img
-                        style="display: block; margin: auto auto auto auto; filter: grayscale(1);"
-                        src="img/NERSClogocolor.png" width="245px"></a>
-                <!-- <a href="https://www.nersc.gov/"><img style="display: block; margin: auto auto auto auto; filter: grayscale(1);" src="img/NERSCvertLOCKUP.png" width="245px"></a> -->
-            </div>
-            <div class="col-lg-4">
-                <a href="https://www.tudelft.nl"><img style="display: block; margin: auto auto auto auto;"
-                        src="img/TUDelft-logo_black.png" width="230px"></a>
-            </div>
-        </div>
-        <div class="row"
-            style="display:flex; align-items: center; margin-top:80px; margin-bottom: 50px; margin-right:5%; margin-left:5%; ">
-            <div class="col-lg-4">
-                <a href="http://www.nhr-verein.de"><img style="display: block; margin: auto auto auto auto;"
-                        src="img/NHR_LOGO_Grau.svg" width="100px"></a>
-            </div>
-            <div class="col-lg-4">
-                <a href="https://www.uni-koeln.de"><img style="display: block; margin: auto auto auto auto;"
-                        src="img/LogoUoC.svg" width="230px"></a>
-            </div>
-            <div class="col-lg-4">
-                <a href="https://ethz.ch/"><img
-                        style="display: block; margin: auto auto auto auto; filter: grayscale(1);" src="img/ETH.svg"
-                        width="210px"></a>
-            </div>
-        </div>
-        <div class="row"
-            style="display:flex; align-items: center; margin-top:80px; margin-bottom: 80px; margin-right:5%; margin-left:5%; ">
-            <div class="col-lg-4">
-                <a href="https://hpc.dh.nrw"><img style="display: block; margin: auto auto auto auto;"
-                        src="img/hpc_nrw.png" width="230px"></a>
-            </div>
-            <div class="col-lg-4">
-                <!-- <a href="https://pc2.uni-paderborn.de"><img style="display: block; margin: auto auto auto auto; filter: grayscale(1);" src="img/Logo_PC2.png" width="180px"></a> -->
-                <a href="https://www.uni-paderborn.de"><img
-                        style="display: block; margin: auto auto auto auto; filter: grayscale(1);" src="img/LogoUPB.svg"
-                        width="250px"></a>
-            </div>
-            <div class="col-lg-4">
-                <a href="https://www.juliacon.org"><img
-                        style="display: block; margin: auto auto auto auto; filter: grayscale(1);"
-                        src="img/juliacon.svg" width="210px"></a>
+            <div class="row row-workshop-partner-logos">
+                <div class="col-lg-4 workshop-partner-logo">
+                    <a href="https://hpc.dh.nrw"><img src="img/hpc_nrw.png" width="230px"></a>
+                </div>
+                <div class="col-lg-4 workshop-partner-logo">
+                    <a href="https://www.uni-paderborn.de"><img src="img/LogoUPB.svg" width="250px"></a>
+                </div>
+                <div class="col-lg-4 workshop-partner-logo">
+                    <a href="https://www.juliacon.org"><img src="img/juliacon.svg" width="210px"></a>
+                </div>
             </div>
         </div>
     </section>

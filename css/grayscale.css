@@ -7,11 +7,12 @@
 body {
     width: 100%;
     height: 100%;
-    font-family: Source Sans Pro,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Source Sans Pro, "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #000;
-    background-color: #fafafa; /* light gray fafafa, oldwhite FAEBD7,  */
+    background-color: #fafafa;
+    /* light gray fafafa, oldwhite FAEBD7,  */
 
-	/* red orange: df4120, wild green 2c2e21 */
+    /* red orange: df4120, wild green 2c2e21 */
 }
 
 html {
@@ -22,7 +23,7 @@ html {
 h1 {
     margin: 0 0 35px;
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
 }
@@ -34,14 +35,14 @@ h5,
 h6 {
     margin: 0 0 35px;
     text-transform: uppercase;
-    font-family: PT Sans,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: PT Sans, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
 }
 
 h4 {
-	margin: 0 0 35px;
-    font-family: PT Sans,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin: 0 0 35px;
+    font-family: PT Sans, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
 }
@@ -53,7 +54,7 @@ p {
 }
 
 .small-text {
-	font-size: 14px;
+    font-size: 14px;
 }
 
 @media(min-width:768px) {
@@ -65,7 +66,8 @@ p {
 }
 
 a {
-    color: #aa0000; /** #666 **/
+    color: #aa0000;
+    /** #666 **/
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -82,12 +84,13 @@ a.hidden-link {
     transition: none;
 }
 
-a.hidden-link:hover, a.hidden-link:focus {
+a.hidden-link:hover,
+a.hidden-link:focus {
     color: #AA0000;
     -webkit-transition: none;
     -moz-transition: none;
     transition: none;
-	text-decoration: none;
+    text-decoration: none;
 }
 
 a:hover,
@@ -106,9 +109,9 @@ a:focus {
 
 .navbar-custom {
     margin-bottom: 0;
-    border-bottom: 1px solid rgba(255,255,255,.2);
+    border-bottom: 1px solid rgba(255, 255, 255, .2);
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     background-color: #AA0000;
 }
 
@@ -143,7 +146,7 @@ a:focus {
 
 .navbar-custom .nav li a:hover {
     outline: 0;
-    color: rgba(255,255,255,.8);
+    color: rgba(255, 255, 255, .8);
     background-color: transparent;
 }
 
@@ -158,7 +161,7 @@ a:focus {
 }
 
 .navbar-custom .nav li.active a {
-    background-color: rgba(255,255,255,.3);
+    background-color: rgba(255, 255, 255, .3);
 }
 
 .navbar-custom .nav li.active a:hover {
@@ -171,15 +174,16 @@ a:focus {
         border-bottom: 0;
         letter-spacing: 1px;
         background: 0 0;
-        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
-        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
-        transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -webkit-transition: background .5s ease-in-out, padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out, padding .5s ease-in-out;
+        transition: background .5s ease-in-out, padding .5s ease-in-out;
     }
 
     .navbar-custom.top-nav-collapse {
         padding: 0;
-        border-bottom: 1px solid rgba(255,255,255,.2);
-        background: #AA0000; /* original db911d, ausgewaschen E1A547, red AA0000 */
+        border-bottom: 1px solid rgba(255, 255, 255, .2);
+        background: #AA0000;
+        /* original db911d, ausgewaschen E1A547, red AA0000 */
     }
 }
 
@@ -210,28 +214,28 @@ a:focus {
 
 @media(min-width:768px) {
     .intro {
-		display: table;
+        display: table;
         height: 100%;
         padding: 0;
-		/* background: url(../img/yosemite_valley.jpg) no-repeat bottom center scroll; */
-		/* background: url(../img/santa_barbara_botanical.jpg) no-repeat bottom center scroll; */
-		background: url(../img/en_avdat_trees.jpg) no-repeat bottom center scroll;
-		/* background: url(../img/en_gedi_jordan.jpg) no-repeat bottom center scroll; */
-		background-color: #000;
-		-webkit-background-size: cover;
-		-moz-background-size: cover;
-		background-size: cover;
-		-o-background-size: cover;
+        /* background: url(../img/yosemite_valley.jpg) no-repeat bottom center scroll; */
+        /* background: url(../img/santa_barbara_botanical.jpg) no-repeat bottom center scroll; */
+        background: url(../img/en_avdat_trees.jpg) no-repeat bottom center scroll;
+        /* background: url(../img/en_gedi_jordan.jpg) no-repeat bottom center scroll; */
+        background-color: #000;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
     }
 
     .intro .intro-body .brand-heading {
         font-size: 100px;
-		color: #fff;
+        color: #fff;
     }
 
     .intro .intro-body .intro-text {
         font-size: 26px;
-		color: #fff;
+        color: #fff;
     }
 }
 
@@ -241,7 +245,7 @@ a:focus {
     margin-top: 15px;
     padding: 7px 16px;
     border: 2px solid #fff;
-    border-radius: 100%!important;
+    border-radius: 100% !important;
     font-size: 40px;
     color: #fff;
     background: 0 0;
@@ -254,7 +258,7 @@ a:focus {
 .btn-circle:focus {
     outline: 0;
     color: #fff;
-    background: rgba(255,255,255,.1);
+    background: rgba(255, 255, 255, .1);
 }
 
 .btn-circle i.animated {
@@ -310,8 +314,8 @@ a:focus {
 }
 
 .content-section {
-	padding-top: 80px;
-	padding-bottom: 80px;
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
 
 .download-section {
@@ -332,45 +336,47 @@ a:focus {
     background-color: #333;
 }
 
-.dark-bg a, .dark-bg a:focus, .dark-bg a:active {
+.dark-bg a,
+.dark-bg a:focus,
+.dark-bg a:active {
     color: #fff;
-	font-style: italic;
+    font-style: italic;
 }
 
 .dark-bg a:hover {
     color: #aaa;
-	font-style: italic;
-	text-decoration: none;
+    font-style: italic;
+    text-decoration: none;
 }
 
 .dark-a {
-	color: #fff;
-	font-style: normal;
-	text-decoration: none;
+    color: #fff;
+    font-style: normal;
+    text-decoration: none;
 }
 
 .dark-a :hover {
-	text-decoration: underline;
+    text-decoration: underline;
 }
 
 #map {
     width: 100%;
-	border: solid thin #aaa;
-	height: 240px;
+    border: solid thin #aaa;
+    height: 240px;
 }
 
 .debug-border1 {
-	border: solid thin red;
+    border: solid thin red;
 }
 
 .debug-border2 {
-	border: solid thin blue;
+    border: solid thin blue;
 }
 
 @media(min-width:767px) {
     .content-section {
         padding-top: 150px;
-		padding-bottom: 150px;
+        padding-bottom: 150px;
     }
 
     .download-section {
@@ -385,7 +391,7 @@ a:focus {
 .btn {
     border-radius: 0;
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 400;
     -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
@@ -430,7 +436,7 @@ ul.banner-social-buttons {
 
 footer {
     padding: 10px 0;
-/*	width: 100%;
+    /*	width: 100%;
     color: #fff;
     background-color: #333;
 	height: 150px;*/
@@ -454,15 +460,15 @@ footer a:hover {
 ::-moz-selection {
     text-shadow: none;
     background: #AA0000;
-    background: rgba(170, 0, 0,1);
-	color: #fff;
+    background: rgba(170, 0, 0, 1);
+    color: #fff;
 }
 
 ::selection {
     text-shadow: none;
     background: #AA0000;
-    background: rgba(170, 0, 0,1);
-	color: #fff;
+    background: rgba(170, 0, 0, 1);
+    color: #fff;
 }
 
 img::selection {
@@ -474,41 +480,88 @@ img::-moz-selection {
 }
 
 body {
-    webkit-tap-highlight-color: rgba(255,255,255,.2);
+    webkit-tap-highlight-color: rgba(255, 255, 255, .2);
 }
 
-.cooperation{
+.cooperation {
     color: #dad7cb;
-    font-weight: 600;"
+    font-weight: 600;
+    "
+
 }
 
 
 #captcha {
-	width: 304px;
+    width: 304px;
     margin: 0 auto;
 }
 
 #captcharesult {
-	height: 160px;
-	padding-top: 30px;
+    height: 160px;
+    padding-top: 30px;
 }
 
 .center {
-	width: 70px;
+    width: 70px;
     margin: 0 auto;
 }
 
 .top-seperator {
-	border-top: solid thin #aaa;
+    border-top: solid thin #aaa;
 }
 
 .bottom-seperator {
-	border-bottom: solid thin gray;
+    border-bottom: solid thin gray;
 }
 
 .modal.modal-wide .modal-dialog {
-  width: 70%;
+    width: 70%;
 }
+
 .modal-wide .modal-body {
-  overflow-y: auto;
+    overflow-y: auto;
+}
+
+.row-workshop-partner-logos {
+    display: block;
+    align-items: center;
+    margin-right: 5%;
+    margin-left: 5%;
+    /* border: 2px solid red; */
+}
+
+.workshop-partner-logo img {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    filter: grayscale(1);
+    /* border: 2px solid blue; */
+}
+
+.workshop-partner-logo {
+    display: block;
+    margin: auto auto auto auto;
+    filter: grayscale(1);
+    width: 100%;
+}
+
+@media(min-width:992px) {
+    .row-workshop-partner-logos {
+        display: flex;
+        margin-top: 80px;
+        margin-bottom: 50px;
+    }
+
+    .workshop-partner-logo {
+        display: block;
+        margin: auto auto auto auto;
+        filter: grayscale(1);
+        width: 100%;
+    }
+
+    .workshop-partner-logo img {
+        margin: auto auto auto auto;
+    }
 }
