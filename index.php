@@ -196,7 +196,7 @@
                         University</a> (Prof. Steve Kivelson), the <a href="https://www.uchicago.edu/">University of
                         Chicago</a>, and the <a href="https://www.weizmann.ac.il/pages/">Weizmann Institute of
                         Science</a> (Prof. Erez Berg). Besides physics, I took various computer science courses at <a
-                        href="http://tu-darmstadt.de">TU Darmstadt</a><br>
+                        href="http://tu-darmstadt.de">TU Darmstadt</a>.<br>
 
                 </p>
             </div>
