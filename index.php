@@ -206,9 +206,9 @@
     <!-- Workshops Section -->
     <section id="workshops" class="container content-section top-seperator">
         <h2 class="text-center">Workshops</h2>
-        <div class="row" style="display:block; margin-top:80px;">
+        <div class="row row-workshops-txt" style="margin-top: 80px;">
             <!-- <div class="col-lg-16"> -->
-            <p style="text-align: justify; margin-right:12%; margin-left:12%;">
+            <p style="text-align: justify; margin-right:10%; margin-left:10%;">
                 I regularly give workshops at universities and private research institutions, mostly with a focus on
                 scientific numerical computing, high-performance computing and research software engineering. If you're
                 curious, feel free to reach out. I'm looking forward to your <a href="#contact">inquiry</a>!
@@ -216,9 +216,9 @@
             <!-- </div> -->
         </div>
 
-        <h4 class="text-center">Julia for HPC Workshop</h4>
-        <div class="row" style="display:block; margin-top:30px;">
-            <p style="text-align: justify; margin-right:12%; margin-left:12%;">
+        <h4 class="text-center" style="margin-top:10px;">Julia for HPC Workshop</h4>
+        <div class="row row-workshops-txt" style="margin-top:30px;">
+            <p style="text-align: justify; margin-right:10%; margin-left:10%;">
                 <a href="http://julialang.org">Julia</a> is a beautiful programming language for numerical computing
                 that is free to use and open source. It explores the tradeoffs in language design for dynamic
                 programming languages and aims to be as accessible as Python while still being as fast as statically
@@ -234,7 +234,7 @@
         </div>
 
 
-        <h4 class="text-center" style="margin-top:20px; margin-bottom:60px;">Customers & Partners</h4>
+        <h4 class="text-center" style="margin-top:25px; margin-bottom:65px;">Customers & Partners</h4>
         <div>
             <div class="row row-workshop-partner-logos">
                 <div class="col-lg-4 workshop-partner-logo">
@@ -284,7 +284,7 @@
     </section>
 
     <!-- Science Section -->
-    <section id="science" class="container content-section top-seperator" style="padding-right: 80px;">
+    <section id="science" class="container content-section top-seperator">
         <h2 class="text-center">Science</h2>
 
         <div class="row row-science">
@@ -333,12 +333,12 @@
         </div>
 
         <div class="row row-science">
-            <div class="col-lg-6 science-img-div">
+            <div class="science-img-div">
                 <a href="#" class="hidden-link" id="popqlt" onclick="return false;"><img id="imageresource"
-                        src="img/architecture.svg" width="400px"></a>
+                        src="img/architecture.svg" width="370px"></a>
             </div>
 
-            <div class="col-lg-8 science-text-div">
+            <div class="science-text-div">
                 <h4><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120"
                         class="hidden-link">Machine learning transport properties of quantum matter</a></h4>
                 <h5>Method: Machine Learning (Customized)</h5>
@@ -370,12 +370,12 @@
         </div>
 
         <div class="row row-science">
-            <div class="col-lg-6 science-img-div">
+            <div class="science-img-div">
                 <a href="#" class="hidden-link" id="pop2" onclick="return false;"><img id="imageresource"
                         src="img/graphene.png" width="200px"></a>
             </div>
 
-            <div class="col-lg-8 science-text-div">
+            <div class="science-text-div">
                 <h4><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.121409"
                         class="hidden-link">Quasiparticle velocity renormalization in graphene</a></h4>
                 <h5>Method: Functional Renormalization Group (FRG)</h5>
@@ -404,12 +404,12 @@
         </div>
 
         <div class="row row-science">
-            <div class="col-lg-6 science-img-div">
+            <div class="science-img-div">
                 <a href="#" class="hidden-link" id="popqc" onclick="return false;"><img id="imageresource"
                         src="img/qchybrid.svg" width="300px"></a>
             </div>
 
-            <div class="col-lg-8 science-text-div">
+            <div class="science-text-div">
                 <h4><a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033160"
                         class="hidden-link">Parallel Quantum Chemistry on Noisy Quantum Computers</a></h4>
                 <h5>Method: Quantum Computing</h5>
@@ -447,7 +447,7 @@
     <!-- Publications -->
     <section id="publications" class="container content-section dark-bg">
         <div class="row row-publication">
-        <!-- <div class="row"> -->
+            <!-- <div class="row"> -->
             <h2 class="text-center">Publications</h2>
             <h3>2024</h3>
             <!-- <p><a href="https://doi.org/10.17815/jlsrf-8-187" >&quot;Noctua 2 Supercomputer&quot;</a><br><b>Carsten Bauer</b> et al.<br>Journal of Large-Scale Research Facilities <b>9</b><br><span class="cooperation">PC2 / NHR</span></p> -->
