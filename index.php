@@ -129,14 +129,13 @@
     </header>
 
     <!-- About Section -->
-    <section id="about" class="container content-section" style="padding-right: 70px;">
+    <section id="about" class="container content-section">
         <h2 class="text-center">About Me</h2>
-        <div class="row" style="display:flex; margin-top:80px;margin-bottom: 50px;">
+        <div class="row row-about">
             <div class="col-lg-5">
-                <img id="imageresource" src="img/carsten_bauer_cropped.jpg" width="270px"
-                    style="display:block;margin-left:auto;margin-right:auto;margin-top:5%;margin-bottom:7%;border-radius: 2%;">
+                <img class="about-img" id="imageresource" src="img/carsten_bauer_cropped.jpg" width="270px">
 
-                <div style="align-items: center; text-align: center;">
+                <div class="about-icons">
                     <a style="color: black" href="#" target="_blank" data-gen-email><i class="fa fa-envelope fa-fw"
                             style="font-size:27px;">&nbsp;</i></a>
                     <a style="color: black" href="https://github.com/carstenbauer"><i class="fa fa-github fa-fw"
@@ -235,7 +234,7 @@
         </div>
 
 
-        <h4 class="text-center" style="margin-top:50px;">Customers & Partners</h4>
+        <h4 class="text-center" style="margin-top:20px; margin-bottom:60px;">Customers & Partners</h4>
         <div>
             <div class="row row-workshop-partner-logos">
                 <div class="col-lg-4 workshop-partner-logo">
@@ -288,14 +287,13 @@
     <section id="science" class="container content-section top-seperator" style="padding-right: 80px;">
         <h2 class="text-center">Science</h2>
 
-        <div class="row" style="display:flex; margin-top:100px;">
-            <div class="col-lg-6">
+        <div class="row row-science">
+            <div class="science-img-div">
                 <a href="#" class="hidden-link" id="popsdw" onclick="return false;"><img id="imageresource"
-                        src="img/sdwscales.png" width="290px"
-                        style="display:block;margin-left:auto;margin-right:auto;margin-top:40%;margin-bottom:25%;"></a>
+                        src="img/sdwscales.png" width="290px"></a>
             </div>
 
-            <div class="col-lg-8">
+            <div class="science-text-div">
                 <h4><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120"
                         class="hidden-link">Metallic quantum criticality and high-temperature superconductivity</a></h4>
                 <h5>Method: Quantum Monte Carlo</h5>
@@ -324,9 +322,6 @@
                         href="https://scipost.org/SciPostPhysCore.2.2.011">numerics paper</a>, <a
                         href="https://github.com/carstenbauer/StableDQMC.jl">numerics package</a>, <a
                         href="http://carstenbauer.eu/Dissertation_CBauer_A5.pdf">thesis</a>
-                    <!--             <br>
-            Numerical stabilization: <a href="https://scipost.org/SciPostPhysCore.2.2.011">paper</a>, <a href="https://github.com/carstenbauer/dqmc">code</a> -->
-
                     <br>
                     <a href="https://www.uni-koeln.de"><img src="img/LogoUoC.svg" width=110px
                             style="margin-right: 50px"></a>
@@ -337,8 +332,13 @@
             </div>
         </div>
 
-        <div class="row" style="display:flex; margin-top:100px;">
-            <div class="col-lg-7">
+        <div class="row row-science">
+            <div class="col-lg-6 science-img-div">
+                <a href="#" class="hidden-link" id="popqlt" onclick="return false;"><img id="imageresource"
+                        src="img/architecture.svg" width="400px"></a>
+            </div>
+
+            <div class="col-lg-8 science-text-div">
                 <h4><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120"
                         class="hidden-link">Machine learning transport properties of quantum matter</a></h4>
                 <h5>Method: Machine Learning (Customized)</h5>
@@ -367,22 +367,15 @@
                     <a href="https://www.cornell.edu"><img src="img/cornell.svg" width=200px></a>
                 </p>
             </div>
-
-            <div class="col-lg-6">
-                <a href="#" class="hidden-link" id="popqlt" onclick="return false;"><img id="imageresource"
-                        src="img/architecture.svg" width="400px"
-                        style="display:block;margin-left:auto;margin-right:auto;margin-top:25%;margin-bottom:25%;float:right;"></a>
-            </div>
         </div>
 
-        <div class="row" style="display:flex; margin-top:100px;">
-            <div class="col-lg-6">
+        <div class="row row-science">
+            <div class="col-lg-6 science-img-div">
                 <a href="#" class="hidden-link" id="pop2" onclick="return false;"><img id="imageresource"
-                        src="img/graphene.png" width="200px"
-                        style="display:block;margin-left:auto;margin-right:auto;margin-top:25%;margin-bottom:25%;"></a>
+                        src="img/graphene.png" width="200px"></a>
             </div>
 
-            <div class="col-lg-8">
+            <div class="col-lg-8 science-text-div">
                 <h4><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.121409"
                         class="hidden-link">Quasiparticle velocity renormalization in graphene</a></h4>
                 <h5>Method: Functional Renormalization Group (FRG)</h5>
@@ -410,8 +403,13 @@
             </div>
         </div>
 
-        <div class="row" style="display:flex; margin-top:100px;">
-            <div class="col-lg-7">
+        <div class="row row-science">
+            <div class="col-lg-6 science-img-div">
+                <a href="#" class="hidden-link" id="popqc" onclick="return false;"><img id="imageresource"
+                        src="img/qchybrid.svg" width="300px"></a>
+            </div>
+
+            <div class="col-lg-8 science-text-div">
                 <h4><a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033160"
                         class="hidden-link">Parallel Quantum Chemistry on Noisy Quantum Computers</a></h4>
                 <h5>Method: Quantum Computing</h5>
@@ -443,108 +441,100 @@
                             style="margin-right: 50px"></a>
                 </p>
             </div>
-
-            <div class="col-lg-6">
-                <a href="#" class="hidden-link" id="popqc" onclick="return false;"><img id="imageresource"
-                        src="img/qchybrid.svg" width="300px"
-                        style="display:block;margin-left:auto;margin-right:auto;margin-top:20%;margin-bottom:25%;float:right;"></a>
-            </div>
         </div>
     </section>
 
     <!-- Publications -->
     <section id="publications" class="container content-section dark-bg">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-                <h2 class="text-center">Publications</h2>
+        <div class="row row-publication">
+        <!-- <div class="row"> -->
+            <h2 class="text-center">Publications</h2>
+            <h3>2024</h3>
+            <!-- <p><a href="https://doi.org/10.17815/jlsrf-8-187" >&quot;Noctua 2 Supercomputer&quot;</a><br><b>Carsten Bauer</b> et al.<br>Journal of Large-Scale Research Facilities <b>9</b><br><span class="cooperation">PC2 / NHR</span></p> -->
 
-                <h3>2024</h3>
-                <!-- <p><a href="https://doi.org/10.17815/jlsrf-8-187" >&quot;Noctua 2 Supercomputer&quot;</a><br><b>Carsten Bauer</b> et al.<br>Journal of Large-Scale Research Facilities <b>9</b><br><span class="cooperation">PC2 / NHR</span></p> -->
+            <p><a href="https://doi.org/10.17815/jlsrf-8-187">&quot;Noctua 2 Supercomputer&quot;</a><br><b>Carsten
+                    Bauer</b>, Tobias Kenter, Michael Lass, Lukas Mazur, Marius Meyer, Holger Nitsche, Heinrich
+                Riebler,<br> Robert Schade, Michael Schwarz, Nils Winnwa, Alex Wiens, Xin Wu, Christian Plessl, and
+                Jens Simon<br>Journal of Large-Scale Research Facilities <b>9</b><br><span class="cooperation">PC2 /
+                    NHR</span></p>
 
-                <p><a href="https://doi.org/10.17815/jlsrf-8-187">&quot;Noctua 2 Supercomputer&quot;</a><br><b>Carsten
-                        Bauer</b>, Tobias Kenter, Michael Lass, Lukas Mazur, Marius Meyer, Holger Nitsche, Heinrich
-                    Riebler,<br> Robert Schade, Michael Schwarz, Nils Winnwa, Alex Wiens, Xin Wu, Christian Plessl, and
-                    Jens Simon<br>Journal of Large-Scale Research Facilities <b>9</b><br><span class="cooperation">PC2 /
-                        NHR</span></p>
+            <h3>2022</h3>
+            <p><a href="https://arxiv.org/abs/2211.02740">&quot;Bridging HPC Communities through the Julia
+                    Programming Language&quot;</a><br>Valentin Churavy, William F Godoy, <b>Carsten Bauer</b>,
+                Hendrik Ranocha, Michael Schlottke-Lakemper, Ludovic R&auml;ss,<br>Johannes Blaschke, Mosè Giordano,
+                Erik Schnetter, Samuel Omlin, Jeffrey S. Vetter, and Alan Edelman<br>arXiv:2211.02740<br><span
+                    class="cooperation">PC2 - MIT - ORNL - NERSC - HLRS - CSCS - and more</span></p>
 
-                <h3>2022</h3>
-                <p><a href="https://arxiv.org/abs/2211.02740">&quot;Bridging HPC Communities through the Julia
-                        Programming Language&quot;</a><br>Valentin Churavy, William F Godoy, <b>Carsten Bauer</b>,
-                    Hendrik Ranocha, Michael Schlottke-Lakemper, Ludovic R&auml;ss,<br>Johannes Blaschke, Mosè Giordano,
-                    Erik Schnetter, Samuel Omlin, Jeffrey S. Vetter, and Alan Edelman<br>arXiv:2211.02740<br><span
-                        class="cooperation">PC2 - MIT - ORNL - NERSC - HLRS - CSCS - and more</span></p>
+            <p><a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033160">&quot;Parallel
+                    Quantum Chemistry on Noisy Intermediate-Scale Quantum Computers&quot;</a><br>Robert Schade,
+                <b>Carsten Bauer</b>, Konstantin Tamoev, Lukas Mazur, Christian Plessl, and Thomas D. Kühne<br>Phys.
+                Rev. Research <b>4</b>, 033160<br><span class="cooperation">PC2 / NHR</span>
+            </p>
 
-                <p><a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033160">&quot;Parallel
-                        Quantum Chemistry on Noisy Intermediate-Scale Quantum Computers&quot;</a><br>Robert Schade,
-                    <b>Carsten Bauer</b>, Konstantin Tamoev, Lukas Mazur, Christian Plessl, and Thomas D. Kühne<br>Phys.
-                    Rev. Research <b>4</b>, 033160<br><span class="cooperation">PC2 / NHR</span>
-                </p>
+            <h3>2021</h3>
+            <p><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.046601">&quot;Identification
+                    of Non-Fermi Liquid Physics in a Quantum Critical Metal via Quantum Loop
+                    Topography&quot;</a><br>George Driskell, Samuel Lederer, <b>Carsten Bauer</b>, Simon Trebst, and
+                Eun-Ah Kim<br>Phys. Rev. Lett. <b>127</b>, 046601<br><span class="cooperation">Cologne -
+                    Cornell</span></p>
 
-                <h3>2021</h3>
-                <p><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.046601">&quot;Identification
-                        of Non-Fermi Liquid Physics in a Quantum Critical Metal via Quantum Loop
-                        Topography&quot;</a><br>George Driskell, Samuel Lederer, <b>Carsten Bauer</b>, Simon Trebst, and
-                    Eun-Ah Kim<br>Phys. Rev. Lett. <b>127</b>, 046601<br><span class="cooperation">Cologne -
-                        Cornell</span></p>
+            <h3>2020</h3>
+            <p>PhD thesis: <a href="http://kups.ub.uni-koeln.de/id/eprint/35405">&quot;Simulating and machine
+                    learning quantum criticality in a nearly antiferromagnetic metal&quot;</a><br>Advisor: Prof. Dr.
+                Simon Trebst<br><a href="http://carstenbauer.eu/Dissertation_CBauer_A5.pdf">Thesis PDF</a>, <a
+                    href="http://carstenbauer.eu/phddefense.key">Defense Talk</a></p>
 
-                <h3>2020</h3>
-                <p>PhD thesis: <a href="http://kups.ub.uni-koeln.de/id/eprint/35405">&quot;Simulating and machine
-                        learning quantum criticality in a nearly antiferromagnetic metal&quot;</a><br>Advisor: Prof. Dr.
-                    Simon Trebst<br><a href="http://carstenbauer.eu/Dissertation_CBauer_A5.pdf">Thesis PDF</a>, <a
-                        href="http://carstenbauer.eu/phddefense.key">Defense Talk</a></p>
+            <p><a href="https://scipost.org/10.21468/SciPostPhysCore.2.2.011">&quot;Fast and stable determinant
+                    Quantum Monte Carlo&quot;</a><br><b>Carsten Bauer</b><br>SciPost Phys. Core 2, 2 (<a
+                    href="https://github.com/carstenbauer/StableDQMC.jl">source code @ GitHub</a>)<br><span
+                    class="cooperation">Cologne</span></p>
 
-                <p><a href="https://scipost.org/10.21468/SciPostPhysCore.2.2.011">&quot;Fast and stable determinant
-                        Quantum Monte Carlo&quot;</a><br><b>Carsten Bauer</b><br>SciPost Phys. Core 2, 2 (<a
-                        href="https://github.com/carstenbauer/StableDQMC.jl">source code @ GitHub</a>)<br><span
-                        class="cooperation">Cologne</span></p>
+            <p><a href="https://link.aps.org/doi/10.1103/PhysRevResearch.2.023008">&quot;Hierarchy of energy scales
+                    in an O(3) symmetric
+                    antiferromagnetic quantum critical metal: a Monte Carlo study&quot;</a><br>
+                <b>Carsten Bauer</b>, Yoni Schattner, Simon Trebst, and Erez Berg<br>
+                Phys. Rev. Research <b>2</b>, 023008 (<a href="https://github.com/carstenbauer/dqmc">source code @
+                    GitHub</a>)<br>
+                <span class="cooperation">Cologne - Stanford - Weizmann</span>
+            </p>
 
-                <p><a href="https://link.aps.org/doi/10.1103/PhysRevResearch.2.023008">&quot;Hierarchy of energy scales
-                        in an O(3) symmetric
-                        antiferromagnetic quantum critical metal: a Monte Carlo study&quot;</a><br>
-                    <b>Carsten Bauer</b>, Yoni Schattner, Simon Trebst, and Erez Berg<br>
-                    Phys. Rev. Research <b>2</b>, 023008 (<a href="https://github.com/carstenbauer/dqmc">source code @
-                        GitHub</a>)<br>
-                    <span class="cooperation">Cologne - Stanford - Weizmann</span>
-                </p>
+            <h3>2019</h3>
+            <p><a
+                    href="http://www.john-von-neumann-institut.de/nic/EN/News/Symposium/NIC-Symposium-2020/Proceedings/_node.html">&quot;Machine
+                    Learning Transport Properties in Quantum
+                    Many-Fermion Simulations&quot;</a> (<a href="https://juser.fz-juelich.de/record/874367">record
+                    entry</a>)<br><b>Carsten Bauer</b>, Simon Trebst<br>In NIC Symposium 2020, Vol. 50, pp. 85–92,
+                Forschungszentrum Jülich GmbH Zentralbibliothek, Verlag<br><span class="cooperation">Cologne</span>
+            </p>
 
-                <h3>2019</h3>
-                <p><a
-                        href="http://www.john-von-neumann-institut.de/nic/EN/News/Symposium/NIC-Symposium-2020/Proceedings/_node.html">&quot;Machine
-                        Learning Transport Properties in Quantum
-                        Many-Fermion Simulations&quot;</a> (<a href="https://juser.fz-juelich.de/record/874367">record
-                        entry</a>)<br><b>Carsten Bauer</b>, Simon Trebst<br>In NIC Symposium 2020, Vol. 50, pp. 85–92,
-                    Forschungszentrum Jülich GmbH Zentralbibliothek, Verlag<br><span class="cooperation">Cologne</span>
-                </p>
+            <h3>2018</h3>
+            <p><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120">&quot;Probing transport in
+                    quantum many-fermion simulations via quantum loop topography&quot;</a><br>Yi Zhang, <b>Carsten
+                    Bauer</b>, Peter Broecker, Simon Trebst, and Eun-Ah Kim<br>Phys. Rev. B <b>99</b>, 161120(R),
+                Editors' Suggestion<br><span class="cooperation">Cologne - Cornell</span></p>
 
-                <h3>2018</h3>
-                <p><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120">&quot;Probing transport in
-                        quantum many-fermion simulations via quantum loop topography&quot;</a><br>Yi Zhang, <b>Carsten
-                        Bauer</b>, Peter Broecker, Simon Trebst, and Eun-Ah Kim<br>Phys. Rev. B <b>99</b>, 161120(R),
-                    Editors' Suggestion<br><span class="cooperation">Cologne - Cornell</span></p>
+            <h3>2015</h3>
+            <p><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.121409">&quot;Nonperturbative
+                    renormalization group calculation of quasiparticle velocity and dielectric function of
+                    graphene&quot;</a><br><b>Carsten Bauer</b>, Andreas Rückriegel, Anand Sharma, and Peter
+                Kopietz<br>Phys. Rev. B <b>92</b>, 121409(R)<br><span class="cooperation">Frankfurt</span></p>
 
-                <h3>2015</h3>
-                <p><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.121409">&quot;Nonperturbative
-                        renormalization group calculation of quasiparticle velocity and dielectric function of
-                        graphene&quot;</a><br><b>Carsten Bauer</b>, Andreas Rückriegel, Anand Sharma, and Peter
-                    Kopietz<br>Phys. Rev. B <b>92</b>, 121409(R)<br><span class="cooperation">Frankfurt</span></p>
+            <p>Master's thesis: <a href="http://carstenbauer.eu/master.pdf">&quot;Quasi-particle velocity
+                    renormalization in graphene&quot;</a><br>
+                Invited talk @ University of Cologne: <a
+                    href="http://carstenbauer.eu/Graphene_FRG_Cologne.pdf">&quot;Quasi-particle velocity
+                    renormalization in graphene&quot;</a><br>
+                Advisor: <a class="dark-a" href="http://itp.uni-frankfurt.de/~kopietz/"><span class="dark-a">Prof.
+                        Dr. Peter Kopietz</span></a></p>
 
-                <p>Master's thesis: <a href="http://carstenbauer.eu/master.pdf">&quot;Quasi-particle velocity
-                        renormalization in graphene&quot;</a><br>
-                    Invited talk @ University of Cologne: <a
-                        href="http://carstenbauer.eu/Graphene_FRG_Cologne.pdf">&quot;Quasi-particle velocity
-                        renormalization in graphene&quot;</a><br>
-                    Advisor: <a class="dark-a" href="http://itp.uni-frankfurt.de/~kopietz/"><span class="dark-a">Prof.
-                            Dr. Peter Kopietz</span></a></p>
+            <h3>2013</h3>
+            <p><a
+                    href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6581690&newsearch=true&queryText=13711128">&quot;Microwave-based
+                    tumor localization in moderate heterogeneous breast tissue&quot;</a><br>Jochen Moll, <b>Carsten
+                    Bauer</b>, and Viktor Krozer<br> International Radar Symposium (Dresden,
+                Germany), pp.877-884<br><span class="cooperation">Frankfurt</span></p>
 
-                <h3>2013</h3>
-                <p><a
-                        href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6581690&newsearch=true&queryText=13711128">&quot;Microwave-based
-                        tumor localization in moderate heterogeneous breast tissue&quot;</a><br>Jochen Moll, <b>Carsten
-                        Bauer</b>, and Viktor Krozer<br> International Radar Symposium (Dresden,
-                    Germany), pp.877-884<br><span class="cooperation">Frankfurt</span></p>
-
-                <p><br><a href="https://arxiv.org/a/bauer_c_3.html">All preprints on arxiv.org</a></p>
-            </div>
+            <p><br><a href="https://arxiv.org/a/bauer_c_3.html">All preprints on arxiv.org</a></p>
         </div>
     </section>
 
@@ -595,7 +585,7 @@
 
 
 
-    <!-- Creates the bootstrap modal where the images will appear -->
+    <!-- Creates the bootstrap modal where the images will appear
     <div class="modal modal-wide fade" id="imagemodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
         aria-hidden="true">
         <div class="modal-dialog">
@@ -610,7 +600,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
 
 </body>

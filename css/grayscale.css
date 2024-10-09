@@ -550,11 +550,125 @@ body {
 @media(min-width:992px) {
     .row-workshop-partner-logos {
         display: flex;
-        margin-top: 80px;
-        margin-bottom: 50px;
+        /* margin-top: 40px; */
+        margin-bottom: 20px;
     }
 
     .workshop-partner-logo img {
         margin: auto auto auto auto;
+    }
+}
+
+#workshops {
+    margin-bottom: 150px;
+}
+
+#science {
+    margin-bottom: 150px;
+}
+
+
+.row-science {
+    display: block;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.science-img-div img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.science-text-div {
+    margin-bottom: 80px;
+}
+
+/* display:block;margin-left:auto;margin-right:auto;margin-top:25%;margin-bottom:25%;float:right; */
+
+@media(min-width:992px) {
+    .row-science {
+        display: flex;
+        margin-top: 60px;
+    }
+
+    .science-img-div img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 40%;
+        margin-bottom: 25%;
+    }
+
+    .science-text-div {
+        margin-bottom: 0px;
+        width: 60%;
+    }
+
+    .science-img-div {
+        width: 40%;
+    }
+}
+
+
+.row-publication {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media (min-width: 768px) {
+    .row-publication {
+        width: 750px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media (min-width: 992px) {
+    .row-publication {
+        width: 970px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media (min-width: 1200px) {
+    .row-publication {
+        width: 1170px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+.row-about {
+    margin-bottom: 50px;
+    margin-left: 12%;
+    margin-right: 12%;
+}
+
+.about-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 7%;
+    border-radius: 2%;
+}
+
+.about-icons {
+    align-items: center;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+@media (min-width: 768px) {
+    .row-about {
+        /* display:flex; */
+        /* margin-top:80px; */
+        margin-left: 0%;
+        margin-right: 0%;
     }
 }
