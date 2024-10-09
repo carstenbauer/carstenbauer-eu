@@ -554,13 +554,6 @@ body {
         margin-bottom: 50px;
     }
 
-    .workshop-partner-logo {
-        display: block;
-        margin: auto auto auto auto;
-        filter: grayscale(1);
-        width: 100%;
-    }
-
     .workshop-partner-logo img {
         margin: auto auto auto auto;
     }
