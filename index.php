@@ -151,8 +151,8 @@
             <div class="col-lg-7">
                 <p style="text-align: justify;">
                     I'm a computational physicists an <b>research software engineer</b> with a focus on high-performance
-                    computing (HPC) and computational physics. As part of the <a
-                        href="https://www.nhr-verein.de">National High-Performance Computing Alliance (NHR)</a>, I
+                    computing (HPC). As part of the <a href="https://www.nhr-verein.de">National High-Performance
+                        Computing Alliance (NHR)</a>, I
                     optimize - and help other people optimize - HPC codes and develop tools for monitoring and tuning
                     the (parallel-)performance of software.
 
@@ -174,7 +174,7 @@
                     <br>
                     <br>
                     I actively contribute to many free and <b>open source software projects</b>, mostly focused on
-                    scientific computing and <a href="https://julialang.org/">Julia</a>. In particular, I act as a
+                    scientific computing and <a href="https://julialang.org/">Julia</a>. In particular, I am a
                     co-organizer of <a href="https://juliacon.org/">JuliaCon</a> and, until recently, was
                     editor-in-chief of the <a href="https://proceedings.juliacon.org/">Julia Proceedings</a>.
                     <br>
@@ -211,7 +211,7 @@
             <p style="text-align: justify; margin-right:10%; margin-left:10%;">
                 I regularly give workshops at universities and private research institutions, mostly with a focus on
                 scientific numerical computing, high-performance computing and research software engineering. If you're
-                curious, feel free to reach out. I'm looking forward to your <a href="#contact">inquiry</a>!
+                curious, feel free to <a href="#contact">reach out</a>. I'm looking forward to your inquiry!
             </p>
             <!-- </div> -->
         </div>
@@ -225,8 +225,7 @@
                 compiled languages (eg. C, Fortran).
                 My 4-day course is targeted at researchers who are interested in numerical computing and who want to
                 learn how to write high-performance codes in Julia. To get an impression of the content, check out e.g.
-                <a href="https://github.com/carstenbauer/JuliaUCL24/">this GitHub repository</a>. I'm looking forward to
-                your <a href="#contact">inquiry</a>!
+                <a href="https://github.com/carstenbauer/JuliaUCL24/">this GitHub repository</a>.
 
                 <!-- <br><br>
                 The next workshops, which are open to the public, will take place at <a href="https://www.hlrs.de">HLRS</a> (09/2024) and <a href="https://www.tudelft.nl/cse">TU Delft DCSE</a> (10/2024).  -->
@@ -290,7 +289,7 @@
         <div class="row row-science">
             <div class="science-img-div">
                 <a href="#" class="hidden-link" id="popsdw" onclick="return false;"><img id="imageresource"
-                        src="img/sdwscales.png" width="290px"></a>
+                        src="img/sdwscales.png" width="290px" style="margin-top: 6%;"></a>
             </div>
 
             <div class="science-text-div">
@@ -300,8 +299,10 @@
                 <p style="text-align: justify;">
                     In this work, we present numerically exact results from sign-problem free quantum Monte Carlo
                     simulations for a spin-fermion model near an \(O(3)\) symmetric antiferromagnetic (AFM) quantum
-                    critical point. We find a hierarchy of energy scales that emerges near the quantum critical point.
-                    At high energy scales, there is a broad regime characterized by Landau-damped order parameter
+                    critical point. We find a hierarchy of energy scales (see figure) that emerges near the quantum
+                    critical point, indicating the onset of Landau damping and a transition into a superconducting
+                    \(d-\)wave state.
+                    <!-- At high energy scales, there is a broad regime characterized by Landau-damped order parameter
                     dynamics with dynamical critical exponent \(z=2\), while the fermionic excitations remain coherent.
                     The quantum critical magnetic fluctuations are well described by Hertz-Millis theory, except for a
                     \(T^{-2}\) divergence of the static AFM susceptibility. This regime persists down to a lower energy
@@ -314,7 +315,8 @@
                     the hot spots [Schlief <i>et. al.</i> PRX 7, 2017]. Motivated by this prediction, we also consider a
                     variant of the model where the hot spots are nearly locally nested. Within the available temperature
                     range in our study (\(T\ge E_F/200\), we find substantial deviations from the \(z=2\) Hertz-Millis
-                    behavior, but no evidence for the predicted \(z=1\) criticality.<br><br>
+                    behavior, but no evidence for the predicted \(z=1\) criticality. -->
+                    <br><br>
 
                     Reading: <a href="https://link.aps.org/doi/10.1103/PhysRevResearch.2.023008">paper</a>, <a
                         href="http://carstenbauer.eu/sdwo3_talk.pdf">talk</a>, <a
@@ -335,25 +337,23 @@
         <div class="row row-science">
             <div class="science-img-div">
                 <a href="#" class="hidden-link" id="popqlt" onclick="return false;"><img id="imageresource"
-                        src="img/architecture.svg" width="370px"></a>
+                        src="img/architecture.svg" width="370px" style="margin-top: 28%;"></a>
             </div>
 
             <div class="science-text-div">
                 <h4><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120"
                         class="hidden-link">Machine learning transport properties of quantum matter</a></h4>
-                <h5>Method: Machine Learning (Customized)</h5>
+                <h5>Method: Quantum Loop Topography</h5>
                 <p style="text-align: justify;">
-                    Quantum many-fermion systems give rise to diverse states of matter that often reveal themselves in
-                    distinctive transport properties. While some of these states can be captured by microscopic models
-                    it remains challenging to numerically access their transport properties. Here we demonstrate that a
-                    machine learning technique dubbed quantum loop topography (QLT) can be used to directly probe
-                    transport by machine learning current-current correlations in imaginary time. We showcase this
-                    approach by studying the emergence of superconducting fluctuations in the negative-U Hubbard model
-                    and a spin-fermion model for a metallic quantum critical point. For both models, we find that the
+                    We demonstrate that a machine learning technique dubbed
+                    quantum loop topography (QLT) can be used to directly probe
+                    transport properties by machine learning current-current correlations in imaginary time. We showcase
+                    this approach by studying the emergence of relevant fluctuations in three systems: the negative-U
+                    Hubbard model, a spin-fermion model for a metallic quantum critical point, and a similar model
+                    describing nematic order. For all systems, we find that the
                     QLT approach detects a change in transport in very good agreement with their established phase
-                    diagrams. These proof-of-principle calculations combined with the numerical efficiency of the QLT
-                    approach point a way to identify hitherto elusive transport phenomena such as non-Fermi liquids
-                    using machine learning algorithms.<br><br>
+                    diagrams. For the models describing spin-density wave and nematic order, QLT reveals an extended
+                    dome-shaped non-Fermi liquid regime.<br><br>
 
                     Reading: <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.161120">paper1</a>, <a
                         href="http://www.john-von-neumann-institut.de/nic/EN/News/Symposium/NIC-Symposium-2020/Proceedings/_node.html">book
@@ -372,23 +372,22 @@
         <div class="row row-science">
             <div class="science-img-div">
                 <a href="#" class="hidden-link" id="pop2" onclick="return false;"><img id="imageresource"
-                        src="img/graphene.png" width="200px"></a>
+                        src="img/graphene.png" width="200px" style="margin-top: 31%;"></a>
             </div>
 
             <div class="science-text-div">
                 <h4><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.121409"
                         class="hidden-link">Quasiparticle velocity renormalization in graphene</a></h4>
-                <h5>Method: Functional Renormalization Group (FRG)</h5>
+                <h5>Method: Functional Renormalization Group</h5>
                 <p style="text-align: justify;">
                     In this work, we take a systematic functional renormalization group (FRG) approach in studying
                     graphene many-body effects at the Dirac point due to long-range Coulomb interactions. In particular,
-                    we examine the renormalization of the quasiparticle velocity, as observed in recent experiments, by
-                    establishing a low-energy effective QFT and deriving an infinite hierarchy of exact flow equations
-                    for the irreducible n-point vertices of the theory. By means of a scaling dimension analysis, we
-                    deduce a system of coupled integro-differential equations describing the momentum-dependent
+                    we examine the renormalization of the quasiparticle velocity, as observed in experiments, by
+                    establishing a low-energy effective QFT and deriving an infinite hierarchy of exact flow equations.
+                    By means of a scaling dimension analysis, we
+                    deduce a system of coupled integro-differential equations describing the
                     renormalized quasiparticle velocity and dielectric function in graphene at arbitrary scales.
-                    Focusing on the static screening limit, the full numerical solutions indicates that the linear
-                    low-energy dispersion (Dirac cone) gets strongly modified by long-range Coulomb interactions in the
+                    In the static screening limit, the full numerical solutions indicates that the Dirac cone gets strongly modified by long-range Coulomb interactions in the
                     vicinity of the Dirac point.<br><br>
 
                     Reading: <a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.121409">paper</a>, <a
@@ -406,7 +405,7 @@
         <div class="row row-science">
             <div class="science-img-div">
                 <a href="#" class="hidden-link" id="popqc" onclick="return false;"><img id="imageresource"
-                        src="img/qchybrid.svg" width="300px"></a>
+                        src="img/qchybrid.svg" width="300px" style="margin-top: 24%;"></a>
             </div>
 
             <div class="science-text-div">
@@ -414,8 +413,8 @@
                         class="hidden-link">Parallel Quantum Chemistry on Noisy Quantum Computers</a></h4>
                 <h5>Method: Quantum Computing</h5>
                 <p style="text-align: justify;">
-                    A novel parallel hybrid quantum-classical algorithm for the solution of the quantum-chemical
-                    ground-state energy problem on gate-based quantum computers is presented. This approach is based on
+                    We present a novel parallel hybrid quantum-classical algorithm for the solution of the quantum-chemical
+                    ground-state energy problem on gate-based quantum computers. This approach is based on
                     the reduced density-matrix functional theory (RDMFT) formulation of the electronic structure
                     problem. For that purpose, the density-matrix functional of the full system is decomposed into an
                     indirectly coupled sum of density-matrix functionals for all its subsystems using the adaptive
