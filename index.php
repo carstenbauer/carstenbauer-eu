@@ -371,39 +371,6 @@
 
         <div class="row row-science">
             <div class="science-img-div">
-                <a href="#" class="hidden-link" id="pop2" onclick="return false;"><img id="imageresource"
-                        src="img/graphene.png" width="200px" style="margin-top: 31%;"></a>
-            </div>
-
-            <div class="science-text-div">
-                <h4><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.121409"
-                        class="hidden-link">Quasiparticle velocity renormalization in graphene</a></h4>
-                <h5>Method: Functional Renormalization Group</h5>
-                <p style="text-align: justify;">
-                    In this work, we take a systematic functional renormalization group (FRG) approach in studying
-                    graphene many-body effects at the Dirac point due to long-range Coulomb interactions. In particular,
-                    we examine the renormalization of the quasiparticle velocity, as observed in experiments, by
-                    establishing a low-energy effective QFT and deriving an infinite hierarchy of exact flow equations.
-                    By means of a scaling dimension analysis, we
-                    deduce a system of coupled integro-differential equations describing the
-                    renormalized quasiparticle velocity and dielectric function in graphene at arbitrary scales.
-                    In the static screening limit, the full numerical solutions indicates that the Dirac cone gets strongly modified by long-range Coulomb interactions in the
-                    vicinity of the Dirac point.<br><br>
-
-                    Reading: <a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.121409">paper</a>, <a
-                        href="http://carstenbauer.eu/master.pdf">thesis</a>, <a
-                        href="http://carstenbauer.eu/Graphene_FRG_Cologne.pdf">talk</a>
-
-                    <br><br>
-                    <a href="https://www.uni-frankfurt.de/de"><img src="img/goethe-logo.svg" width=110px
-                            style="margin-right: 50px"></a>
-                    <a href="http://www.ufl.edu"><img src="img/uflorida.svg" width=180px></a>
-                </p>
-            </div>
-        </div>
-
-        <div class="row row-science">
-            <div class="science-img-div">
                 <a href="#" class="hidden-link" id="popqc" onclick="return false;"><img id="imageresource"
                         src="img/qchybrid.svg" width="300px" style="margin-top: 24%;"></a>
             </div>
@@ -438,6 +405,39 @@
                             style="margin-right: 50px"></a>
                     <a href="https://nhr-verein.de/"><img src="img/NHRlogo.svg" width=65px
                             style="margin-right: 50px"></a>
+                </p>
+            </div>
+        </div>
+
+        <div class="row row-science">
+            <div class="science-img-div">
+                <a href="#" class="hidden-link" id="pop2" onclick="return false;"><img id="imageresource"
+                        src="img/graphene.png" width="200px" style="margin-top: 31%;"></a>
+            </div>
+
+            <div class="science-text-div">
+                <h4><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.121409"
+                        class="hidden-link">Quasiparticle velocity renormalization in graphene</a></h4>
+                <h5>Method: Functional Renormalization Group</h5>
+                <p style="text-align: justify;">
+                    In this work, we take a systematic functional renormalization group (FRG) approach in studying
+                    graphene many-body effects at the Dirac point due to long-range Coulomb interactions. In particular,
+                    we examine the renormalization of the quasiparticle velocity, as observed in experiments, by
+                    establishing a low-energy effective QFT and deriving an infinite hierarchy of exact flow equations.
+                    By means of a scaling dimension analysis, we
+                    deduce a system of coupled integro-differential equations describing the
+                    renormalized quasiparticle velocity and dielectric function in graphene at arbitrary scales.
+                    In the static screening limit, the full numerical solutions indicates that the Dirac cone gets strongly modified by long-range Coulomb interactions in the
+                    vicinity of the Dirac point.<br><br>
+
+                    Reading: <a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.121409">paper</a>, <a
+                        href="http://carstenbauer.eu/master.pdf">thesis</a>, <a
+                        href="http://carstenbauer.eu/Graphene_FRG_Cologne.pdf">talk</a>
+
+                    <br><br>
+                    <a href="https://www.uni-frankfurt.de/de"><img src="img/goethe-logo.svg" width=110px
+                            style="margin-right: 50px"></a>
+                    <a href="http://www.ufl.edu"><img src="img/uflorida.svg" width=180px></a>
                 </p>
             </div>
         </div>
