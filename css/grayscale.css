@@ -219,7 +219,8 @@ a:focus {
         padding: 0;
         /* background: url(../img/yosemite_valley.jpg) no-repeat bottom center scroll; */
         /* background: url(../img/santa_barbara_botanical.jpg) no-repeat bottom center scroll; */
-        background: url(../img/en_avdat_trees.jpg) no-repeat bottom center scroll;
+        /* background: url(../img/en_avdat_trees.jpg) no-repeat bottom center scroll; */
+        background: url(../img/jochberg3.png) no-repeat bottom center scroll;
         /* background: url(../img/en_gedi_jordan.jpg) no-repeat bottom center scroll; */
         background-color: #000;
         -webkit-background-size: cover;

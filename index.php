@@ -120,8 +120,8 @@
             <div class="container">
                 <div class="row">
                     <!-- <div class="col-md-10"> -->
-                    <h1 class="brand-heading">En Avdat</h1>
-                    <p class="intro-text">Negev Desert, Israel</p>
+                    <h1 class="brand-heading">Jochberg</h1>
+                    <p class="intro-text">Bavaria, Germany</p>
                     <!-- </div> -->
                 </div>
             </div>
