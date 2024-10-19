@@ -144,6 +144,8 @@
                             class="fa fa-comments-o" style="font-size:30px;">&nbsp;</i></a>
                     <a style="color: black" href="https://stackoverflow.com/users/2365675/carstenbauer"><i
                             class="fa fa-stack-overflow fa-fw" style="font-size:28px;"></i></a>
+                    <a style="color: black" href="https://www.linkedin.com/in/crstnbr/"><i
+                            class="fa fa-linkedin fa-fw" style="font-size:28px;"></i></a>
                     <!-- <a href="#"><i class="fa fa-discourse" style="font-size:36px;"></i></a> -->
                 </div>
             </div>
