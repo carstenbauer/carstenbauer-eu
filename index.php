@@ -96,11 +96,14 @@
                         <a class="page-scroll" href="#activities">activities</a>
                     </li> -->
                     <li>
-                        <a class="page-scroll" href="#workshops">workshops</a>
-                    </li>
-                    <li>
                         <a class="page-scroll" href="#science">science</a>
                     </li>
+                    <li>
+                        <a class="page-scroll" href="#workshops">workshops</a>
+                    </li>
+                    <!-- <li>
+                        <a class="page-scroll" href="#software">software</a>
+                    </li> -->
                     <li>
                         <a class="page-scroll" href="#publications">publications</a>
                     </li>
@@ -205,85 +208,6 @@
         </div>
     </section>
 
-    <!-- Workshops Section -->
-    <section id="workshops" class="container content-section top-seperator">
-        <h2 class="text-center">Workshops</h2>
-        <div class="row row-workshops-txt" style="margin-top: 80px;">
-            <!-- <div class="col-lg-16"> -->
-            <p style="text-align: justify; margin-right:10%; margin-left:10%;">
-                I regularly give workshops at universities and private research institutions, mostly with a focus on
-                scientific numerical computing, high-performance computing and research software engineering. If you're
-                curious, feel free to <a href="#contact">reach out</a>. I'm looking forward to your inquiry!
-            </p>
-            <!-- </div> -->
-        </div>
-
-        <h4 class="text-center" style="margin-top:10px;">Julia for HPC Workshop</h4>
-        <div class="row row-workshops-txt" style="margin-top:30px;">
-            <p style="text-align: justify; margin-right:10%; margin-left:10%;">
-                <a href="http://julialang.org">Julia</a> is a beautiful programming language for numerical computing
-                that is free to use and open source. It explores the tradeoffs in language design for dynamic
-                programming languages and aims to be as accessible as Python while still being as fast as statically
-                compiled languages (eg. C, Fortran).
-                My 4-day course is targeted at researchers who are interested in numerical computing and who want to
-                learn how to write high-performance codes in Julia. To get an impression of the content, check out e.g.
-                <a href="https://github.com/carstenbauer/JuliaUCL24/">this GitHub repository</a>.
-
-                <!-- <br><br>
-                The next workshops, which are open to the public, will take place at <a href="https://www.hlrs.de">HLRS</a> (09/2024) and <a href="https://www.tudelft.nl/cse">TU Delft DCSE</a> (10/2024).  -->
-            </p>
-        </div>
-
-
-        <h4 class="text-center" style="margin-top:25px; margin-bottom:65px;">Customers & Partners</h4>
-        <div>
-            <div class="row row-workshop-partner-logos">
-                <div class="col-lg-4 workshop-partner-logo">
-                    <a href="https://www.ucl.ac.uk/"><img src="img/UCL.png" width="250px"></a>
-                </div>
-                <div class="col-lg-4 workshop-partner-logo">
-                    <a href="https://www.hlrs.de/"><img src="img/Hlrs-logo.jpg" width="250px"></a>
-                </div>
-                <div class="col-lg-4 workshop-partner-logo">
-                    <a href="https://www.oulu.fi/university/"><img src="img/oulu_logo.svg" width="250px"></a>
-                </div>
-            </div>
-            <div class="row row-workshop-partner-logos">
-                <div class="col-lg-4 workshop-partner-logo">
-                    <a href="http://www.thp.uni-koeln.de"><img src="img/Logo_THP.svg" width="200px"></a>
-                </div>
-                <div class="col-lg-4 workshop-partner-logo">
-                    <a href="https://www.nersc.gov/"><img src="img/NERSClogocolor.png" width="245px"></a>
-                </div>
-                <div class="col-lg-4 workshop-partner-logo">
-                    <a href="https://www.tudelft.nl"><img src="img/TUDelft-logo_black.png" width="230px"></a>
-                </div>
-            </div>
-            <div class="row row-workshop-partner-logos">
-                <div class="col-lg-4 workshop-partner-logo">
-                    <a href="http://www.nhr-verein.de"><img src="img/NHR_LOGO_Grau.svg" width="100px"></a>
-                </div>
-                <div class="col-lg-4 workshop-partner-logo">
-                    <a href="https://www.uni-koeln.de"><img src="img/LogoUoC.svg" width="230px"></a>
-                </div>
-                <div class="col-lg-4 workshop-partner-logo">
-                    <a href="https://ethz.ch/"><img src="img/ETH.svg" width="210px"></a>
-                </div>
-            </div>
-            <div class="row row-workshop-partner-logos">
-                <div class="col-lg-4 workshop-partner-logo">
-                    <a href="https://hpc.dh.nrw"><img src="img/hpc_nrw.png" width="230px"></a>
-                </div>
-                <div class="col-lg-4 workshop-partner-logo">
-                    <a href="https://www.uni-paderborn.de"><img src="img/LogoUPB.svg" width="250px"></a>
-                </div>
-                <div class="col-lg-4 workshop-partner-logo">
-                    <a href="https://www.juliacon.org"><img src="img/juliacon.svg" width="210px"></a>
-                </div>
-            </div>
-        </div>
-    </section>
-
     <!-- Science Section -->
     <section id="science" class="container content-section top-seperator">
         <h2 class="text-center">Science</h2>
@@ -304,20 +228,6 @@
                     critical point. We find a hierarchy of energy scales (see figure) that emerges near the quantum
                     critical point, indicating the onset of Landau damping and a transition into a superconducting
                     \(d-\)wave state.
-                    <!-- At high energy scales, there is a broad regime characterized by Landau-damped order parameter
-                    dynamics with dynamical critical exponent \(z=2\), while the fermionic excitations remain coherent.
-                    The quantum critical magnetic fluctuations are well described by Hertz-Millis theory, except for a
-                    \(T^{-2}\) divergence of the static AFM susceptibility. This regime persists down to a lower energy
-                    scale, where the fermions become overdamped and concomitantly, a transition into a \(d-\)wave
-                    superconducting state occurs. These findings resemble earlier results for a spin-fermion model with
-                    easy-plane AFM fluctuations of an \(O(2)\) SDW order parameter, despite noticeable differences in
-                    the perturbative structure of the two theories. In the \(O(3)\) case, perturbative corrections to
-                    the spin-fermion vertex are expected to dominate at an additional energy scale, below which the
-                    \(z=2\) behavior breaks down, leading to a novel \(z=1\) fixed point with emergent local nesting at
-                    the hot spots [Schlief <i>et. al.</i> PRX 7, 2017]. Motivated by this prediction, we also consider a
-                    variant of the model where the hot spots are nearly locally nested. Within the available temperature
-                    range in our study (\(T\ge E_F/200\), we find substantial deviations from the \(z=2\) Hertz-Millis
-                    behavior, but no evidence for the predicted \(z=1\) criticality. -->
                     <br><br>
 
                     Reading: <a href="https://link.aps.org/doi/10.1103/PhysRevResearch.2.023008">paper</a>, <a
@@ -441,6 +351,136 @@
                             style="margin-right: 50px"></a>
                     <a href="http://www.ufl.edu"><img src="img/uflorida.svg" width=180px></a>
                 </p>
+            </div>
+        </div>
+    </section>
+
+<!-- Software Section -->
+<!-- <section id="software" class="container content-section top-seperator">
+        <h2 class="text-center">Software</h2>
+
+        <div class="row row-science">
+            <div class="science-img-div">
+                <a href="#" class="hidden-link" id="popsdw" onclick="return false;"><img id="imageresource"
+                        src="img/threadpinning.png" width="290px" style="margin-top: 6%;"></a>
+            </div>
+
+            <div class="science-text-div">
+                <h4><a href="https://github.com/carstenbauer/ThreadPinning.jl"
+                        class="hidden-link">ThreadPinning.jl</h4><h5>Interactively controlling the affinity of threads</h5></a>
+                <p style="text-align: justify;">
+                    In this work, we present numerically exact results from sign-problem free quantum Monte Carlo
+                    simulations for a spin-fermion model near an \(O(3)\) symmetric antiferromagnetic (AFM) quantum
+                    critical point. We find a hierarchy of energy scales (see figure) that emerges near the quantum
+                    critical point, indicating the onset of Landau damping and a transition into a superconducting
+                    \(d-\)wave state.
+                    <br><br>
+
+                    More: <a href="https://carstenbauer.github.io/ThreadPinning.jl/stable/">documentation</a>, <a
+                        href="https://www.youtube.com/watch?v=6Whc9XtlCC0">talk</a>
+                </p>
+            </div>
+        </div>
+
+        <div class="row row-science">
+            <div class="science-img-div">
+                <a href="#" class="hidden-link" id="popsdw" onclick="return false;"><img id="imageresource"
+                        src="img/likwid.png" width="290px" style="margin-top: 6%;"></a>
+            </div>
+
+            <div class="science-text-div">
+                <h4><a href="https://github.com/JuliaPerf/LIKWID.jl"
+                        class="hidden-link">LIKWID.jl: Like I Knew What I'm Doing</h4></a><h5>Hardware-level performance monitoring</h5>
+                <p style="text-align: justify;">
+                    In this work, we present numerically exact results from sign-problem free quantum Monte Carlo
+                    simulations for a spin-fermion model near an \(O(3)\) symmetric antiferromagnetic (AFM) quantum
+                    critical point. We find a hierarchy of energy scales (see figure) that emerges near the quantum
+                    critical point, indicating the onset of Landau damping and a transition into a superconducting
+                    \(d-\)wave state.
+                    <br><br>
+
+                    More: <a href="https://juliaperf.github.io/LIKWID.jl/dev/">documentation</a>, <a
+                        href="https://www.youtube.com/watch?v=l2fTNfEDPC0">talk</a>
+                </p>
+            </div>
+        </div>
+    </section> -->
+
+<!-- Workshops Section -->
+<section id="workshops" class="container content-section top-seperator">
+        <h2 class="text-center">Workshops</h2>
+        <div class="row row-workshops-txt" style="margin-top: 80px;">
+            <!-- <div class="col-lg-16"> -->
+            <p style="text-align: justify; margin-right:10%; margin-left:10%;">
+                I regularly give workshops at universities and private research institutions, mostly with a focus on
+                scientific numerical computing, high-performance computing and research software engineering. If you're
+                curious, feel free to <a href="#contact">reach out</a>. I'm looking forward to your inquiry!
+            </p>
+            <!-- </div> -->
+        </div>
+
+        <h4 class="text-center" style="margin-top:10px;">Julia for HPC Workshop</h4>
+        <div class="row row-workshops-txt" style="margin-top:30px;">
+            <p style="text-align: justify; margin-right:10%; margin-left:10%;">
+                <a href="http://julialang.org">Julia</a> is a beautiful programming language for numerical computing
+                that is free to use and open source. It explores the tradeoffs in language design for dynamic
+                programming languages and aims to be as accessible as Python while still being as fast as statically
+                compiled languages (eg. C, Fortran).
+                My 4-day course is targeted at researchers who are interested in numerical computing and who want to
+                learn how to write high-performance codes in Julia. To get an impression of the content, check out e.g.
+                <a href="https://github.com/carstenbauer/JuliaUCL24/">this GitHub repository</a>.
+
+                <!-- <br><br>
+                The next workshops, which are open to the public, will take place at <a href="https://www.hlrs.de">HLRS</a> (09/2024) and <a href="https://www.tudelft.nl/cse">TU Delft DCSE</a> (10/2024).  -->
+            </p>
+        </div>
+
+
+        <h4 class="text-center" style="margin-top:25px; margin-bottom:65px;">Customers & Partners</h4>
+        <div>
+            <div class="row row-workshop-partner-logos">
+                <div class="col-lg-4 workshop-partner-logo">
+                    <a href="https://www.ucl.ac.uk/"><img src="img/UCL.png" width="250px"></a>
+                </div>
+                <div class="col-lg-4 workshop-partner-logo">
+                    <a href="https://www.hlrs.de/"><img src="img/Hlrs-logo.jpg" width="250px"></a>
+                </div>
+                <div class="col-lg-4 workshop-partner-logo">
+                    <a href="https://www.oulu.fi/university/"><img src="img/oulu_logo.svg" width="250px"></a>
+                </div>
+            </div>
+            <div class="row row-workshop-partner-logos">
+                <div class="col-lg-4 workshop-partner-logo">
+                    <a href="http://www.thp.uni-koeln.de"><img src="img/Logo_THP.svg" width="200px"></a>
+                </div>
+                <div class="col-lg-4 workshop-partner-logo">
+                    <a href="https://www.nersc.gov/"><img src="img/NERSClogocolor.png" width="245px"></a>
+                </div>
+                <div class="col-lg-4 workshop-partner-logo">
+                    <a href="https://www.tudelft.nl"><img src="img/TUDelft-logo_black.png" width="230px"></a>
+                </div>
+            </div>
+            <div class="row row-workshop-partner-logos">
+                <div class="col-lg-4 workshop-partner-logo">
+                    <a href="http://www.nhr-verein.de"><img src="img/NHR_LOGO_Grau.svg" width="100px"></a>
+                </div>
+                <div class="col-lg-4 workshop-partner-logo">
+                    <a href="https://www.uni-koeln.de"><img src="img/LogoUoC.svg" width="230px"></a>
+                </div>
+                <div class="col-lg-4 workshop-partner-logo">
+                    <a href="https://ethz.ch/"><img src="img/ETH.svg" width="210px"></a>
+                </div>
+            </div>
+            <div class="row row-workshop-partner-logos">
+                <div class="col-lg-4 workshop-partner-logo">
+                    <a href="https://hpc.dh.nrw"><img src="img/hpc_nrw.png" width="230px"></a>
+                </div>
+                <div class="col-lg-4 workshop-partner-logo">
+                    <a href="https://www.uni-paderborn.de"><img src="img/LogoUPB.svg" width="250px"></a>
+                </div>
+                <div class="col-lg-4 workshop-partner-logo">
+                    <a href="https://www.juliacon.org"><img src="img/juliacon.svg" width="210px"></a>
+                </div>
             </div>
         </div>
     </section>
